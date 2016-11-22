@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rookie-fitting-rsses on The Alpha&#39;s Guide to the Galaxy</title>
+    <link>https://iviguera.github.io/alpha-guide/rookie-fitting/index.xml</link>
+    <description>Recent content in Rookie-fitting-rsses on The Alpha&#39;s Guide to the Galaxy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2016 17:26:45 -0800</lastBuildDate>
+    <atom:link href="https://iviguera.github.io/alpha-guide/rookie-fitting/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fit Your Rookie Ship</title>
+      <link>https://iviguera.github.io/alpha-guide/rookie-fitting/</link>
+      <pubDate>Fri, 18 Nov 2016 17:26:45 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/rookie-fitting/</guid>
+      <description>&lt;p&gt;Now that you&amp;rsquo;re done with the tutorial (and probably just got your ship blown up),
+you might be wondering what to do next.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t panic!&lt;/p&gt;
+
+&lt;p&gt;The easiest ship to get your hands on is your own race&amp;rsquo;s corvette (typically known
+as a &amp;ldquo;rookie ship&amp;rdquo;). You get one for free if you don&amp;rsquo;t have any other ships in the
+station you&amp;rsquo;re in. In fact, you probably already have one if you docked up after
+exploding.&lt;/p&gt;
+
+&lt;p&gt;You can significantly improve the effectiveness of your rookie ship by properly fitting
+it with modules bought from the market. Select your race below to see a suggested fit
+for your racial rookie ship that you can use without having to train more skills.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/rookie-fitting/amarr/&#34;&gt;Amarr&lt;/a&gt; / &lt;a href=&#34;https://iviguera.github.io/alpha-guide/rookie-fitting/caldari/&#34;&gt;Caldari&lt;/a&gt; /
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/rookie-fitting/gallente/&#34;&gt;Gallente&lt;/a&gt; / &lt;a href=&#34;https://iviguera.github.io/alpha-guide/rookie-fitting/minmatar/&#34;&gt;Minmatar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amarr (Impairor)</title>
+      <link>https://iviguera.github.io/alpha-guide/rookie-fitting/amarr/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/rookie-fitting/amarr/</guid>
+      <description>
+
+&lt;p&gt;The Amarr corvette is the Impairor.&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34;
+  data=&#34;https://o.smium.org/api/convert/118270/svg/118270-alpha-impairor.svg?privatetoken=2365660861286055936&#34;&gt;
+&lt;a href=&#34;https://o.smium.org/loadout/private/118270/2365660861286055936&#34;&gt;View Alpha Impairor on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+&lt;p&gt;Since rookie ships are frigates, they use weapons from the &amp;lsquo;small&amp;rsquo; size bracket.
+This fit uses two &lt;code&gt;Gatling Pulse Laser I&lt;/code&gt; turrets in the high slots.
+Pulse lasers are shorter ranged but easier to fit than beam lasers.
+Because you&amp;rsquo;re generally going to be fighting things at close range
+in a rookie ship, using a shorter-ranged weapon system is fine.&lt;/p&gt;
+
+&lt;p&gt;The pulse lasers are each loaded with a single &lt;code&gt;Multifrequency S&lt;/code&gt; crystal.
+These basic crystals will never burn out, so all you need to buy is two.
+Multifrequency is the shortest-ranged basic crystal, but does the most damage.
+Since you&amp;rsquo;re going to be fighting a close range anyway, more damage is good.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;Since the Impairor is bonused for armor resistances, this fit is designed around armor.
+It uses a &lt;code&gt;Small Armor Repairer I&lt;/code&gt; in one of the low slots. It also fits a &lt;code&gt;Damage Control I&lt;/code&gt;
+which increases the ship&amp;rsquo;s resistances, reducing incoming damage and making the armor repairer
+more effective.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;1MN Afterburner I&lt;/code&gt; provides your ship with additional speed. This both makes it easier to
+catch enemy ships and also makes your ship harder to hit.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Stasis Webifier I&lt;/code&gt; helps your lasers apply their damage better, because it&amp;rsquo;s easier to hit
+the slower targets. (It also makes it easier to stay in range of the slower enemies.)&lt;/p&gt;
+
+&lt;h3 id=&#34;where-do-i-get-this-stuff&#34;&gt;Where do I get this stuff?&lt;/h3&gt;
+
+&lt;p&gt;You may already have some of these modules, but if you don&amp;rsquo;t, it&amp;rsquo;s time to go use the Market.
+The next chapter will walk you through how to effectively use the market to purchase items.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Caldari (Ibis)</title>
+      <link>https://iviguera.github.io/alpha-guide/rookie-fitting/caldari/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/rookie-fitting/caldari/</guid>
+      <description>
+
+&lt;p&gt;The Caldari corvette is the Ibis.&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; 
+    data=&#34;https://o.smium.org/api/convert/118274/svg/118274-alpha-ibis.svg?privatetoken=7738987711079383040&#34;&gt;
+    &lt;a href=&#34;https://o.smium.org/loadout/private/118274/7738987711079383040&#34;&gt;View Alpha Ibis on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+&lt;p&gt;Rookie ships (corvettes) use weapons from the &amp;lsquo;small&amp;rsquo; size bracket.
+This fit uses two &lt;code&gt;75mm Gatling Rail I&lt;/code&gt; turrets in the high slots.
+Railguns are a long-ranged weapon system, relative to Blasters, the short-ranged hybrid-gun option.
+While they pack a bit less punch, the Railguns let you engage sooner,
+without spending as much time flying into range while taking enemy fire.&lt;/p&gt;
+
+&lt;p&gt;Unlike civilian guns, these - and most other weapons - have to be loaded with ammunition to function.
+The railguns are loaded with &lt;code&gt;Antimatter Charge S&lt;/code&gt; rounds.
+You should carry at least 1000 rounds with you.
+They are the shortest-range hybrid ammunition, but inflict the most damage.&lt;/p&gt;
+
+&lt;p&gt;When used in combination with the long-range railguns, they allow you to fight effectively at medium range.
+You will usually want to command your ship to orbit at about 2500m from your target.
+Being too near or too far from a moving target may cause your shots to miss.&lt;/p&gt;
+
+&lt;p&gt;Additionally, the Ibis fits a &lt;code&gt;Magnetic Field Stabilizer I&lt;/code&gt; in a low slot.
+This passively increases the damage output and rate of fire of its railguns.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;Since the Ibis is bonused for shield resistances, this fit is designed around shields.
+It uses a &lt;code&gt;Small Shield Booster I&lt;/code&gt; in one of the medium slots.
+While leaving it active for extended periods can severely strain the ship&amp;rsquo;s capacitor,
+it will greatly increase survivability when used in short bursts.&lt;/p&gt;
+
+&lt;p&gt;The Ibis also fits a &lt;code&gt;Damage Control I&lt;/code&gt;, which increases the ship&amp;rsquo;s resistances,
+reducing incoming damage and making the shield booster work more effectively.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;1MN Afterburner I&lt;/code&gt; provides your ship with additional speed.
+This makes it easier to bring enemy ships into an appropriate range for your guns,
+and to maintain that distance.  The increased speed can also help you evade enemy fire.&lt;/p&gt;
+
+&lt;h3 id=&#34;where-do-i-get-this-stuff&#34;&gt;Where do I get this stuff?&lt;/h3&gt;
+
+&lt;p&gt;You may already have some of these modules, but if you don&amp;rsquo;t, it&amp;rsquo;s time to go use the Market.
+The next chapter will walk you through how to effectively use the market to purchase items.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gallente (Velator)</title>
+      <link>https://iviguera.github.io/alpha-guide/rookie-fitting/gallente/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/rookie-fitting/gallente/</guid>
+      <description>
+
+&lt;p&gt;The Gallente corvette is the Velator.&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; 
+data=&#34;https://o.smium.org/api/convert/118273/svg/118273-alpha-velator.svg?privatetoken=614629525367554048&#34;&gt;
+&lt;a href=&#34;https://o.smium.org/loadout/private/118273/614629525367554048&#34;&gt;View Alpha Velator on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+&lt;p&gt;Rookie ships (corvettes) use weapons from the &amp;lsquo;small&amp;rsquo; size bracket.
+This fit uses two &lt;code&gt;75mm Gatling Rail I&lt;/code&gt; turrets in the high slots.
+Railguns are a long-ranged weapon system, relative to Blasters, the short-ranged hybrid-gun option.
+While they pack a bit less punch, the Railguns let you engage sooner,
+without spending as much time flying into range while taking enemy fire.&lt;/p&gt;
+
+&lt;p&gt;Unlike civilian guns, these - and most other weapons - have to be loaded with ammunition to function.
+The railguns are loaded with &lt;code&gt;Antimatter Charge S&lt;/code&gt; rounds.
+You should carry at least 1000 rounds with you.
+They are the shortest-range hybrid ammunition, but inflict the most damage.&lt;/p&gt;
+
+&lt;p&gt;When used in combination with the long-range railguns, they allow you to fight effectively at medium range.
+You will usually want to command your ship to orbit at about 2500m from your target.
+Being too near or too far from a moving target may cause your shots to miss.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;Since the Velator is bonused for armor repairs, this fit is designed around armor.
+It uses a &lt;code&gt;Small Armor Repairer I&lt;/code&gt; in one of the low slots. It also fits a &lt;code&gt;Damage Control I&lt;/code&gt;
+which increases the ship&amp;rsquo;s resistances, reducing incoming damage and making the armor repairer
+more effective.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;1MN Afterburner I&lt;/code&gt; provides your ship with additional speed. This both makes it easier to
+catch enemy ships and makes your ship harder to hit.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Stasis Webifier I&lt;/code&gt; helps your railguns apply their damage better, because it&amp;rsquo;s easier to hit
+the slower targets. (It also makes it easier to stay in range of the slower enemies.)&lt;/p&gt;
+
+&lt;h3 id=&#34;where-do-i-get-this-stuff&#34;&gt;Where do I get this stuff?&lt;/h3&gt;
+
+&lt;p&gt;You may already have some of these modules, but if you don&amp;rsquo;t, it&amp;rsquo;s time to go use the Market.
+The next chapter will walk you through how to effectively use the market to purchase items.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Minmatar (Reaper)</title>
+      <link>https://iviguera.github.io/alpha-guide/rookie-fitting/minmatar/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/rookie-fitting/minmatar/</guid>
+      <description>
+
+&lt;p&gt;The Minmatar corvette is the Reaper.&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34;
+  data=&#34;https://o.smium.org/api/convert/118272/svg/118272-alpha-reaper.svg?privatetoken=2740732942132183040&#34;&gt;
+&lt;a href=&#34;https://o.smium.org/loadout/private/118272/2740732942132183040&#34;&gt;View Alpha Reaper on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+&lt;p&gt;Rookie ships (corvettes) use weapons from the &amp;lsquo;small&amp;rsquo; size bracket.
+This fit uses two &lt;code&gt;125mm Gatling AutoCannon I&lt;/code&gt; turrets in the high slots.
+Autocannons are shorter ranged but faster firing than artillery.
+Because you&amp;rsquo;re generally going to be fighting things at close range
+in a rookie ship, using a shorter-ranged weapon system is fine.&lt;/p&gt;
+
+&lt;p&gt;The autocannons are loaded with 200 &lt;code&gt;Fusion S&lt;/code&gt; each, but you should carry at least 2000
+extra ammo in your cargo hold to make sure you don&amp;rsquo;t run out while fighting.&lt;/p&gt;
+
+&lt;p&gt;Fusion is one of the shorter-ranged projectile ammo types, but does more explosive damage.
+Since you&amp;rsquo;re going to be fighting a close range anyway, more damage is good.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Gyrostabilizer I&lt;/code&gt; in one of the low slots improves your projectile turrets, increasing
+their damage per shot and rate of fire.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;Since the Reaper is bonused for shield boosters, this fit is based around shields. It uses a
+&lt;code&gt;Small Shield Booster I&lt;/code&gt; in one of the mid slots. (A medium shield booster could fit, but it
+uses much more capacitor for each cycle, which on a rookie ship will quickly run out.)&lt;/p&gt;
+
+&lt;p&gt;The fit also uses a &lt;code&gt;Damage Control I&lt;/code&gt; in one of its low slots, which increases the ship&amp;rsquo;s
+resistances, reducing incoming damage and making the shield booster more effective.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;1MN Afterburner I&lt;/code&gt; provides your ship with additional speed. This both makes it easier to
+catch enemy ships and also makes your ship harder to hit.&lt;/p&gt;
+
+&lt;h3 id=&#34;where-do-i-get-this-stuff&#34;&gt;Where do I get this stuff?&lt;/h3&gt;
+
+&lt;p&gt;You may already have some of these modules, but if you don&amp;rsquo;t, it&amp;rsquo;s time to go use the Market.
+The next chapter will walk you through how to effectively use the market to purchase items.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

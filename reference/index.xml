@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reference-rsses on The Alpha&#39;s Guide to the Galaxy</title>
+    <link>https://iviguera.github.io/alpha-guide/reference/index.xml</link>
+    <description>Recent content in Reference-rsses on The Alpha&#39;s Guide to the Galaxy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2016 18:56:39 -0800</lastBuildDate>
+    <atom:link href="https://iviguera.github.io/alpha-guide/reference/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reference Material</title>
+      <link>https://iviguera.github.io/alpha-guide/reference/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/reference/</guid>
+      <description>&lt;p&gt;The pages in this section don&amp;rsquo;t fit into the overall walkthrough in sections #1-9.&lt;/p&gt;
+
+&lt;p&gt;Feel free to browse the list of references in the menu.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Fit Ships Well</title>
+      <link>https://iviguera.github.io/alpha-guide/reference/fitting/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/reference/fitting/</guid>
+      <description>
+
+&lt;p&gt;The walkthrough portion of this guide has a number of suggested fits, but perhaps
+you want to design your own fits - or a fit for a ship that isn&amp;rsquo;t mentioned.
+Well, as they say&amp;hellip;give a capsuleer a fit and they&amp;rsquo;ll fly for a day.
+Teach a capsuleer to fit, and they&amp;rsquo;ll keep flying for the rest of their immortal life.&lt;/p&gt;
+
+&lt;p&gt;This page is intended to teach you how to do just that,
+outlining some of the theory and practice of creating your own ship fits.&lt;/p&gt;
+
+&lt;p&gt;As an alternate resource written for Omega clones, you can look at the
+&lt;a href=&#34;http://wiki.eveuniversity.org/Fitting_Guidelines&#34;&gt;EVE University Fitting Guide&lt;/a&gt;
+for another perspective.&lt;/p&gt;
+
+&lt;h3 id=&#34;we-ll-do-it-live&#34;&gt;We&amp;rsquo;ll Do It Live!&lt;/h3&gt;
+
+&lt;p&gt;(Don&amp;rsquo;t do it live.)&lt;/p&gt;
+
+&lt;p&gt;You could make a fit by simply buying modules off the market,
+then throwing together whatever you have room for.  This will result in a lot
+of wasted money, though, especially when you start messing with Rigs.&lt;/p&gt;
+
+&lt;p&gt;Instead, it&amp;rsquo;s better to simulate the fit ahead of time.
+There&amp;rsquo;s a Simulation Mode built right into the game to help you plan out your fits.
+If you open your fitting window (with alt+F), then at the top-right, there will
+be a white ship silhouette.  Clicking on that will let you enter &amp;ldquo;Simulation Mode&amp;rdquo;,
+constructing a fit from any modules in the game, using your own skills at the time,
+without having to buy a thing.  You&amp;rsquo;ll want to expand the Browser (the wrench on the left)
+and the Attributes (the tab on the right) while building.&lt;/p&gt;
+
+&lt;p&gt;Alternately, there&amp;rsquo;s several out-of-game tools to do this, the most notable being
+&lt;a href=&#34;https://github.com/pyfa-org/pyfa/releases/&#34;&gt;Python Fitting Assistant (Pyfa)&lt;/a&gt;,
+&lt;a href=&#34;https://o.smium.org/&#34;&gt;Osmium&lt;/a&gt;,
+and &lt;a href=&#34;https://forums.eveonline.com/default.aspx?g=posts&amp;amp;t=24359&#34;&gt;EVE Fitting Tool (EFT)&lt;/a&gt;,
+though EFT is no longer being updated and is now several months out of date.
+Some of these have additional features, such as seeing how the fit would
+vary with different skill levels or testing its damage application
+against a variety of targets, or they can just be used
+while you&amp;rsquo;re away from the game client itself.&lt;/p&gt;
+
+&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;
+
+&lt;p&gt;When fitting your ship, there&amp;rsquo;s a few different constraints that limit what you can use:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The ship&amp;rsquo;s &lt;strong&gt;CPU&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;The ship&amp;rsquo;s &lt;strong&gt;Power Grid.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The ship&amp;rsquo;s &lt;strong&gt;Slot Layout.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The ship&amp;rsquo;s &lt;strong&gt;Turret and Launcher Hardpoints.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You&amp;rsquo;re also limited by your skills in what you can fit,
+and the effectiveness of the modules you do fit.&lt;/p&gt;
+
+&lt;p&gt;These resources are limits: you can&amp;rsquo;t fit modules that would take you over your
+maximum CPU or Power Grid, and you can&amp;rsquo;t fit modules to slots you don&amp;rsquo;t have.
+There&amp;rsquo;s no benefit to &amp;ldquo;saving&amp;rdquo; them, though;
+a ship with 100 spare CPU doesn&amp;rsquo;t get any benefit over a ship with
+0.0 spare CPU, but a ship with -0.1 CPU left will have to offline some of its modules
+until it&amp;rsquo;s back under the limit.&lt;/p&gt;
+
+&lt;p&gt;A lot of the art of fitting, therefore, lies in spending these resources most efficiently.
+If you have spare CPU/Grid/Slots, you should be asking yourself
+&amp;ldquo;Is there a way I could use more of them to improve this fit&amp;rdquo;?
+When you&amp;rsquo;re using up a slot by fitting a module, ask yourself
+&amp;ldquo;How does this module contribute to the goal of the fit?&amp;rdquo;&lt;/p&gt;
+
+&lt;h3 id=&#34;specialization&#34;&gt;Specialization&lt;/h3&gt;
+
+&lt;p&gt;In EVE, your ship is not your character; your ship is a tool.
+Each tool has its own specified purpose.  You might be able to use a wrench
+to hammer in nails, or a screwdriver to drill a hole, but it&amp;rsquo;s far better
+to use the tool built to do those things.&lt;/p&gt;
+
+&lt;p&gt;Similarly, it&amp;rsquo;s usually better to fit a ship to be very good at one thing,
+rather than mediocre at a lot of things.  Then, when flying,
+concentrate on keeping yourself in your optimal situation whenever possible.&lt;/p&gt;
+
+&lt;p&gt;For example, it&amp;rsquo;s better to build a ship with a lot of the same type of guns
+in order to be excellent at fighting at a range of about 10km,
+rather than fitting a smattering of different weapons to do
+poor damage anywhere from 1km to 20km.
+A lot of what you&amp;rsquo;ll be doing when piloting that ship, then,
+is doing whatever you can to ensure that you and your foes stay separated by about 10km.&lt;/p&gt;
+
+&lt;p&gt;When coming up with a focus for the fit, a good first stop is to check the ship&amp;rsquo;s bonuses,
+in the &amp;ldquo;Traits&amp;rdquo; tab of its &amp;ldquo;Show Info&amp;rdquo; window.
+A ship bonused for armor repairs and hybrid turrets should probably be
+an active-tanked armor fit with blasters, not a shield-buffer droneboat.&lt;/p&gt;
+
+&lt;p&gt;One aspect of &amp;ldquo;specialization&amp;rdquo; is that you shouldn&amp;rsquo;t &amp;ldquo;dual-tank&amp;rdquo;.
+That is, don&amp;rsquo;t fit both shield and armor modules to the same ship;
+focus your resources on having a strong armor tank &lt;em&gt;or&lt;/em&gt; a strong shield tank.
+Modules for one don&amp;rsquo;t help the other, and if you can&amp;rsquo;t survive in one &amp;ldquo;layer&amp;rdquo;,
+it&amp;rsquo;s unlikely that the other will do much better.&lt;/p&gt;
+
+&lt;h3 id=&#34;slots&#34;&gt;Slots&lt;/h3&gt;
+
+&lt;p&gt;So, by now you&amp;rsquo;ve noticed that your ship has High, Medium, Low, and Rig slots.
+It might seem a little random what goes where, though.
+What separates a High slot from a Low slot, or a Medium from a Rig?&lt;/p&gt;
+
+&lt;p&gt;Every piece of equipment can be fit to exactly one of these slot types.
+Each type of slot, therefore, has a set of things that you can use that slot on.&lt;/p&gt;
+
+&lt;p&gt;If you want to browse what your options are, in the &amp;ldquo;Hardware&amp;rdquo; tab of the simulator,
+you can set the filters to only show modules for a given slot type,
+and modules that fit only with your skills and the remaining fitting resources on your ship.&lt;/p&gt;
+
+&lt;p&gt;The following sections will outline some of the main things you can use each slot type on.
+The list is not exhaustive, but covers the majority of options.&lt;/p&gt;
+
+&lt;h4 id=&#34;high-slots&#34;&gt;High Slots&lt;/h4&gt;
+
+&lt;p&gt;High slots primarily bear offensive armament - most notably,
+your ship&amp;rsquo;s weapons, whether Turrets or Launchers.
+It&amp;rsquo;s almost always best to fit as many Turrets/Launchers as you have hardpoints
+(one or the other, if your ship has both), as that&amp;rsquo;s where most of your damage will come from.&lt;/p&gt;
+
+&lt;p&gt;If you have leftover high slots after using up all Hardpoints,
+then you can fit what&amp;rsquo;s known as a &amp;ldquo;utility high&amp;rdquo;, modules that
+provide some kind of benefit other than direct damage output to your locked target.
+These can be things like Energy Neutralizers that drain your enemy&amp;rsquo;s capacitor,
+Smartbombs to deal a pulse of area damage around yourself (good for clearing drones),
+Salvagers to pick the bones of wrecks, and so on.&lt;/p&gt;
+
+&lt;p&gt;Additionally, high slots hold certain specialized equipment
+for less combat-oriented ships.  Probe Launchers for scanning ships,
+Remote Armor Repairers and Remote Shield Boosters to &amp;ldquo;heal&amp;rdquo; your allies for logistics ships,
+Tractor Beams for industrials gathering cargo ejected by allied ships,
+and so on.&lt;/p&gt;
+
+&lt;h4 id=&#34;mid-slots&#34;&gt;Mid Slots&lt;/h4&gt;
+
+&lt;p&gt;Mid slots tend to contain CPU-intensive systems.&lt;/p&gt;
+
+&lt;p&gt;One module that nearly every ship will want is a Propulsion Module
+of choice - either an Afterburner or a Microwarpdrive.&lt;/p&gt;
+
+&lt;p&gt;Mids are also used for Shield modules, meaning that they&amp;rsquo;re the
+primary &amp;ldquo;defensive&amp;rdquo; slots of most Caldari and Minmatar ships.
+Shield Boosters will restore your shields in exchange for large amounts of capacitor,
+while Shield Extenders provide a passive boost to your maximum HP
+(but make your ship slightly easier to hit).
+Whichever you choose, they&amp;rsquo;re well complemented by Shield Hardeners,
+which increase your shields&amp;rsquo; resistance to damage.&lt;/p&gt;
+
+&lt;p&gt;Mids are also used for Electronic Warfare modules, such as
+stasis webifiers, ECM, sensor dampeners, weapon disruptors, and target painters.
+Notably for PvP fits, this is where you&amp;rsquo;ll find Warp Disruptors and Warp Scramblers,
+&amp;ldquo;tackle&amp;rdquo; modules that prevent your target from simply warping away.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s also some capacitor-enhancing modules: Capacitor Batteries,
+which increase your maximum capacitor; Capacitor Rechargers,
+which passively increase your recharge rate; and Capacitor Boosters,
+which let you use Cap Booster charges as &amp;ldquo;ammo&amp;rdquo; for instant injections of energy.&lt;/p&gt;
+
+&lt;p&gt;Finally, there&amp;rsquo;s various modules that let you enhance some aspects of your own
+or other ships, usually in exchange for a small amount of capacitor.
+Tracking Computers, Sensor Boosters, Missile Guidance Computers,
+and Omnidirectional Tracking Links, among others, fall under this heading.&lt;/p&gt;
+
+&lt;h4 id=&#34;low-slots&#34;&gt;Low Slots&lt;/h4&gt;
+
+&lt;p&gt;Low slots tend to contain passive modules and/or Power Grid-intensive systems.&lt;/p&gt;
+
+&lt;p&gt;One module that nearly every ship will want is a &amp;ldquo;Damage Control&amp;rdquo;,
+which provides a mild boost to your shield and armor resistances,
+but a huge bonus to the toughness of your hull.  A Damage Control
+is one of the most efficient ways to gain EHP (Effective Hit Points),
+and will give you more time to try and warp out - or kill your attacker -
+if things are going badly.&lt;/p&gt;
+
+&lt;p&gt;Lows are also used for Armor modules, meaning that they&amp;rsquo;re the primary
+&amp;ldquo;defensive&amp;rdquo; slots of most Amarr and Gallente ships.
+Armor Repairers will restore your armor over time in exchange for capacitor,
+while Armor Plates provide a passive boost to your maximum HP (but slow down your ship).
+Whichever you choose, they&amp;rsquo;re well complemented by Armor Hardeners,
+which increase your armor&amp;rsquo;s resistance to damage.&lt;/p&gt;
+
+&lt;p&gt;The other main use is Damage Mods: passive modules that improve your
+weapons&amp;rsquo; damage and rate of fire.  There&amp;rsquo;s a different type for each weapon system:
+Gyrostabilizers for projectiles, Magnetic Field Stabilizers for hybrids,
+Heat Sinks for lasers, Ballistic Control Systems for missiles,
+and Drone Damage Amplifiers for drones.&lt;/p&gt;
+
+&lt;p&gt;Finally, lowslots can contain modules that give your ship more fitting room.
+Auxiliary Power Cores, Reactor Control Units, and Power Diagnostic Systems
+will give your ship more Power Grid, while Co-Processors will give it more CPU.
+Try not to spend too many slots on these; usually if you have to spend more
+than one or two slots on &amp;ldquo;fitting mods&amp;rdquo;, you should be scaling things back elsewhere instead.
+Slots are a resource, spend them wisely!&lt;/p&gt;
+
+&lt;h4 id=&#34;rigs&#34;&gt;Rigs&lt;/h4&gt;
+
+&lt;p&gt;Rigs are passive modifications to your ship,
+which generally trade off one attribute for another.
+Unlike modules, they cannot be removed, only destroyed or replaced with another.&lt;/p&gt;
+
+&lt;p&gt;Rigs have a &amp;ldquo;calibration cost&amp;rdquo;, which is sort of like CPU or Power Grid but applies only to rigs.
+You can&amp;rsquo;t fit rigs that exceed your ship&amp;rsquo;s maximum Calibration (usually 400, with rigs
+usually costing between 50 and 200 apiece).&lt;/p&gt;
+
+&lt;p&gt;Which rig is appropriate to your ship is going to depend highly on what you want your fit to do.
+Some common ones, though this is by no means an exhaustive list:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Shield/Armor Resistance Rigs (Anti-[TYPE] Screen Reinforcer or Anti-[TYPE] Pump)&lt;/li&gt;
+&lt;li&gt;Shield/Armor HP Rigs (Core Defense Field Extender or Trimark Armor Pump)&lt;/li&gt;
+&lt;li&gt;Capacitor Rigs (Capacitor Control Circuit or Semiconductor Memory Cell)&lt;/li&gt;
+&lt;li&gt;Fitting Rigs (Ancillary Current Router or Processor Overclocking Unit)&lt;/li&gt;
+&lt;li&gt;Weapon Rigs ([TYPE] Collision Accelerator or [TYPE] Burst Aerator)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;drones&#34;&gt;Drones&lt;/h4&gt;
+
+&lt;p&gt;A ship&amp;rsquo;s Drone Bay can be considered part of its weapon system;
+usually the best Drone Bays are found on Gallente and Amarr ships.&lt;/p&gt;
+
+&lt;p&gt;Which Drones you can use depends on the ship&amp;rsquo;s Drone Capacity and its Drone Bandwidth.
+You can see these in the &amp;ldquo;Attributes&amp;rdquo; tab of the ship&amp;rsquo;s &amp;ldquo;Show Info&amp;rdquo; window.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Light Drones take 5 m3 of space to store and 5 Mbit/sec of bandwidth to control.&lt;/li&gt;
+&lt;li&gt;Medium Drones take 10 m3 of space to store and 10 Mbit/sec of bandwidth to control.&lt;/li&gt;
+&lt;li&gt;Heavy Drones take 25 m3 of space to store and 25 Mbit/sec of bandwidth to control.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Your pilot can control no more than five drones at any one time, and two &amp;ldquo;smaller&amp;rdquo;
+drones is almost always better than one &amp;ldquo;bigger&amp;rdquo; drone.
+So, a ship with 25 Mbit/sec bandwidth and 40 m3 bay, like the Tristan,
+can control a &amp;ldquo;full flight&amp;rdquo; of five light drones with three in reserve;
+the Algos, with 35 Mbit/sec and 60 m3, would be better served by a
+primary flight of 2x Medium and 3x Light, with 5x Light in reserve.&lt;/p&gt;
+
+&lt;p&gt;As with weapons and ships, bigger isn&amp;rsquo;t always better when it comes to drones; see below.&lt;/p&gt;
+
+&lt;h3 id=&#34;module-size&#34;&gt;Module Size&lt;/h3&gt;
+
+&lt;p&gt;You&amp;rsquo;ve probably been using primarily frigates and destroyers, which use &amp;ldquo;small&amp;rdquo; modules.
+Cruisers and Battlecruisers use &amp;ldquo;medium&amp;rdquo; modules, and Battleships use &amp;ldquo;large&amp;rdquo;.
+Module sizing is primarily applied to weaponry, defensive modules, and propulsion modules.
+Capacitor Batteries and Capacitor Injectors also have size variations.&lt;/p&gt;
+
+&lt;p&gt;The primary difference is that larger modules have more raw power,
+but take massively increased amounts of powergrid to fit.
+In the case of weapons, they&amp;rsquo;ll also have difficulty tracking smaller, nimbler targets.&lt;/p&gt;
+
+&lt;p&gt;For example, a frigate&amp;rsquo;s 400mm Steel Plates give 900 armor HP,
+but add 350k kg to its mass (making it slower and more sluggish to handle)
+and costing 20 CPU and 30 grid.  By contrast, a battleship&amp;rsquo;s 1600mm Steel Plates
+give 3500 HP, but add 3.5 million kg to its mass and cost 30 tf and 500 grid.&lt;/p&gt;
+
+&lt;p&gt;Or for weapons, a full rack of 280mm Howitzer Artillery on a Thrasher-class destroyer
+will deal approximately 2000 damage a volley, and cost about 70 grid to fit,
+with a &amp;ldquo;tracking score&amp;rdquo; (how well it tracks moving targets;
+see &lt;a href=&#34;http://wiki.eveuniversity.org/Gunnery_Guide#Tracking&#34;&gt;the UniWiki Gunnery Guide&lt;/a&gt;) of about 100.
+A rack of 1400mm Howitzer Artillery on a Maelstrom-class battleship
+will deal about 10000 damage per volley, but will cost about 20,000 grid to fit
+and track a hundred times more slowly - it&amp;rsquo;ll have a hard time hitting anything but other battleships.&lt;/p&gt;
+
+&lt;p&gt;As such, frigates&amp;rsquo; small size and high speed lets them evade shots from heavier ships
+with relative ease.  If you&amp;rsquo;re thinking about moving up into a cruiser,
+keep this in mind: you should definitely use Medium guns for their better
+range and damage output, but Light drones may be of assistance
+in dispatching the pesky frigates that your guns will have difficulty tracking.&lt;/p&gt;
+
+&lt;h4 id=&#34;module-caliber&#34;&gt;Module Caliber&lt;/h4&gt;
+
+&lt;p&gt;Within size classes, there can be smaller variations.
+Most notably, most guns come in different &amp;ldquo;calibers&amp;rdquo; -
+for example, projectile Autocannons come in 125mm, 150mm, and 200mm variants.&lt;/p&gt;
+
+&lt;p&gt;A larger-caliber gun deals more damage-per-second, has a longer range,
+and has a slower refire rate (meaning it can have greatly increased &amp;ldquo;alpha-strike&amp;rdquo; damage per shot).
+In exchange, it has poorer tracking, making it less useful against fast, small, close-in targets,
+and has higher fitting costs.&lt;/p&gt;
+
+&lt;p&gt;It is most common to try and fit the largest caliber you can initially, for maximum damage,
+and then downsize the guns if you don&amp;rsquo;t have enough CPU or powergrid.
+There are some exceptions for dedicated anti-small-ship setups.&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;caliber&amp;rdquo; model somewhat holds for defensive modules, as well;
+for example, a frigate can mount a 100mm, 200mm or 400mm armor plate, with more severe
+fitting costs and speed reductions as the size increases.
+It&amp;rsquo;s almost always best to fit the largest module you can get away with,
+as this makes the most efficient use of the slot.&lt;/p&gt;
+
+&lt;p&gt;If you have sufficient fitting resources, there&amp;rsquo;s nothing to prevent you
+from fitting an &amp;ldquo;oversized&amp;rdquo; defensive module, intended for larger size classes,
+such as a battleship&amp;rsquo;s 1600mm Steel Plate mounted on a cruiser.
+This places severe strain on its powergrid, but grants excellent protection.&lt;/p&gt;
+
+&lt;p&gt;This is almost always a bad idea for weapons, however; your ship will not have bonuses for their use,
+they probably won&amp;rsquo;t be suitable to their fighting style/fighting other ships of similar size,
+your ship may not have the capacitor to maintain fire (for Hybrids and Lasers),
+and it&amp;rsquo;s doubtful you&amp;rsquo;d have the fitting space to mount a full rack in any event.&lt;/p&gt;
+
+&lt;h3 id=&#34;stacking-penalties&#34;&gt;Stacking Penalties&lt;/h3&gt;
+
+&lt;p&gt;It might be tempting to simply cram every low slot full of damage mods,
+with visions of rat-bounty ISK dancing in your head.
+However, fitting multiple modules that do the same thing will gradually decrease in effectiveness.&lt;/p&gt;
+
+&lt;p&gt;You can tell if a module&amp;rsquo;s subject to stacking penalties by looking for the phrase
+&amp;ldquo;Using more than one type of this module or similar modules that affect the same
+attribute on the ship will be penalized.&amp;rdquo; in the Description tab of their Show Info window.&lt;/p&gt;
+
+&lt;p&gt;Two modules of the same type is usually fine, as the 2nd mod is about 87% effective -
+and for modules that add a multiplicative bonus to the stat in question,
+the second can actually wind up more effective than the first.&lt;/p&gt;
+
+&lt;p&gt;The third will only be 57% effective, so it may be better to begin looking elsewhere
+for an alternate way to use that slot.&lt;/p&gt;
+
+&lt;p&gt;The fourth will be 28% effective; it&amp;rsquo;s almost always better to find something else
+to use the slot on.&lt;/p&gt;
+
+&lt;p&gt;The fifth is 10% effective, and the 6th 3% effective.  There is basically never
+a reason to fit a module that would be seeing fifth or sixth stacking penalty.&lt;/p&gt;
+
+&lt;p&gt;Stacking penalties apply to all bonuses to the same stat.  For example, if you
+have an &amp;ldquo;EM Ward Field&amp;rdquo; shield hardener boosting your shield&amp;rsquo;s EM resists,
+and an &amp;ldquo;Anti-EM Screen Reinforcer&amp;rdquo; rig also boosting your shield&amp;rsquo;s EM resists,
+the rig would face stacking penalties.  However, if it was instead an
+&amp;ldquo;Anti-Thermal Screen Reinforcer&amp;rdquo; rig to boost your Thermal resists,
+they would be improving different stats and would not be penalized.&lt;/p&gt;
+
+&lt;p&gt;Stacking penalties apply in the most favorable order to you:
+the most powerful bonus applies at full strength,
+the next-best at second stacking penalty, and so on.
+You don&amp;rsquo;t need to worry about the order you fit things.&lt;/p&gt;
+
+&lt;h3 id=&#34;resistance-is-futile&#34;&gt;Resistance Is Futile&lt;/h3&gt;
+
+&lt;p&gt;Your ship&amp;rsquo;s resistances are a critical part of its defenses.
+Having higher resists lets your HP last longer,
+making shield boosting/armor repair more effective
+and multiplying the impact of shield extenders/armor plates.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s two main strategies for how to improve your resists:&lt;/p&gt;
+
+&lt;h4 id=&#34;omni-resists&#34;&gt;Omni Resists&lt;/h4&gt;
+
+&lt;p&gt;This is the most common strategy, especially for PvP fits.
+It involves trying to make sure all of your resists
+in your primary tanking layer (shield or armor) are roughly even,
+so that you have no &amp;ldquo;resist holes&amp;rdquo; an enemy can exploit.&lt;/p&gt;
+
+&lt;p&gt;For shields, this usually means shoring up EM and Thermal.
+For armor, this usually means boosting Explosive and possibly Kinetic.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve equalized your resists, you should start applying omni-resist modules,
+such as Adaptive Nano Platings and Adaptive Invulnerability Fields.&lt;/p&gt;
+
+&lt;h4 id=&#34;resist-stacking&#34;&gt;Resist Stacking&lt;/h4&gt;
+
+&lt;p&gt;This is less common, but seen moderately often in PvE fits,
+and occasionally seen in niche PvP fits.
+If you know the damage type your opponent is going to be using,
+you can simply focus all your resistances in that category.
+This leaves your ship with glaring &amp;ldquo;resist holes&amp;rdquo; against other damage types,
+but so long as nobody shoots you in those, it can make you much stronger against your preferred foe.&lt;/p&gt;
+
+&lt;p&gt;Your primary tool for resist stacking will be damage-type-specific
+Shield Hardeners and Armor Hardeners, and possibly resistance rigs.
+Be wary of stacking penalties, however.&lt;/p&gt;
+
+&lt;p&gt;Note that canny gankers are well aware of the practice of resist stacking for missions,
+and may specifically load their weapons with a damage type not dealt by the local rats.
+If you&amp;rsquo;re ratting in dangerous space, or doing missions in an expensive ship
+that may attract unsavory attention, be forewarned of the dangers of leaving a resist hole.&lt;/p&gt;
+
+&lt;h3 id=&#34;meta-is-betta&#34;&gt;Meta Is Betta&lt;/h3&gt;
+
+&lt;p&gt;In the &amp;ldquo;improved&amp;rdquo; fits from earlier, you may have noticed some modules with somewhat odd names,
+relative to the relatively simple ones from the starter fits.
+&amp;ldquo;Sure, I know what a Light Neutron Blaster is, but what in the world
+is a &lt;code&gt;Modal Light Neutron Particle Accelerator I&lt;/code&gt;&amp;rdquo;?&lt;/p&gt;
+
+&lt;p&gt;Most modules have what are known as &amp;ldquo;meta&amp;rdquo; versions,
+which grant improved effectiveness at lower fitting costs.
+Meta modules can&amp;rsquo;t be built directly, and are instead looted from rats;
+this means their prices can vary widely, as supply and demand aren&amp;rsquo;t directly linked.&lt;/p&gt;
+
+&lt;p&gt;To see the meta versions of a module, check its &amp;ldquo;Variations&amp;rdquo; tab.
+You can also directly compare stats of the variations with the &amp;ldquo;Compare&amp;rdquo; button at the bottom.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s two types of common variations: the &amp;ldquo;meta 1-4&amp;rdquo; style, and the &amp;ldquo;specializations&amp;rdquo; style.&lt;/p&gt;
+
+&lt;h4 id=&#34;meta-1-4&#34;&gt;Meta 1-4&lt;/h4&gt;
+
+&lt;p&gt;Some modules, such as guns, simply have four alternate versions with
+gradually increasing effectiveness.  If you look in the &amp;ldquo;Attributes&amp;rdquo; tab,
+the &amp;ldquo;Meta Level&amp;rdquo; lets you know which it is - they&amp;rsquo;re also listed in increasing order
+in the Variations tab (the last one is the meta4).&lt;/p&gt;
+
+&lt;p&gt;Each meta level grants about a 5% increase to some aspect of the module.
+A meta 4 module is about 20% more effective than the baseline version.
+They also come with reductions in fitting cost,
+though the exact amounts vary from module to module.&lt;/p&gt;
+
+&lt;p&gt;Meta 4 modules tend to be much more expensive than the others.
+If you&amp;rsquo;re on a budget, a meta 3 or meta 2 module can often be had for
+dirt cheap - even cheaper than the baseline, meta 0 item.&lt;/p&gt;
+
+&lt;h4 id=&#34;specializations&#34;&gt;Specializations&lt;/h4&gt;
+
+&lt;p&gt;The new model, which CCP&amp;rsquo;s gradually converting existing modules to,
+is a more specialization-based concept - rather than &amp;ldquo;meta 4 is the best&amp;rdquo;,
+each variation has its own specific attribute it focuses on improving.&lt;/p&gt;
+
+&lt;p&gt;Modules which follow this pattern have a consistent naming convention:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Compact&amp;rdquo; modules have reduced fitting costs.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Enduring&amp;rdquo; modules have more efficient capacitor usage.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Restrained&amp;rdquo; modules have lower penalties (such as the speed reduction from armor plates).&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Ample&amp;rdquo; modules have a larger charge (ammo) capacity.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Scoped&amp;rdquo; modules have a longer range.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Upgraded&amp;rdquo; modules have moderately better stats all around.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They will often still be improvements over the base, meta 0 version even in aspects
+that don&amp;rsquo;t match their specialty; for example, a Restrained Shield Extender
+gives more HP than a baseline Shield Extender.&lt;/p&gt;
+
+&lt;h4 id=&#34;beyond-meta&#34;&gt;Beyond Meta&lt;/h4&gt;
+
+&lt;p&gt;After the tech one &amp;ldquo;meta&amp;rdquo; modules, there&amp;rsquo;s other improvements:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tech II modules (yellow), produced by industrialists,
+with higher fitting costs and larger penalties,
+but 20-50% stronger than baseline versions and about 10x as expensive&lt;/li&gt;
+&lt;li&gt;Faction modules (green), looted from rare &amp;ldquo;faction spawn&amp;rdquo; rats,
+with substantially easier fitting and better effectiveness than Tech II modules,
+but about 10x as expensive&lt;/li&gt;
+&lt;li&gt;Deadspace modules (blue), looted from Cosmic Anomaly and Cosmic Signature Combat sites
+(&amp;ldquo;dungeons&amp;rdquo; which require powerful and specialized ships to clear), tougher to fit than
+Faction modules but substantially more effective, and about 10x as expensive&lt;/li&gt;
+&lt;li&gt;Officer modules (purple), looted from extremely rare Officer spawns in deep null-security space,
+the toughest to fit but the most effective, about 10x as expensive as Deadspace modules.
+Rarely fit to anything short of supercapital vessels due to their sheer expense&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tech II modules are the &amp;ldquo;gold standard&amp;rdquo;, which most pilots will try to fit as a default.
+Meta modules let pilots ease up on fitting, while faction and deadspace modules
+allow improvements to a specific aspect of a ship - though at a great cost.
+Note that meta 4 modules are usually about as effective as Tech II.&lt;/p&gt;
+
+&lt;p&gt;As a rough estimate of costs, most modules fall somewhere near the following costs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tech I, meta-0 (baseline) modules: ~50k ISK&lt;/li&gt;
+&lt;li&gt;Meta 1-4 modules: ~10k-500k ISK&lt;/li&gt;
+&lt;li&gt;Tech II modules: ~1 million ISK&lt;/li&gt;
+&lt;li&gt;Faction modules: ~30-100 million ISK&lt;/li&gt;
+&lt;li&gt;Deadspace modules: ~250-500 million ISK&lt;/li&gt;
+&lt;li&gt;Officer modules: ~2-5 billion ISK&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There&amp;rsquo;s some sharp diminishing returns on cost.  An officer shield booster, for example,
+costs about a thousand times as much as a Tech II booster,
+but only restores about twice as much shield.&lt;/p&gt;
+
+&lt;h3 id=&#34;fitting-strategies&#34;&gt;Fitting Strategies&lt;/h3&gt;
+
+&lt;p&gt;So, it&amp;rsquo;s all well and good to say &amp;ldquo;a ship should be fit for a purpose&amp;rdquo;.
+But what purposes should you be fitting for?
+Here&amp;rsquo;s some common types of fits you&amp;rsquo;ll see.&lt;/p&gt;
+
+&lt;h4 id=&#34;pve&#34;&gt;PvE&lt;/h4&gt;
+
+&lt;p&gt;In general, for PvE, you want to fit just enough tank to make sure you survive,
+and then focus the rest of your efforts on dishing out as much damage as possible
+to take out the rats faster.&lt;/p&gt;
+
+&lt;p&gt;This means PvE fits tend to have as many lows filled with damage modules as they can get away with.&lt;/p&gt;
+
+&lt;h5 id=&#34;active-tank&#34;&gt;Active-Tank&lt;/h5&gt;
+
+&lt;p&gt;An &amp;ldquo;Active Tank&amp;rdquo; fit focuses on repairing incoming damage faster than it&amp;rsquo;s being taken.
+This lets them continue fighting as long as they can continue to run their repair modules.
+This is a natural fit for PvE, where you may be in battle and taking the full attention
+of the NPC pirates for long periods.&lt;/p&gt;
+
+&lt;p&gt;The core of an active-tank fit is its Shield Booster or Armor Repairer.
+These keep the ship in fighting trim.  They are almost always supported
+by at least a few Resistance-increasing modules, making them more efficient.
+An active-tank fit should almost never use Shield Extenders or Armor Plates;
+just as you shouldn&amp;rsquo;t mix shield and armor tanks, you shouldn&amp;rsquo;t mix active and buffer modules.&lt;/p&gt;
+
+&lt;p&gt;The second consideration is getting enough capacitor to fuel these hungry modules.
+Capacitor Control Circuits, Cap Rechargers, and in a pinch Capacitor Flux Coils (for shield fits)
+or Capacitor Power Relays (for armor) will increase your passive capacitor recharge,
+letting you run your repair modules for longer; it&amp;rsquo;s possible to become &amp;ldquo;cap-stable&amp;rdquo;,
+letting you run them indefinitely.  Typically, you won&amp;rsquo;t need to run your repair module
+flat-out at all times, as killing enemy ships will soon reduce incoming damage,
+so don&amp;rsquo;t get too hung up on cap-stability, but it can mean less module micromanagement.&lt;/p&gt;
+
+&lt;p&gt;Naturally, fit the best guns and as many damage modules (up to three or four) as you can
+get away with.  Tracking Computers/Enhancers, Stasis Webifiers, and the like
+can help you apply more damage as well.&lt;/p&gt;
+
+&lt;h5 id=&#34;passive-tank&#34;&gt;Passive-Tank&lt;/h5&gt;
+
+&lt;p&gt;A &amp;ldquo;Passive Tank&amp;rdquo; fit, only used by shield ships, relies on the passive recharge of your shields
+regenerating them faster than you take damage.  Since the recharge rate of your shields
+is based on &amp;ldquo;time to regenerate to full&amp;rdquo;, this usually involves getting a large number
+of shield HP, and is about as close as PvE fits get to the &amp;ldquo;buffer tanks&amp;rdquo; of PvP.&lt;/p&gt;
+
+&lt;p&gt;Finding the right mix of Shield Extenders, Shield Rechargers and Shield Hardeners
+can require some fiddling.
+This kind of fit typically requires going all-in, spending nearly every
+low slot on Shield Power Relays and every rig on Core Defense Field Purgers,
+as shield recharge modules are not stacking penalized,
+and thus the multiplicative stacking makes each module more effective than the last.&lt;/p&gt;
+
+&lt;p&gt;This tends to leave very few slots left for damage mods or tracking computers,
+and the Shield Power Relays greatly degrade your cap recharge,
+to the point where some ships struggle to even keep a shield hardener active.
+However, it requires the least micromanagement.&lt;/p&gt;
+
+&lt;p&gt;If flying this kind of fit, note that shield recharge is non-linear,
+and peaks at around 25-33% remaining.  If your shields dip below 25%,
+you&amp;rsquo;d say that &amp;ldquo;your tank is breaking&amp;rdquo;, and it&amp;rsquo;s time to leave.&lt;/p&gt;
+
+&lt;h4 id=&#34;pvp&#34;&gt;PvP&lt;/h4&gt;
+
+&lt;p&gt;PvP fits vary widely, depending on the ship, the pilot, and the situation.
+Remember the specialization mantra, and try to take fights where
+you can keep your optimal situation in place and give yourself the edge.&lt;/p&gt;
+
+&lt;p&gt;The most common distinctions, at least for solo PvP, are between &amp;ldquo;kiting&amp;rdquo; vs. &amp;ldquo;brawling&amp;rdquo; fits,
+and &amp;ldquo;active&amp;rdquo; vs. &amp;ldquo;buffer&amp;rdquo; tanks.  These can be mixed whichever way; you can have an active brawler,
+a buffer brawler, an active kiter, or a buffer kiter.&lt;/p&gt;
+
+&lt;h5 id=&#34;kiting&#34;&gt;Kiting&lt;/h5&gt;
+
+&lt;p&gt;Kiting ships focus on high speed and long-ranged weapons to keep themselves
+out of reach of the enemy&amp;rsquo;s retaliation, and are a natural fit for shield ships.
+They are usually more fragile and with less raw damage output than brawlers.
+Kiters usually fit a Warp Disruptor for its longer range,
+and a Microwarpdrive for speed.&lt;/p&gt;
+
+&lt;p&gt;If flying a kiting ship, beware of enemy ships getting within 10km of you;
+that is the range of Warp Scramblers that can shut off your MWD and prevent
+you from warping out, and Stasis Webifiers that will slow your ship.&lt;/p&gt;
+
+&lt;h5 id=&#34;brawling&#34;&gt;Brawling&lt;/h5&gt;
+
+&lt;p&gt;Brawling ships focus on raw muscle, using short-ranged weapons with high damage output
+and mounting powerful tanks to survive enemy fire.
+They usually have more firepower and defenses than kiters,
+but their slower speed means they may have trouble catching them.&lt;/p&gt;
+
+&lt;p&gt;Brawlers usually fit a Warp Scrambler to hold targets down at close range,
+and often a Stasis Webifier to further prevent them from fleeing.
+A Microwarpdrive is most common, to stand a chance of catching kiting ships,
+but an Afterburner gives them better close-range mobility once the target is caught, as it
+is not shut off by Warp Scramblers and helps them evade fire.&lt;/p&gt;
+
+&lt;h5 id=&#34;scram-kiting&#34;&gt;Scram-Kiting&lt;/h5&gt;
+
+&lt;p&gt;At the frigate/destroyer level, some pilots will emply a sort of hybrid of kiting and brawling
+known as &amp;ldquo;scram-kiting&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;The core of scram-kiting is to hold your enemy at the very edge of Warp Scrambler range,
+and fit your ship to be optimized for dealing damage at about 10km,
+and for ensuring that your ship is faster than the enemy under knife-fight conditions
+and thus is able to maintain its preferred range.&lt;/p&gt;
+
+&lt;p&gt;A warp scrambler is mandatory for scram-kiting, and a Stasis Webifier is pretty close.
+Many scram-kiting fits will use afterburners, as they cannot be shut down by a scrambler
+like a Microwarpdrive can, but some will use Microwarpdrives to get in range to begin kiting
+and rely on their webs thereafter, or &amp;ldquo;dual-prop&amp;rdquo;, fitting both a MWD to get in range
+and an Afterburner to maintain speed during the fight.&lt;/p&gt;
+
+&lt;p&gt;Cruiser and battleship are sufficiently long-ranged that they can usually fight back
+against a scram-kiter, so the practice is less common outside of frigates and destroyers.&lt;/p&gt;
+
+&lt;h5 id=&#34;active-tank-1&#34;&gt;Active-Tank&lt;/h5&gt;
+
+&lt;p&gt;Active-tanking in PvP can be a risky business, but if you choose your fights appropriately,
+it can leave your opponent helpful to inflict meaningful damage on you
+as you pick their ship apart.&lt;/p&gt;
+
+&lt;p&gt;As in PvE, the core of the active tank is an Armor Repairer or Shield Booster,
+attempting to repair damage faster than it&amp;rsquo;s taken.&lt;/p&gt;
+
+&lt;p&gt;As small-gang PvP fights tend to be shorter than PvE fights,
+active-tanking PvP pilots will often use the Ancillary Armor Repairer
+and Ancillary Shield Booster modules - special variants of the normal
+modules, which need to be loaded with charges (&amp;ldquo;ammo&amp;rdquo;) to function most effectively,
+but are much more powerful than the base modules while those charges hold out.
+The charges will typically last about a minute, then take another minute to reload;
+if the fight isn&amp;rsquo;t concluded by the time the module goes on reload,
+the pilot using it may be in trouble.&lt;/p&gt;
+
+&lt;p&gt;As active armor repairers don&amp;rsquo;t show your ship down, unlike armor plates,
+active tanks are a more common option for kiting armor fits than buffer tanks.&lt;/p&gt;
+
+&lt;p&gt;Active-tanking is more common in solo PvP and small gangs,
+where incoming damage is limited to a small number of enemy ships
+and you won&amp;rsquo;t be receiving remote repairs from fleetmates.
+In larger fleet battles, incoming damage from focused fire will be high enough
+that an active tank will simply be overwhelmed.&lt;/p&gt;
+
+&lt;p&gt;Note that some opponents will fit Energy Neutralizers, which can attack your ship&amp;rsquo;s
+capacitor directly, leaving you unable to fuel your repair modules.&lt;/p&gt;
+
+&lt;p&gt;Remember to fit your ship with omni resists to avoid your opponent
+taking advantage of a resist hole.&lt;/p&gt;
+
+&lt;h5 id=&#34;buffer-tank&#34;&gt;Buffer-Tank&lt;/h5&gt;
+
+&lt;p&gt;Buffer-tanking is the practice of simply adding as many effective hitpoints (EHP)
+to your ship as possible, in the hopes that by the time your opponent could chew through them all,
+they&amp;rsquo;ll already be dead.&lt;/p&gt;
+
+&lt;p&gt;The Armor Plate or Shield Extender is the core of a buffer-tank fit,
+along with resistance modules to boost their effectiveness.&lt;/p&gt;
+
+&lt;p&gt;Remember to fit your ship with omni resists to avoid your opponent
+taking advantage of a resist hole.&lt;/p&gt;
+
+&lt;p&gt;Buffer tanks are a natural fit for fleet fights:
+they let you hold up under focused fire long enough for friendly logistics ships
+to lock you and begin repairing you (&amp;ldquo;catching reps&amp;rdquo;), and even without logi,
+a buffer fit will usually last longer under concentrated fire than an active fit would.
+Since your resists will enhance the effectiveness of these remote repairs,
+higher resists can sometimes be worth a small loss in effective HP.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-fitting-process&#34;&gt;The Fitting Process&lt;/h3&gt;
+
+&lt;p&gt;So, after all that hurf blurf about theory - when you&amp;rsquo;re fitting a ship,
+how do you go from a pile of modules and open slots to a finely-tuned weapon of war?&lt;/p&gt;
+
+&lt;p&gt;Everyone has their own approach, so the one presented here is just one of many.
+Hopefully it&amp;rsquo;ll give some insight into the thought process at least one pilot uses, though.&lt;/p&gt;
+
+&lt;h4 id=&#34;step-one-check-bonuses-and-slots&#34;&gt;Step One: Check Bonuses And Slots&lt;/h4&gt;
+
+&lt;p&gt;The first stop is to check the bonuses on your ship (Show Info &amp;gt; &amp;ldquo;Traits&amp;rdquo;).
+The things it has bonuses to are probably good things to focus the fit on.&lt;/p&gt;
+
+&lt;p&gt;The number of slots it has will also be important in your choice (Show Info &amp;gt; &amp;ldquo;Fittings&amp;rdquo;.)
+If its slots are heavily biased towards Mid slots, it&amp;rsquo;s probably best
+as a shield or electronic warfare ship.  If Lows, it&amp;rsquo;s probably an armor boat.&lt;/p&gt;
+
+&lt;p&gt;Check the Drone Bay as well (Show Info &amp;gt; &amp;ldquo;Attributes&amp;rdquo;) - a good-sized drone bay
+will give you more protection against smaller ships.&lt;/p&gt;
+
+&lt;h4 id=&#34;step-two-fit-your-weapons&#34;&gt;Step Two: Fit Your Weapons&lt;/h4&gt;
+
+&lt;p&gt;Use up your Turret or Launcher hardpoints (one or the other, if your ship has both)
+by fitting as many guns as you can, of the largest caliber you have the option for.
+(If you turn out not to have fitting space later, you can downsize the caliber;
+starting large lets you know what you can get away with.)&lt;/p&gt;
+
+&lt;p&gt;Whether to use short- or long-ranged guns depends on how you envision the fit flying.
+Kiting fits usually want long-ranged weapons.
+Brawling fits usually want short-ranged ones.
+Note that long-ranged weapons typically take more fitting space.&lt;/p&gt;
+
+&lt;p&gt;For drone boats (Gallente pilots, take note), your drones are your primary weapons system,
+so add them here.&lt;/p&gt;
+
+&lt;h4 id=&#34;step-three-fit-your-mandatory-modules&#34;&gt;Step Three: Fit Your Mandatory Modules&lt;/h4&gt;
+
+&lt;p&gt;Pretty much every ship is going to want a propulsion module of some kind.
+Whether that&amp;rsquo;s an Afterburner or a Microwarpdrive depends on your purpose.
+Most PvP fits will want a MWD; PvE fits may want an Afterburner, for capacitor efficiency.&lt;/p&gt;
+
+&lt;p&gt;Pretty much every ship is going to want a Damage Control.&lt;/p&gt;
+
+&lt;p&gt;Any PvP fit is going to want a Warp Disruptor or Warp Scrambler.&lt;/p&gt;
+
+&lt;h4 id=&#34;step-four-fit-your-tank&#34;&gt;Step Four: Fit Your Tank&lt;/h4&gt;
+
+&lt;p&gt;Fit whatever tank is appropriate to your ship.  They&amp;rsquo;re sometimes referred to
+according to how many slots they use.  A three-slot tank is fairly common
+for cruisers; frigates and destroyers often don&amp;rsquo;t have the slots to mount this,
+and will use two or even just one.&lt;/p&gt;
+
+&lt;p&gt;If buffer-tanked, this probably means a plate/extender of the largest size you can fit.
+If active-tanked, this means an armor repairer/shield booster of the largest size you can fit
+and which you can reasonably supply capacitor to run.&lt;/p&gt;
+
+&lt;p&gt;Afterwards, you&amp;rsquo;ll probably want a resist module to plug your worst resist hole,
+then an omni-resist module for improvements across the board if you have room.&lt;/p&gt;
+
+&lt;p&gt;In the case of active-tanks, you should keep an eye on capacitor here too.
+If your capacitor will drain exceedingly quickly, put on
+capacitor-enhancing modules - rigs, cap rechargers, or capacitor boosters.&lt;/p&gt;
+
+&lt;h4 id=&#34;step-five-add-damage-mods&#34;&gt;Step Five: Add Damage Mods&lt;/h4&gt;
+
+&lt;p&gt;Throw on up to three damage mods.  Pew pew!&lt;/p&gt;
+
+&lt;h4 id=&#34;step-six-fill-out-spare-slots&#34;&gt;Step Six: Fill Out Spare Slots&lt;/h4&gt;
+
+&lt;p&gt;If you have any leftover slots, look at adding things which make your ship more effective.
+Stasis Webifiers, Tracking Computers, Tracking Enhancers, utility highs, and so on.&lt;/p&gt;
+
+&lt;h4 id=&#34;step-seven-add-rigs&#34;&gt;Step Seven: Add Rigs&lt;/h4&gt;
+
+&lt;p&gt;Rigs might have been added earlier, to plug resist holes or help with capacitor;
+if not, put them in now.  If you can&amp;rsquo;t think of something,
+try tank rigs (HP for buffer fits, repair cost/speed for active fits, resist for either)
+or weapon rigs (if you have the spare powergrid to deal with the penalty).&lt;/p&gt;
+
+&lt;h4 id=&#34;step-eight-add-drones&#34;&gt;Step Eight: Add Drones&lt;/h4&gt;
+
+&lt;p&gt;Don&amp;rsquo;t forget to fill up your drone bay, if you didn&amp;rsquo;t do that back in Step Two.&lt;/p&gt;
+
+&lt;h4 id=&#34;review-and-iterate&#34;&gt;Review And Iterate&lt;/h4&gt;
+
+&lt;p&gt;Now, look back over your fit.  Do you have enough CPU and Powergrid?
+Does your capacitor last long enough?  Do you have enough speed to catch your targets?
+Do you want to deal more damage?&lt;/p&gt;
+
+&lt;p&gt;If you don&amp;rsquo;t have enough CPU or Powergrid, try switching to smaller-caliber guns,
+using Compact meta modules, adding fitting rigs/modules, or in a pinch,
+lowering the size of your tank modules.  Feel free to ditch utility highs
+if they&amp;rsquo;re putting strain on your fitting room.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re still having trouble coming in under CPU limits, you can replace
+lowslots with &amp;ldquo;free&amp;rdquo; modules: Nanofiber Internal Structure and Overdrive Injector
+being the main ones, which increase speed/maneuverability at 0 cpu/grid cost.
+They&amp;rsquo;re not great, but it&amp;rsquo;s better than an empty slot.&lt;/p&gt;
+
+&lt;p&gt;If it&amp;rsquo;s still not working, and you don&amp;rsquo;t have any more modules that you can swap out
+without degrading the fit to the point of unusability, it&amp;rsquo;s back to the drawing board;
+the fit just doesn&amp;rsquo;t work.&lt;/p&gt;
+
+&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
+
+&lt;p&gt;So, to demonstrate, let&amp;rsquo;s see an example of how it all comes together.
+I&amp;rsquo;ll try and walk you through the mental process I was using while
+creating one of the fits used in this guide: the &amp;ldquo;Improved Cormorant&amp;rdquo; fit for Caldari.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s the Cormorant hull:&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118655/svg/118655-cormorant-bare-hull.svg&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/118655&#34;&gt;View Cormorant (Bare Hull) on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;step-one-check-bonuses-and-slots-1&#34;&gt;Step One: Check Bonuses And Slots&lt;/h4&gt;
+
+&lt;p&gt;Looking at the Cormorant&amp;rsquo;s Traits, we see that it has a double bonus to Optimal Range,
+and a bonus to Tracking, for Small Hybrids.  To leverage that bonus, we&amp;rsquo;re going to
+make it a railgun sniper.  The Tracking bonus will help with flexibility a bit, but
+isn&amp;rsquo;t the focus of the fit.&lt;/p&gt;
+
+&lt;p&gt;The Cormorant&amp;rsquo;s slot layout is 8/3/2 (high/med/low), with 7 turret hardpoints and no drones.
+This means a shield tank, as two lows isn&amp;rsquo;t enough for a solid armor tank at the best of times -
+and we&amp;rsquo;ll want that space for damage mods.  Besides, Caldari primarily shield-tank anyway.&lt;/p&gt;
+
+&lt;h4 id=&#34;step-two-fit-your-weapons-1&#34;&gt;Step Two: Fit Your Weapons&lt;/h4&gt;
+
+&lt;p&gt;Small railguns come in 75mm, 125mm, and 150mm caliber.  We&amp;rsquo;ll want to try to fit 150mm if we can.
+Opening up the 150mm Railgun I&amp;rsquo;s Variations tab reminds us that the meta 4 version is the
+150mm Prototype Gauss Gun.  In the Market, it has an estimated price of 216k ISK;
+that&amp;rsquo;s not too expensive, so we&amp;rsquo;ll use that.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ADD: 7x &lt;code&gt;150mm Prototype Gauss Gun&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;CPU REMAINING: 114 of 240&lt;/li&gt;
+&lt;li&gt;POWERGRID REMAINING: 18.6 of 81.6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I would try to fit Tech II guns, but this character doesn&amp;rsquo;t have the skills to use them,
+so that&amp;rsquo;s out.&lt;/p&gt;
+
+&lt;h4 id=&#34;step-three-fit-your-mandatory-modules-1&#34;&gt;Step Three: Fit Your Mandatory Modules&lt;/h4&gt;
+
+&lt;p&gt;On goes the Damage Control.&lt;/p&gt;
+
+&lt;p&gt;For prop, looking at our fitting room, I can see we&amp;rsquo;re already a bit low on grid.
+We use an Afterburner, for its cheaper fitting costs.
+Its lower capacitor costs are also of interest, and we use an Enduring afterburner
+to lower them still further, as I&amp;rsquo;m thinking ahead to Step Four; see below.&lt;/p&gt;
+
+&lt;p&gt;This isn&amp;rsquo;t a PvP fit, so we don&amp;rsquo;t add a warp disruptor or scrambler.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ADD: &lt;code&gt;Damage Control II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;ADD: &lt;code&gt;1MN Monopropellant Enduring Afterburner I&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;CPU REMAINING: 69 of 240&lt;/li&gt;
+&lt;li&gt;POWERGRID REMAINING: 7.6 of 81.6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;step-four-fit-your-tank-1&#34;&gt;Step Four: Fit Your Tank&lt;/h4&gt;
+
+&lt;p&gt;Since this fit was designed for early PvE, we&amp;rsquo;re making it an active-tanker.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;d usually prefer to buffer-tank a destroyer,
+but this is a better fit for the purpose of the guide.
+Destroyer capacitors aren&amp;rsquo;t really suited for extended boosting,
+but long missions with a buffer fit require repeatedly warping out and back in,
+which is a hassle.&lt;/p&gt;
+
+&lt;p&gt;As such, we throw on a Medium Shield Booster, the largest boosting module frigates
+and destroyers can usually handle.&lt;/p&gt;
+
+&lt;p&gt;We also add an Anti-EM Screen Reinforcer rig to shore up the EM resist hole -
+they&amp;rsquo;re cheap, and they don&amp;rsquo;t use a precious midslot.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ADD: Medium Shield Booster II&lt;/li&gt;
+&lt;li&gt;ADD: Small Anti-EM Screen Reinforcer I&lt;/li&gt;
+&lt;li&gt;CPU REMAINING: 11 of 240&lt;/li&gt;
+&lt;li&gt;POWERGRID REMAINING: -5.4 of 81.6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;record scratch&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hmm, that&amp;rsquo;s a problem.  We&amp;rsquo;re exceeding our powergrid,
+our CPU is almost exhausted while we&amp;rsquo;ve still got two slots to fill,
+and we can barely run the shield booster for 30 seconds before our capacitor runs dry.&lt;/p&gt;
+
+&lt;p&gt;If it was just the CPU &lt;em&gt;or&lt;/em&gt; powergrid, I would probably try and use a fitting module
+or rig to make up the difference.  If it was just both of those, I would probably
+try downsizing the gun caliber to 125mm.&lt;/p&gt;
+
+&lt;p&gt;But combined with the capacitor pressure, and the difficulty we&amp;rsquo;re going to have in making
+up for that with our limited remaining slots, I decide the best option is to just use
+a smaller shield booster instead.  It&amp;rsquo;s just as efficient, it just has lower maximum throughput;
+if we&amp;rsquo;re limited by capacitor anyway, that&amp;rsquo;s fine.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;REMOVE: &lt;code&gt;Medium Shield Booster II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;ADD: &lt;code&gt;Small Shield Booster II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;CPU REMAINING: 40 of 240&lt;/li&gt;
+&lt;li&gt;POWERGRID REMAINING: 4.6 of 81.6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Much more manageable.&lt;/p&gt;
+
+&lt;h4 id=&#34;step-five-add-damage-mods-1&#34;&gt;Step Five: Add Damage Mods&lt;/h4&gt;
+
+&lt;p&gt;One free lowslot, one mod.  Pop!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ADD: &lt;code&gt;Magnetic Field Stabilizer II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;CPU REMAINING: 10 of 240&lt;/li&gt;
+&lt;li&gt;POWERGRID REMAINING: 3.6 of 81.6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;step-six-fill-out-spare-slots-1&#34;&gt;Step Six: Fill Out Spare Slots&lt;/h4&gt;
+
+&lt;p&gt;We&amp;rsquo;ve still got a midslot and two rigs to work with.
+Our capacitor&amp;rsquo;s a bit lacking to run the Shield Booster for extended periods,
+so let&amp;rsquo;s try to improve that.&lt;/p&gt;
+
+&lt;p&gt;Capacitor Boosters are a very slot-efficient way to keep modules running;
+however, they require hauling around bulky Cap Booster charges as ammo,
+and I don&amp;rsquo;t like having to continually resupply while missioning -
+or running out mid-mission.  We&amp;rsquo;re not &lt;em&gt;that&lt;/em&gt; far off from being able to run
+the booster for long periods; let&amp;rsquo;s try improving passive recharge instead.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ADD: &lt;code&gt;Cap Recharger II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;CPU REMAINING: &lt;strong&gt;-4.3&lt;/strong&gt; of 240&lt;/li&gt;
+&lt;li&gt;POWERGRID REMAINING: 2.6 of 81.6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hmm&amp;hellip;we&amp;rsquo;re a bit under on CPU.  Not by much, though.  Let&amp;rsquo;s keep going for now, and come back
+to see what we can fiddle with later.&lt;/p&gt;
+
+&lt;h4 id=&#34;step-seven-add-rigs-1&#34;&gt;Step Seven: Add Rigs&lt;/h4&gt;
+
+&lt;p&gt;We could still use some more capacitor, and cap rigs have no real trade-offs aside from their cost.
+Let&amp;rsquo;s add a couple of those.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ADD: &lt;code&gt;Capacitor Control Circuit I&lt;/code&gt; x2&lt;/li&gt;
+&lt;li&gt;CPU REMAINING: &lt;strong&gt;-4.3&lt;/strong&gt; of 240&lt;/li&gt;
+&lt;li&gt;POWERGRID REMAINING: 2.6 of 81.6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;step-eight-add-drones-1&#34;&gt;Step Eight: Add Drones&lt;/h4&gt;
+
+&lt;p&gt;No drone bay.  Easy step.&lt;/p&gt;
+
+&lt;h4 id=&#34;review-and-iterate-1&#34;&gt;Review And Iterate&lt;/h4&gt;
+
+&lt;p&gt;So, the fit seems to have pretty much come together.  We can run the shield booster
+indefinitely if we&amp;rsquo;re not using anything else, and can keep it active enough of the time
+to feel comfortable while using the guns and the afterburner.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s still the matter of that CPU deficiency, though; we need to resolve that.
+We could spend a slot on a Co-Processor or Processor Overclocking rig,
+but losing the slot would be a big blow to the ship&amp;rsquo;s effectiveness.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s see if there&amp;rsquo;s something we can meta down instead.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t want to meta down the damage control or the damage mod if we can help it,
+as the tech II versions of those give nice, strong benefits.  Same for the shield booster.&lt;/p&gt;
+
+&lt;p&gt;We could maybe drop the guns to a different meta level&amp;hellip;but looking at their CPU costs,
+the meta 4 guns we have installed are the cheapest until you get all the way down to meta 1.
+I don&amp;rsquo;t really want to lose 15% damage if I can avoid it, either.&lt;/p&gt;
+
+&lt;p&gt;That leaves the afterburner and the cap recharger.  Fingers crossed&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;We started with an Enduring afterburner, to save on capacitor costs.
+If we swap to a Compact afterburner instead, we can save&amp;hellip;two points of CPU and one grid.
+Not good enough, but it might help in conjunction with something else.&lt;/p&gt;
+
+&lt;p&gt;Now the cap recharger.  Save me, meta cap recharger, you&amp;rsquo;re my only hope!
+Going from the Tech II cap recharger to the Compact meta version saves us&amp;hellip;seven CPU.  Huzzah!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;REMOVE: &lt;code&gt;Cap Recharger II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;ADD: &lt;code&gt;Eutectic Compact Cap Recharger&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;CPU REMAINING: 2.4 of 240&lt;/li&gt;
+&lt;li&gt;POWERGRID REMAINING: 2.6 of 81.6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If I had any other Compact modules on the fit, I might stop now and review
+whether I could spend my scant remaining CPU and grid to upgrade one of them
+to a variant such as Enduring or Restrained.  But I don&amp;rsquo;t, so I won&amp;rsquo;t.&lt;/p&gt;
+
+&lt;p&gt;Satisfied with the fit, we load ammo, hop in, and prepare to bring 150mm of antimatter justice
+to any pirate that stands in our way.&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118480/svg/118480-alpha-clone---improved-cormorant.svg?privatetoken=988938429179887616&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118480/988938429179887616&#34;&gt;View Alpha Clone - Improved Cormorant on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rookie Chat FAQ</title>
+      <link>https://iviguera.github.io/alpha-guide/reference/rookie-faq/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/reference/rookie-faq/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;A list of questions frequently asked in the Rookie Help channel
+and their associated answers.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;how-do-i-split-a-stack-of-items&#34;&gt;How do I split a stack of items?&lt;/h4&gt;
+
+&lt;p&gt;Hold shift and drag the stack of items, then drop it somewhere else. A dialog window
+will appear asking how many you wish to move.&lt;/p&gt;
+
+&lt;h4 id=&#34;where-is-the-mini-skill-injector&#34;&gt;Where is the Mini Skill Injector?&lt;/h4&gt;
+
+&lt;p&gt;Press &lt;kbd&gt;Alt&lt;/kbd&gt;-&lt;kbd&gt;Y&lt;/kbd&gt; to open the Redeem window. It should be in there.&lt;/p&gt;
+
+&lt;h4 id=&#34;i-closed-the-career-agents-list-how-do-i-get-it-back&#34;&gt;I closed the Career Agents list, how do I get it back?&lt;/h4&gt;
+
+&lt;p&gt;Press &lt;kbd&gt;F12&lt;/kbd&gt; to open the &amp;lsquo;Help&amp;rsquo; window, then click &amp;lsquo;Show Career Agents&amp;rsquo;.&lt;/p&gt;
+
+&lt;h4 id=&#34;i-bought-something-but-it-s-not-in-my-item-hangar-where-is-it&#34;&gt;I bought something but it&amp;rsquo;s not in my item hangar. Where is it?&lt;/h4&gt;
+
+&lt;p&gt;Chances are you purchased an item listed from another station. Press
+&lt;kbd&gt;Alt&lt;/kbd&gt;-&lt;kbd&gt;T&lt;/kbd&gt; to open the Assets window and figure out which station
+you bought it in, then fly to that station to pick it up. Purchasing an item does
+not magically move it to your current station.&lt;/p&gt;
+
+&lt;h4 id=&#34;how-can-i-find-which-station-one-of-my-items-is-in&#34;&gt;How can I find which station one of my items is in?&lt;/h4&gt;
+
+&lt;p&gt;Press &lt;kbd&gt;Alt&lt;/kbd&gt;-&lt;kbd&gt;T&lt;/kbd&gt; to open the Assets window which lists all of your assets
+by station. Note that the assets window only updates once every ~5 minutes.&lt;/p&gt;
+
+&lt;h4 id=&#34;how-do-i-use-the-scanning-interface&#34;&gt;How do I use the scanning interface?&lt;/h4&gt;
+
+&lt;p&gt;EVE has a set of tutorial videos to help you figure this out. Press &lt;kbd&gt;F12&lt;/kbd&gt; to
+open the &amp;lsquo;Help&amp;rsquo; window, then select the &amp;lsquo;Tutorial Videos&amp;rsquo; tab. Scroll down to &amp;lsquo;Exploration&amp;rsquo;
+and watch the scanning videos there.&lt;/p&gt;
+
+&lt;h4 id=&#34;is-it-better-to-sell-ore-directly-or-reprocess-it-and-sell-the-minerals&#34;&gt;Is it better to sell ore directly or reprocess it and sell the minerals?&lt;/h4&gt;
+
+&lt;p&gt;For new players it is generally better to sell the ore itself, because new players
+will not have the level of skills required to efficiently refine ore into the full
+value equivalent of minerals.&lt;/p&gt;
+
+&lt;h4 id=&#34;what-are-the-different-types-of-ore-and-where-can-i-find-them&#34;&gt;What are the different types of ore and where can I find them?&lt;/h4&gt;
+
+&lt;p&gt;Cerlestes has an &lt;a href=&#34;http://ore.cerlestes.de/#site:ore&#34;&gt;excellent ore chart&lt;/a&gt;. For even
+more detail you can look at the
+&lt;a href=&#34;http://wiki.eveuniversity.org/Asteroids_and_Ore&#34;&gt;UniWiki &amp;lsquo;Asteroids and Ore&amp;rsquo; article&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;why-does-this-asteroid-belt-not-have-any-asteroids&#34;&gt;Why does this asteroid belt not have any asteroids?&lt;/h4&gt;
+
+&lt;p&gt;Asteroid belts respawn once a day during the daily downtime (11:00 EVE time). In
+highly-populated systems individual belts may get mined out quickly - try traveling
+to another system if all of the belts in your current system have been mined out,
+or &lt;a href=&#34;https://i.imgur.com/CSMNCc7.png&#34;&gt;going to an asteroid anomaly&lt;/a&gt; if there are any
+listed in the Probe Scanner window (&lt;kbd&gt;Alt&lt;/kbd&gt;-&lt;kbd&gt;P&lt;/kbd&gt;).&lt;/p&gt;
+
+&lt;h4 id=&#34;how-do-i-bookmark-a-point-in-space-rather-than-a-specific-thing&#34;&gt;How do I bookmark a point in space rather than a specific thing?&lt;/h4&gt;
+
+&lt;p&gt;Press &lt;kbd&gt;Ctrl&lt;/kbd&gt;-&lt;kbd&gt;B&lt;/kbd&gt; to bring up the bookmark creation dialog for your
+current position in space.&lt;/p&gt;
+
+&lt;h4 id=&#34;why-can-t-my-guns-hit-this-pirate&#34;&gt;Why can&amp;rsquo;t my guns hit this pirate?&lt;/h4&gt;
+
+&lt;p&gt;You&amp;rsquo;re probably either too far away (outside of your gun&amp;rsquo;s Optimal Range)
+or too close (and your gun turret can&amp;rsquo;t rotate fast enough to track the
+moving target).  Try staying at about your gun&amp;rsquo;s Optimal Range, and if
+still having accuracy trouble, try using Keep At Range instead of Orbit.&lt;/p&gt;
+
+&lt;h4 id=&#34;what-does-a-module-has-run-out-of-charges-mean&#34;&gt;What does &amp;lsquo;a module has run out of charges&amp;rsquo; mean?&lt;/h4&gt;
+
+&lt;p&gt;Your weapons probably need to be loaded with ammunition.
+Right-click your weapon, click &amp;ldquo;Show Info&amp;rdquo;, and see &amp;ldquo;Used With&amp;rdquo; for ammo types you can use.
+If you don&amp;rsquo;t already have them, buy some off the Market.
+Once you have some in your cargo hold, click-and-drag it over your gun&amp;rsquo;s icon,
+or while in space, right-click the gun&amp;rsquo;s icon in your HUD and select the ammo type to load.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Your First Wormhole</title>
+      <link>https://iviguera.github.io/alpha-guide/reference/wormholes/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/reference/wormholes/</guid>
+      <description>
+
+&lt;p&gt;You&amp;rsquo;ve just scanned down a wormhole for the first time, and you&amp;rsquo;re sitting next to it
+in space, wondering&amp;hellip; &amp;ldquo;should I jump in?&amp;rdquo; You may have heard that wormholes are
+dangerous places, but perhaps you&amp;rsquo;ve also heard that they contain lucrative exploration sites.&lt;/p&gt;
+
+&lt;p&gt;Both of these are true - wormholes definitely hold to the maxim of &amp;ldquo;nothing risked, nothing
+gained.&amp;rdquo; So this guide is going to walk you through the basics of going on the adventure
+that is entering wormhole space. This is not a complete guide to everything wormholes -
+for that, you&amp;rsquo;ll probably want to look at the
+&lt;a href=&#34;http://wiki.eveuniversity.org/Wormholes&#34;&gt;UniWiki &amp;lsquo;Wormholes&amp;rsquo; article&lt;/a&gt;.
+This is just enough that you can hopefully have an interesting trip without making
+avoidable rookie mistakes.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-ship-should-i-take-into-a-wormhole&#34;&gt;What ship should I take into a wormhole?&lt;/h3&gt;
+
+&lt;p&gt;You&amp;rsquo;re going to want to be in an exploration frigate for your first trip into a wormhole.
+Chances are you&amp;rsquo;re already in one (that&amp;rsquo;s probably what you scanned it in), but if you&amp;rsquo;re
+not, we recommend switching to one. Wormholes involve a bunch of scanning once you&amp;rsquo;re
+inside them as well, so you want to be in the right ship for the job.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

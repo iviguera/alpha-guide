@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upgrading-ships-rsses on The Alpha&#39;s Guide to the Galaxy</title>
+    <link>https://iviguera.github.io/alpha-guide/upgrading-ships/index.xml</link>
+    <description>Recent content in Upgrading-ships-rsses on The Alpha&#39;s Guide to the Galaxy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2016 18:56:39 -0800</lastBuildDate>
+    <atom:link href="https://iviguera.github.io/alpha-guide/upgrading-ships/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Upgrade to a New Ship</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/</guid>
+      <description>&lt;p&gt;By this point you should have the resources to move on from the basic rookie ship to
+something better. The ships you have available will depend on your race, so choose
+the proper link below to go to the subsection appropriate for you:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/&#34;&gt;Amarr&lt;/a&gt; /
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/&#34;&gt;Caldari&lt;/a&gt; /
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/&#34;&gt;Gallente&lt;/a&gt; /
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/&#34;&gt;Minmatar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amarr Ships</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/</guid>
+      <description>
+
+&lt;p&gt;Over the course of your Career Agent missions,
+they will have given you some of the following ships.
+They are more powerful than your rookie ship.
+They are also more specialized, and each ship is built for a specific purpose.&lt;/p&gt;
+
+&lt;h3 id=&#34;frigates&#34;&gt;Frigates&lt;/h3&gt;
+
+&lt;p&gt;Frigates are some of the fastest and smallest ships in New Eden.
+This makes them very difficult for larger ships to hit.
+Their guns also track very quickly, allowing them to effectively fight other frigates.
+However, their raw defensive and offensive power is relatively weak.&lt;/p&gt;
+
+&lt;h5 id=&#34;executioner&#34;&gt;Executioner&lt;/h5&gt;
+
+&lt;p&gt;The Executioner is the Amarr fast-attack frigate.
+It is extremely quick, and packs a decent punch.
+Its bonus to the capacitor cost of Propulsion Jamming modules
+also makes it good at &amp;ldquo;tackling&amp;rdquo; enemy ships, holding them in place.
+However, it is relatively fragile.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/executioner/&#34;&gt;Here is a recommended fit for the Executioner.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;tormentor&#34;&gt;Tormentor&lt;/h5&gt;
+
+&lt;p&gt;The Tormentor is the Amarr heavy attack frigate.
+It gets substantial bonuses to its three energy turrets,
+and is otherwise well-rounded, with decent defenses,
+sufficient midslots to offer some utility, and a moderate drone bay.
+However, it is somewhat slow.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/tormentor/&#34;&gt;Here is a recommended fit for the Tormentor.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;punisher&#34;&gt;Punisher&lt;/h5&gt;
+
+&lt;p&gt;The Punisher is the Amarr heavy combat frigate.
+It is incredibly durable, and has potent firepower.
+However, it is quite slow, and its limited midslots limit its utility.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/punisher/&#34;&gt;Here is a recommended fit for the Punisher.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;magnate&#34;&gt;Magnate&lt;/h5&gt;
+
+&lt;p&gt;The Magnate is the Amarr exploration frigate.
+It has substantial bonuses to the use of scanner probes and relic/data analyzers,
+making it a powerful option for exploration-minded capsuleers.
+However, it is fragile, and weak in direct combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/magnate/&#34;&gt;Here is a recommended fit for the Magnate.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;inquisitor&#34;&gt;Inquisitor&lt;/h5&gt;
+
+&lt;p&gt;The Inquisitor is the Amarr logistics frigate.
+It has potent bonuses to remote armor repair modules,
+allowing it to &amp;ldquo;heal&amp;rdquo; allied ships in battle.
+However, it is not very useful to a solo pilot.&lt;/p&gt;
+
+&lt;p&gt;For this reason, we recommend that you do not use the Inquisitor for now.&lt;/p&gt;
+
+&lt;h5 id=&#34;crucifier&#34;&gt;Crucifier&lt;/h5&gt;
+
+&lt;p&gt;The Crucifier is the Amarr electronic warfare frigate.
+It has powerful bonuses to the effectiveness of weapon disruptor modules,
+allowing it to degrade its enemies&amp;rsquo; range and accuracy while staying safely out of range itself.
+However, it is extremely fragile, and is not very useful to a solo pilot.&lt;/p&gt;
+
+&lt;p&gt;For this reason, we recommend that you do not use the Crucifier for now.&lt;/p&gt;
+
+&lt;h5 id=&#34;venture&#34;&gt;Venture&lt;/h5&gt;
+
+&lt;p&gt;The Venture is a mining frigate, not specific to any one empire.
+It has powerful bonuses to its mining lasers and gas harvesters,
+as well as a vast ore hold, allowing it to accumulate massive amounts of raw resources.
+It also has innate resistance to warp disruption, allowing it to escape attackers more easily.
+However, it is not particularly suitable for combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/venture/&#34;&gt;Here is a recommended fit for the Venture.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;destroyers&#34;&gt;Destroyers&lt;/h3&gt;
+
+&lt;p&gt;Destroyers are designed as a counter to frigates.
+They are &amp;ldquo;glass cannons&amp;rdquo; - they get large numbers of frigate-class guns,
+with substantial enhancements to their range and tracking,
+making them able to swat frigates out of the sky with ease.
+However,  their defenses are little stronger than a frigate&amp;rsquo;s,
+and their larger size and slower speed makes them less able to avoid the fire
+of larger ships.  They are also lacking in any utility besides their damage output.&lt;/p&gt;
+
+&lt;h5 id=&#34;coercer&#34;&gt;Coercer&lt;/h5&gt;
+
+&lt;p&gt;The Coercer is one of the Amarr destroyers, focusing on laser turrets.
+With the maximum of eight hardpoints for energy weapons,
+and with potent bonuses to their range and accuracy,
+it will quickly destroy any smaller enemies that come near it.
+However, it is very slow compared to frigates, and its size makes it much easier to hit.
+Additionally, it has very little utility outside of its lasers&amp;rsquo; damage output.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/coercer/&#34;&gt;Here is a recommended fit for the Coercer.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;dragoon&#34;&gt;Dragoon&lt;/h5&gt;
+
+&lt;p&gt;The Dragoon is the other Amarr destroyer, focusing on drones and energy neutralization.
+It has only three hardpoints for each of turrets and launchers,
+but can field a full flight of five light drones and two more flights in reserve,
+with bonuses to their damage and speed.
+It also gains bonuses to the range of Energy Neutralizers, used to directly attack
+enemies&amp;rsquo; capacitors in PvP.
+Its drones give it long reach, but its maximum damage output is low
+and its neutralizer bonuses are not useful in PvE.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/dragoon/&#34;&gt;Here is a recommended fit for the Dragoon.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;cruisers&#34;&gt;Cruisers&lt;/h3&gt;
+
+&lt;p&gt;Cruisers, as a class, are the most well-rounded ships in New Eden.  With comfortable slot layouts,
+decent firepower, good defenses, moderate speed, and moderate price,
+they&amp;rsquo;re the standard by which other ships are measured.&lt;/p&gt;
+
+&lt;p&gt;Cruiser fittings will not be provided in this guide.  By the time you&amp;rsquo;re getting
+into a cruiser, you should be creating fits for yourself; see
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/reference/fitting/&#34;&gt;Fitting&lt;/a&gt; if you need some pointers.&lt;/p&gt;
+
+&lt;h3 id=&#34;battlecruisers&#34;&gt;Battlecruisers&lt;/h3&gt;
+
+&lt;p&gt;Battlecruisers are to cruisers as destroyers are to frigates:
+much more heavily armed, but substantially slower.  Battlecruisers are
+also significantly better defended, yet also more expensive.&lt;/p&gt;
+
+&lt;p&gt;The Gnosis is the only battlecruiser available to Alpha clones.
+It is available to all races, and offers moderate bonuses to
+nearly all weapons systems and defenses while excelling in none.&lt;/p&gt;
+
+&lt;p&gt;A Gnosis fitting will not be provided in this guide. By the time you&amp;rsquo;re getting
+into a battlecruiser, you should be creating fits for yourself; see
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/reference/fitting/&#34;&gt;Fitting&lt;/a&gt; if you need some pointers.&lt;/p&gt;
+
+&lt;h3 id=&#34;industrials&#34;&gt;Industrials&lt;/h3&gt;
+
+&lt;p&gt;Industrials, as class, are non-combat ships focused on the transport of goods across New Eden.
+They have massive cargo holds, but are slow, clumsy, and poorly armed at best - if they&amp;rsquo;re armed at all.
+They can be a great boon to a marketeer, industrialist,
+or even a combat pilot restocking on gear or moving locations,
+but are borderline useless in combat and a favorite target of player pirates.&lt;/p&gt;
+
+&lt;h5 id=&#34;sigil&#34;&gt;Sigil&lt;/h5&gt;
+
+&lt;p&gt;The Sigil is one of the Amarr industrials.
+It has a massive cargo hold, and can mount sufficient defenses to stave off light attacks
+long enough for reinforcements to arrive.
+However, it is extremely slow and clumsy, and is borderline useless in combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/sigil/&#34;&gt;Here is a recommended fit for the Sigil.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Caldari Ships</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/</guid>
+      <description>
+
+&lt;p&gt;Over the course of your Career Agent missions,
+they will have given you some of the following ships.
+They are more powerful than your rookie ship.
+They are also more specialized, and each ship is built for a specific purpose.&lt;/p&gt;
+
+&lt;h3 id=&#34;frigates&#34;&gt;Frigates&lt;/h3&gt;
+
+&lt;p&gt;Frigates are some of the fastest and smallest ships in New Eden.
+This makes them very difficult for larger ships to hit.
+Their guns also track very quickly, allowing them to effectively fight other frigates.
+However, their raw defensive and offensive power is relatively weak.&lt;/p&gt;
+
+&lt;h5 id=&#34;condor&#34;&gt;Condor&lt;/h5&gt;
+
+&lt;p&gt;The Condor is the Caldari fast-attack frigate.
+It is extremely quick, and packs a decent punch.
+Its bonus to the capacitor cost of Propulsion Jamming modules
+also makes it good at &amp;ldquo;tackling&amp;rdquo; enemy ships, holding them in place.
+However, it is relatively fragile.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/condor/&#34;&gt;Here is a recommended fit for the Condor.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;kestrel&#34;&gt;Kestrel&lt;/h5&gt;
+
+&lt;p&gt;The Kestrel is the Caldari heavy attack frigate.
+It gets substantial bonuses to its four missile launchers,
+allowing it to deal substantial damage in close with rockets or lob light missiles from extreme range.
+Its good number of midslots also allow it decent defenses or good utility.
+However, it is somewhat slow.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/kestrel/&#34;&gt;Here is a recommended fit for the Kestrel.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;merlin&#34;&gt;Merlin&lt;/h5&gt;
+
+&lt;p&gt;The Merlin is the Caldari heavy combat frigate.
+It has very powerful shields, and decent firepower and flexibility.
+However, it is rather slow.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/merlin/&#34;&gt;Here is a recommended fit for the Merlin.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;heron&#34;&gt;Heron&lt;/h5&gt;
+
+&lt;p&gt;The Heron is the Caldari exploration frigate.
+It has substantial bonuses to the use of scanner probes and relic/data analyzers,
+making it a powerful option for exploration-minded capsuleers.
+However, it is fragile, and weak in direct combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/heron/&#34;&gt;Here is a recommended fit for the Heron.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;bantam&#34;&gt;Bantam&lt;/h5&gt;
+
+&lt;p&gt;The Bantam is the Caldari logistics frigate.
+It has potent bonuses to remote shield booster modules,
+allowing it to &amp;ldquo;heal&amp;rdquo; allied ships in battle.
+However, it is not very useful to a solo pilot.&lt;/p&gt;
+
+&lt;p&gt;For this reason, we recommend that you do not use the Bantam for now.&lt;/p&gt;
+
+&lt;h5 id=&#34;griffin&#34;&gt;Griffin&lt;/h5&gt;
+
+&lt;p&gt;The Griffin is the Caldari electronic warfare frigate.
+It has powerful bonuses to the effectiveness of ECM jammer modules,
+allowing it to render enemies unable to lock targets
+and thus helpless to fight back against attackers.
+However, it is extremely fragile and has little direct combat capability,
+and is not very useful to a solo pilot.&lt;/p&gt;
+
+&lt;p&gt;For this reason, we recommend that you do not use the Griffin for now.&lt;/p&gt;
+
+&lt;h5 id=&#34;venture&#34;&gt;Venture&lt;/h5&gt;
+
+&lt;p&gt;The Venture is a mining frigate, not specific to any one empire.
+It has powerful bonuses to its mining lasers and gas harvesters,
+as well as a vast ore hold, allowing it to accumulate massive amounts of raw resources.
+It also has innate resistance to warp disruption, allowing it to escape attackers more easily.
+However, it is not particularly suitable for combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/venture/&#34;&gt;Here is a recommended fit for the Venture.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;destroyers&#34;&gt;Destroyers&lt;/h3&gt;
+
+&lt;p&gt;Destroyers are designed as a counter to frigates.
+They are &amp;ldquo;glass cannons&amp;rdquo; - they get large numbers of frigate-class guns,
+with substantial enhancements to their range and tracking,
+making them able to swat frigates out of the sky with ease.
+However,  their defenses are little stronger than a frigate&amp;rsquo;s,
+and their larger size and slower speed makes them less able to avoid the fire
+of larger ships.  They are also lacking in any utility besides their damage output.&lt;/p&gt;
+
+&lt;h5 id=&#34;cormorant&#34;&gt;Cormorant&lt;/h5&gt;
+
+&lt;p&gt;The Cormorant is one of the Caldari destroyers, focusing on hybrid turrets.
+Its seven hardpoints for hybrid weapons have enhanced accuracy and
+massive boosts to their range,
+allowing it to reach out and destroy smaller enemies at extreme distance.
+However, it is very slow compared to frigates, and its size makes it much easier to hit.
+Additionally, it has very little utility outside of its weapons&amp;rsquo; damage output.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/cormorant/&#34;&gt;Here is a recommended fit for the Cormorant.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;corax&#34;&gt;Corax&lt;/h5&gt;
+
+&lt;p&gt;The Corax is the other Caldari destroyer, focusing on missiles.
+It has seven launcher hardpoints, and a bonus to missile range and damage application,
+and comes with a comfortable four midslots, allowing it to mount a strong shield tank.
+However, it is slow, and its poor CPU and powergrid make it difficult to fit properly.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/corax/&#34;&gt;Here is a recommended fit for the Corax.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;cruisers&#34;&gt;Cruisers&lt;/h3&gt;
+
+&lt;p&gt;Cruisers, as a class, are the most well-rounded ships in New Eden.  With comfortable slot layouts,
+decent firepower, good defenses, moderate speed, and moderate price,
+they&amp;rsquo;re the standard by which other ships are measured.&lt;/p&gt;
+
+&lt;p&gt;Cruiser fittings will not be provided in this guide.  By the time you&amp;rsquo;re getting
+into a cruiser, you should be creating fits for yourself; see
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/reference/fitting/&#34;&gt;Fitting&lt;/a&gt; if you need some pointers.&lt;/p&gt;
+
+&lt;h3 id=&#34;battlecruisers&#34;&gt;Battlecruisers&lt;/h3&gt;
+
+&lt;p&gt;Battlecruisers are to cruisers as destroyers are to frigates:
+much more heavily armed, but substantially slower.  Battlecruisers are
+also significantly better defended, yet also more expensive.&lt;/p&gt;
+
+&lt;p&gt;The Gnosis is the only battlecruiser available to Alpha clones.
+It is available to all races, and offers moderate bonuses to
+nearly all weapons systems and defenses while excelling in none.&lt;/p&gt;
+
+&lt;p&gt;A Gnosis fitting will not be provided in this guide. By the time you&amp;rsquo;re getting
+into a battlecruiser, you should be creating fits for yourself; see
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/reference/fitting/&#34;&gt;Fitting&lt;/a&gt; if you need some pointers.&lt;/p&gt;
+
+&lt;h3 id=&#34;industrials&#34;&gt;Industrials&lt;/h3&gt;
+
+&lt;p&gt;Industrials, as class, are non-combat ships focused on the transport of goods across New Eden.
+They have massive cargo holds, but are slow, clumsy, and poorly armed at best - if they&amp;rsquo;re armed at all.
+They can be a great boon to a marketeer, industrialist,
+or even a combat pilot restocking on gear or moving locations,
+but are borderline useless in combat and a favorite target of player pirates.&lt;/p&gt;
+
+&lt;h5 id=&#34;badger&#34;&gt;Badger&lt;/h5&gt;
+
+&lt;p&gt;The Badger is one of the Caldari industrials - a ship line focused on hauling goods from place to place.
+It has a massive cargo hold, and can mount sufficient defenses to stave off light attacks
+long enough for reinforcements to arrive.
+However, it is extremely slow and clumsy, and is borderline useless in combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/badger/&#34;&gt;Here is a recommended fit for the Badger.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gallente Ships</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/</guid>
+      <description>
+
+&lt;p&gt;Over the course of your Career Agent missions,
+they will have given you some of the following ships.
+They are more powerful than your rookie ship.
+They are also more specialized, and each ship is built for a specific purpose.&lt;/p&gt;
+
+&lt;h3 id=&#34;frigates&#34;&gt;Frigates&lt;/h3&gt;
+
+&lt;p&gt;Frigates are some of the fastest and smallest ships in New Eden.
+This makes them very difficult for larger ships to hit.
+Their guns also track very quickly, allowing them to effectively fight other frigates.
+However, their raw defensive and offensive power is relatively weak.&lt;/p&gt;
+
+&lt;h5 id=&#34;atron&#34;&gt;Atron&lt;/h5&gt;
+
+&lt;p&gt;The Atron is the Gallente fast-attack frigate.
+It is extremely quick, and packs a decent punch.
+Its bonus to the capacitor cost of Propulsion Jamming modules
+also makes it good at &amp;ldquo;tackling&amp;rdquo; enemy ships, holding them in place.
+However, it is relatively fragile.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/atron/&#34;&gt;Here is a recommended fit for the Atron.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;tristan&#34;&gt;Tristan&lt;/h5&gt;
+
+&lt;p&gt;The Tristan is the Gallente heavy attack frigate.
+As a drone platform, it is unrivalled among tech one frigates,
+capable of fielding a full flight of five light drones, with three spares
+in its spacious drone bay.  It is also fairly well-rounded otherwise,
+with moderate damage output from its turrets and decent speed and utility options.
+However, it is somewhat lightly defended.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/tristan/&#34;&gt;Here is a recommended fit for the Tristan.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;incursus&#34;&gt;Incursus&lt;/h5&gt;
+
+&lt;p&gt;The Incursus is the Gallente heavy combat frigate.
+Its bonuses to armor repairers let it shrug off a great deal of incoming damage,
+and it has good firepower and decent utility options.
+However, it is fairly slow.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/incursus/&#34;&gt;Here is a recommended fit for the Incursus.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;imicus&#34;&gt;Imicus&lt;/h5&gt;
+
+&lt;p&gt;The Imicus is the Gallente exploration frigate.
+It has substantial bonuses to the use of scanner probes and relic/data analyzers,
+making it a powerful option for exploration-minded capsuleers.
+However, it is fragile, and weak in direct combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/imicus/&#34;&gt;Here is a recommended fit for the Imicus.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;navitas&#34;&gt;Navitas&lt;/h5&gt;
+
+&lt;p&gt;The Navitas is the Gallente logistics frigate.
+It has potent bonuses to remote armor repair modules,
+allowing it to &amp;ldquo;heal&amp;rdquo; allied ships in battle.
+However, it is not very useful to a solo pilot.&lt;/p&gt;
+
+&lt;p&gt;For this reason, we recommend that you do not use the Navitas for now.&lt;/p&gt;
+
+&lt;h5 id=&#34;maulus&#34;&gt;Maulus&lt;/h5&gt;
+
+&lt;p&gt;The Maulus is the Gallente electronic warfare frigate.
+It has powerful bonuses to the effectiveness of sensor dampener modules,
+allowing it to interfere with the locking speed and range of its enemies&amp;rsquo; sensors from long range.
+However, it is extremely fragile, and is not very useful to a solo pilot.&lt;/p&gt;
+
+&lt;p&gt;For this reason, we recommend that you do not use the Maulus for now.&lt;/p&gt;
+
+&lt;h5 id=&#34;venture&#34;&gt;Venture&lt;/h5&gt;
+
+&lt;p&gt;The Venture is a mining frigate, not specific to any one empire.
+It has powerful bonuses to its mining lasers and gas harvesters,
+as well as a vast ore hold, allowing it to accumulate massive amounts of raw resources.
+It also has innate resistance to warp disruption, allowing it to escape attackers more easily.
+However, it is not particularly suitable for combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/venture/&#34;&gt;Here is a recommended fit for the Venture.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;destroyers&#34;&gt;Destroyers&lt;/h3&gt;
+
+&lt;p&gt;Destroyers are designed as a counter to frigates.
+They are &amp;ldquo;glass cannons&amp;rdquo; - they get large numbers of frigate-class guns,
+with substantial enhancements to their range and tracking,
+making them able to swat frigates out of the sky with ease.
+However,  their defenses are little stronger than a frigate&amp;rsquo;s,
+and their larger size and slower speed makes them less able to avoid the fire
+of larger ships.  They are also lacking in any utility besides their damage output.&lt;/p&gt;
+
+&lt;h5 id=&#34;catalyst&#34;&gt;Catalyst&lt;/h5&gt;
+
+&lt;p&gt;The Catalyst is one of the Gallente destroyers, focusing on hybrid turrets.
+With the maximum of eight hardpoints for hybrid weapons,
+and with potent bonuses to their range and accuracy,
+it will quickly destroy any smaller enemies that come within range of its guns.
+However, it is very slow compared to frigates, and its size makes it much easier to hit.
+Additionally, it has very little utility outside of its weapons&amp;rsquo; damage output.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/catalyst/&#34;&gt;Here is a recommended fit for the Catalyst.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;algos&#34;&gt;Algos&lt;/h5&gt;
+
+&lt;p&gt;The Algos is the other Gallente destroyer, focusing on drones.
+It gets only five turret hardpoints, few for a destroyer,
+but has the drone bandwidth to begin mixing in medium drones
+into its flights, with room in its bay for a spare flight of lights.
+It also has moderate speed and defenses, and works well with shield-tanking modules.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/algos/&#34;&gt;Here is a recommended fit for the Algos.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;cruisers&#34;&gt;Cruisers&lt;/h3&gt;
+
+&lt;p&gt;Cruisers, as a class, are the most well-rounded ships in New Eden.  With comfortable slot layouts,
+decent firepower, good defenses, moderate speed, and moderate price,
+they&amp;rsquo;re the standard by which other ships are measured.&lt;/p&gt;
+
+&lt;p&gt;Cruiser fittings will not be provided in this guide.  By the time you&amp;rsquo;re getting
+into a cruiser, you should be creating fits for yourself; see
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/reference/fitting/&#34;&gt;Fitting&lt;/a&gt; if you need some pointers.&lt;/p&gt;
+
+&lt;h3 id=&#34;battlecruisers&#34;&gt;Battlecruisers&lt;/h3&gt;
+
+&lt;p&gt;Battlecruisers are to cruisers as destroyers are to frigates:
+much more heavily armed, but substantially slower.  Battlecruisers are
+also significantly better defended, yet also more expensive.&lt;/p&gt;
+
+&lt;p&gt;The Gnosis is the only battlecruiser available to Alpha clones.
+It is available to all races, and offers moderate bonuses to
+nearly all weapons systems and defenses while excelling in none.&lt;/p&gt;
+
+&lt;p&gt;A Gnosis fitting will not be provided in this guide. By the time you&amp;rsquo;re getting
+into a battlecruiser, you should be creating fits for yourself; see
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/reference/fitting/&#34;&gt;Fitting&lt;/a&gt; if you need some pointers.&lt;/p&gt;
+
+&lt;h3 id=&#34;industrials&#34;&gt;Industrials&lt;/h3&gt;
+
+&lt;p&gt;Industrials, as class, are non-combat ships focused on the transport of goods across New Eden.
+They have massive cargo holds, but are slow, clumsy, and poorly armed at best - if they&amp;rsquo;re armed at all.
+They can be a great boon to a marketeer, industrialist,
+or even a combat pilot restocking on gear or moving locations,
+but are borderline useless in combat and a favorite target of player pirates.&lt;/p&gt;
+
+&lt;h5 id=&#34;nereus&#34;&gt;Nereus&lt;/h5&gt;
+
+&lt;p&gt;The Nereus is one of the Gallente industrials - a ship line focused on hauling goods from place to place.
+It has a massive cargo hold, and can mount sufficient defenses to stave off light attacks
+long enough for reinforcements to arrive.
+However, it is extremely slow and clumsy, and is borderline useless in combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/nereus/&#34;&gt;Here is a recommended fit for the Nereus.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Minmatar Ships</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/</guid>
+      <description>
+
+&lt;p&gt;Over the course of your Career Agent missions,
+they will have given you some of the following ships.
+They are more powerful than your rookie ship.
+They are also more specialized, and each ship is built for a specific purpose.&lt;/p&gt;
+
+&lt;h3 id=&#34;frigates&#34;&gt;Frigates&lt;/h3&gt;
+
+&lt;p&gt;Frigates are some of the fastest and smallest ships in New Eden.
+This makes them very difficult for larger ships to hit.
+Their guns also track very quickly, allowing them to effectively fight other frigates.
+However, their raw defensive and offensive power is relatively weak.&lt;/p&gt;
+
+&lt;h5 id=&#34;slasher&#34;&gt;Slasher&lt;/h5&gt;
+
+&lt;p&gt;The Slasher is the Minmatar fast-attack frigate.
+It is extremely quick, and packs a decent punch.
+Its bonus to the capacitor cost of Propulsion Jamming modules
+also makes it good at &amp;ldquo;tackling&amp;rdquo; enemy ships, holding them in place.
+However, it is relatively fragile.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/slasher/&#34;&gt;Here is a recommended fit for the Slasher.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;rifter&#34;&gt;Rifter&lt;/h5&gt;
+
+&lt;p&gt;The Rifter is the Minmatar heavy attack frigate.
+It gets substantial bonuses to its projectile turrets,
+allowing it to deal good damage.  It is otherwise well-rounded,
+with decent speed and defenses, and its slot layout allows it a high degree of flexibility.
+However, that flexibility means it does not excel strongly in any one aspect.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/rifter/&#34;&gt;Here is a recommended fit for the Rifter.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;breacher&#34;&gt;Breacher&lt;/h5&gt;
+
+&lt;p&gt;The Breacher is the Minmatar heavy combat frigate.
+Its bonuses to shield boosters allow it to shrug off a great deal of incoming damage,
+it can deal acceptable damage with its rocket launchers, and it has good speed.
+However, its relatively weak powergrid can make it difficult to fit well.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/breacher/&#34;&gt;Here is a recommended fit for the Breacher.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;probe&#34;&gt;Probe&lt;/h5&gt;
+
+&lt;p&gt;The Probe is the Minmatar exploration frigate.
+It has substantial bonuses to the use of scanner probes and relic/data analyzers,
+making it a powerful option for exploration-minded capsuleers.
+However, it is fragile, and weak in direct combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/probe/&#34;&gt;Here is a recommended fit for the Probe.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;burst&#34;&gt;Burst&lt;/h5&gt;
+
+&lt;p&gt;The Burst is the Minmatar logistics frigate.
+It has potent bonuses to remote shield booster modules,
+allowing it to &amp;ldquo;heal&amp;rdquo; allied ships in battle.
+However, it is not very useful to a solo pilot.&lt;/p&gt;
+
+&lt;p&gt;For this reason, we recommend that you do not use the Bantam for now.&lt;/p&gt;
+
+&lt;h5 id=&#34;vigil&#34;&gt;Vigil&lt;/h5&gt;
+
+&lt;p&gt;The Vigil is the Minmatar electronic warfare frigate.
+It has powerful bonuses to the effectiveness of target painter modules,
+allowing it to render enemies substantially easier for its allies to hit.
+However, it is extremely fragile and has little direct combat capability,
+and is not very useful to a solo pilot.&lt;/p&gt;
+
+&lt;p&gt;For this reason, we recommend that you do not use the Vigil for now.&lt;/p&gt;
+
+&lt;h5 id=&#34;venture&#34;&gt;Venture&lt;/h5&gt;
+
+&lt;p&gt;The Venture is a mining frigate, not specific to any one empire.
+It has powerful bonuses to its mining lasers and gas harvesters,
+as well as a vast ore hold, allowing it to accumulate massive amounts of raw resources.
+It also has innate resistance to warp disruption, allowing it to escape attackers more easily.
+However, it is not particularly suitable for combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/venture/&#34;&gt;Here is a recommended fit for the Venture.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;destroyers&#34;&gt;Destroyers&lt;/h3&gt;
+
+&lt;p&gt;Destroyers are designed as a counter to frigates.
+They are &amp;ldquo;glass cannons&amp;rdquo; - they get large numbers of frigate-class guns,
+with substantial enhancements to their range and tracking,
+making them able to swat frigates out of the sky with ease.
+However,  their defenses are little stronger than a frigate&amp;rsquo;s,
+and their larger size and slower speed makes them less able to avoid the fire
+of larger ships.  They are also lacking in any utility besides their damage output.&lt;/p&gt;
+
+&lt;h5 id=&#34;thrasher&#34;&gt;Thrasher&lt;/h5&gt;
+
+&lt;p&gt;The Thrasher is one of the Minmatar destroyers, focusing on projectile turrets.
+Its seven hardpoints for projectile weapons have enhanced accuracy, damage and range,
+giving it a powerful offensive punch.
+It is relatively fast and well-defended for a destroyer, but still slow compared to frigates,
+and its larger size makes it easily targeted and destroyed by larger ships.
+Additionally, it has very little utility outside of its weapons&amp;rsquo; damage output.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/thrasher/&#34;&gt;Here is a recommended fit for the Thrasher.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;talwar&#34;&gt;Talwar&lt;/h5&gt;
+
+&lt;p&gt;The Talwar is the other Minmatar destroyer, focusing on missiles.
+Its seven missile launchers get a substantial bonus to their range,
+and it mitigates the signature penalty of Microwarpdrives,
+allowing it to use them to avoid incoming fire as if they were Afterburners.
+It is also relatively fast for a destroyer.
+This makes it a natural fit for long-range, high-speed &amp;ldquo;kiting&amp;rdquo; tactics with light missiles.
+However, its damage output is relatively low, and it is rather fragile.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/talwar/&#34;&gt;Here is a recommended fit for the Talwar.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;cruisers&#34;&gt;Cruisers&lt;/h3&gt;
+
+&lt;p&gt;Cruisers, as a class, are the most well-rounded ships in New Eden.  With comfortable slot layouts,
+decent firepower, good defenses, moderate speed, and moderate price,
+they&amp;rsquo;re the standard by which other ships are measured.&lt;/p&gt;
+
+&lt;p&gt;Cruiser fittings will not be provided in this guide.  By the time you&amp;rsquo;re getting
+into a cruiser, you should be creating fits for yourself; see
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/reference/fitting/&#34;&gt;Fitting&lt;/a&gt; if you need some pointers.&lt;/p&gt;
+
+&lt;h3 id=&#34;battlecruisers&#34;&gt;Battlecruisers&lt;/h3&gt;
+
+&lt;p&gt;Battlecruisers are to cruisers as destroyers are to frigates:
+much more heavily armed, but substantially slower.  Battlecruisers are
+also significantly better defended, yet also more expensive.&lt;/p&gt;
+
+&lt;p&gt;The Gnosis is the only battlecruiser available to Alpha clones.
+It is available to all races, and offers moderate bonuses to
+nearly all weapons systems and defenses while excelling in none.&lt;/p&gt;
+
+&lt;p&gt;A Gnosis fitting will not be provided in this guide. By the time you&amp;rsquo;re getting
+into a battlecruiser, you should be creating fits for yourself; see
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/reference/fitting/&#34;&gt;Fitting&lt;/a&gt; if you need some pointers.&lt;/p&gt;
+
+&lt;h3 id=&#34;industrials&#34;&gt;Industrials&lt;/h3&gt;
+
+&lt;p&gt;Industrials, as class, are non-combat ships focused on the transport of goods across New Eden.
+They have massive cargo holds, but are slow, clumsy, and poorly armed at best - if they&amp;rsquo;re armed at all.
+They can be a great boon to a marketeer, industrialist,
+or even a combat pilot restocking on gear or moving locations,
+but are borderline useless in combat and a favorite target of player pirates.&lt;/p&gt;
+
+&lt;h5 id=&#34;wreathe&#34;&gt;Wreathe&lt;/h5&gt;
+
+&lt;p&gt;The Wreathe is one of the Minmatar industrials - a ship line focused on hauling goods from place to place.
+It has a massive cargo hold, and can mount sufficient defenses to stave off light attacks
+long enough for reinforcements to arrive.
+However, it is extremely slow and clumsy, and is borderline useless in combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/wreathe/&#34;&gt;Here is a recommended fit for the Wreathe.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Algos</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/algos/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/algos/</guid>
+      <description>&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118664/svg/118664-alpha-clone---starter-algos.svg?privatetoken=8482316506997194752&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118664/8482316506997194752&#34;&gt;View Alpha Clone - Starter Algos on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Atron</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/atron/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/atron/</guid>
+      <description>
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118501/svg/118501-alpha-clone---starter-atron.svg?privatetoken=7015883971993010176&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118501/7015883971993010176&#34;&gt;View Alpha Clone - Starter Atron on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+&lt;p&gt;The Atron uses 3 &lt;code&gt;Light Ion Blaster I&lt;/code&gt; turrets.
+Blasters are the &amp;ldquo;short-ranged&amp;rdquo; hybrid system, with some of the highest damage output
+and best tracking against small targets in the game.  In exchange, they are the shortest-ranged
+weapon system in the game, being all but useless outside of point-blank range.&lt;/p&gt;
+
+&lt;p&gt;The blasters are loaded with &lt;code&gt;Antimatter Charge S&lt;/code&gt; ammunition.
+Antimatter is the shortest-ranged basic hybrid charge, but does the most damage.
+As blasters require you to be in knife-fighting range anyway,
+losing a few more meters will hardly be noticed,
+and the extra damage will be appreciated once you come to grips with your foe.
+You should keep about 2000 spare rounds in your cargohold.&lt;/p&gt;
+
+&lt;p&gt;Additionally, this fit uses a &lt;code&gt;Magnetic Field Stabilizer I&lt;/code&gt; in one of its low slots.
+This passively increases the damage output and rate of fire of its blasters.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;This ship uses a &lt;code&gt;Small Armor Repairer I&lt;/code&gt; in one of the low slots to repair incoming damage.&lt;/p&gt;
+
+&lt;p&gt;It also fits a &lt;code&gt;Damage Control I&lt;/code&gt; in a low slot to increase its resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;1MN Afterburner I&lt;/code&gt; provides your ship with additional speed. This both makes it easier to
+catch enemy ships and also makes your ship harder to hit.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Stasis Webifier I&lt;/code&gt; helps your projectiles apply their damage better, because it&amp;rsquo;s easier to hit
+the slower targets. (It also makes it easier to stay in range of the slower enemies.)&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Small Capacitor Booster I&lt;/code&gt; can provide your ship with an instant injection of Capacitor.
+This module must be fueled by charges, which act as consumable batteries.  Load it with
+&lt;code&gt;Cap Booster 200&lt;/code&gt; bought from the market, and bring along as many spares as you can carry (about 10).&lt;/p&gt;
+
+&lt;h3 id=&#34;rigs&#34;&gt;Rigs&lt;/h3&gt;
+
+&lt;p&gt;Rigs are passive modifications to a ship, trading off one attribute against another.
+Unlike modules, rigs cannot be removed without being destroyed.
+As a starter fit, this fit makes limited use of rigging, since many &amp;ldquo;optimal&amp;rdquo; rigs
+are often relatively expensive and may be difficult to find near your starter station.&lt;/p&gt;
+
+&lt;p&gt;The starter fit does not use or require any rigs.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-fly&#34;&gt;How To Fly&lt;/h3&gt;
+
+&lt;p&gt;This is designed as a brawling fit.  Fly in close to your targets
+and begin orbiting them at about 500m, applying your web to slow them down.&lt;/p&gt;
+
+&lt;p&gt;Your ship has high speed, but is relatively fragile.  Keep an eye on your hitpoints,
+and consider warping out or pulling range from the enemy guns if your armor repairer
+cannot keep up with incoming damage.&lt;/p&gt;
+
+&lt;p&gt;This ship has a Capacitor Booster.  As the charges for it are quite bulky,
+you can carry only a limited number.  Try to save the Booster charges for emergencies
+when you need the extra capacitor to run your repair module continuously.
+Under normal circumstances, use your repper sparingly, off your ship&amp;rsquo;s base capacitor.
+Keep an eye on your capacitor, and try not to let it go below about 25%.&lt;/p&gt;
+
+&lt;p&gt;As always, if the incoming damage is proving too much for your ship
+and you&amp;rsquo;re beginning to take structure damage, warp out.&lt;/p&gt;
+
+&lt;h2 id=&#34;future-improvements&#34;&gt;Future Improvements&lt;/h2&gt;
+
+&lt;p&gt;The above fit should be usable with starting skills unless otherwise noted,
+and it uses relatively cheap and widely-available modules.&lt;/p&gt;
+
+&lt;p&gt;As you accumulate skill points and ISK, you will be able to fit more potent
+modules to your ship, increasing its effectiveness.  These modules may not be
+readily available outside of trade hubs, but it can be worth the trip.&lt;/p&gt;
+
+&lt;p&gt;We recommend working towards the following improved fit:&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118502/svg/118502-alpha-clone---improved-atron.svg?privatetoken=2111440561624842240&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118502/2111440561624842240&#34;&gt;View Alpha Clone - Improved Atron on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;p&gt;The improved fit will require the training of the following skills to use all installed equipment:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Weapon Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Hull Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The improved fit uses a &lt;code&gt;5MN Y-T8 Compact Microwarpdrive&lt;/code&gt; rather than an Afterburner.
+An MWD takes a large amount of capacitor to run,
+and causes a large increase to your ship&amp;rsquo;s signature radius,
+meaning that unlike the Afterburner, it is not useful for evading enemy fire.
+However, it provides a massively increased speed bonus.&lt;/p&gt;
+
+&lt;p&gt;You should activate the MWD only when moving to a new position or enemy,
+and disable it once you have arrived.&lt;/p&gt;
+
+&lt;p&gt;To compensate for the additional Powergrid requirement of the Microwarpdrive,
+the improved fit adds a &lt;code&gt;Small Ancillary Current Router I&lt;/code&gt; rig.&lt;/p&gt;
+
+&lt;p&gt;The improved fit adds a &lt;code&gt;Small Anti-Explosive Pump I&lt;/code&gt; to patch up the weak point
+in its armor&amp;rsquo;s resistances, and a &lt;code&gt;Small Auxiliary Nano Pump I&lt;/code&gt; to improve
+the effectiveness and efficiency of its armor repairer.&lt;/p&gt;
+
+&lt;p&gt;Nearly every module has been improved to a &amp;ldquo;meta&amp;rdquo; version, requiring less fitting space
+and granting improved effectiveness, but costing more ISK and/or being less widely available,
+or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Guns: 3x &lt;code&gt;Modal Light Ion Particle Accelerator I&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Web: &lt;code&gt;X5 Enduring Stasis Webifier&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Injector: &lt;code&gt;Small Electrochemical Capacitor Booster I&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Armor Repairer: &lt;code&gt;Small &#39;Accommodation&#39; Vestment Reconstructor I&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Control: &lt;code&gt;Damage Control II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Mod: &lt;code&gt;Magnetic Field Stabilizer II&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Badger</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/badger/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/badger/</guid>
+      <description>&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118481/svg/118481-alpha-clone---starter-badger.svg?privatetoken=1102763042573123584&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118481/1102763042573123584&#34;&gt;View Alpha Clone - Starter Badger on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breacher</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/breacher/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/breacher/</guid>
+      <description>&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118525/svg/118525-alpha-clone---starter-breacher.svg?privatetoken=3731824593036378112&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118525/3731824593036378112&#34;&gt;View Alpha Clone - Starter Breacher on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Catalyst</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/catalyst/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/catalyst/</guid>
+      <description>
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118506/svg/118506-alpha-clone---starter-catalyst.svg?privatetoken=472855717238276096&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118506/472855717238276096&#34;&gt;View Alpha Clone - Starter Catalyst on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+&lt;p&gt;The Catalyst uses 8 &lt;code&gt;125mm Railgun I&lt;/code&gt; turrets.
+Railguns are the &amp;ldquo;long-ranged&amp;rdquo; hybrid system, with some of the longest firing ranges in the game,
+compared to the extremely short-ranged Blasters.  In exchange, they deal less damage over time,
+are harder to fit, and have very poor tracking against close-in targets.&lt;/p&gt;
+
+&lt;p&gt;The railguns are loaded with &lt;code&gt;Antimatter Charge S&lt;/code&gt; ammunition.
+Antimatter is the shortest-ranged basic hybrid charge, but does the most damage.
+The base range of your railguns will allow you to easily outrange your enemies
+even with this short-ranged ammo, so more damage is always nice.
+You should keep about 2500 spare rounds in your cargohold.&lt;/p&gt;
+
+&lt;p&gt;Additionally, this fit uses a &lt;code&gt;Magnetic Field Stabilizer I&lt;/code&gt; in a low slot.
+This passively increases the damage output and rate of fire of its railguns.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;This ship uses a &lt;code&gt;Small Armor Repairer I&lt;/code&gt; in one of it low slots to repair incoming damage.&lt;/p&gt;
+
+&lt;p&gt;It also fits a &lt;code&gt;Damage Control I&lt;/code&gt; to increase its resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;1MN Afterburner I&lt;/code&gt; provides your ship with additional speed. This both makes it easier to
+catch enemy ships and also makes your ship harder to hit.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Stasis Webifier I&lt;/code&gt; helps your projectiles apply their damage better, because it&amp;rsquo;s easier to hit
+the slower targets. (It also makes it easier to stay at the proper range from the slower enemies.)&lt;/p&gt;
+
+&lt;h3 id=&#34;rigs&#34;&gt;Rigs&lt;/h3&gt;
+
+&lt;p&gt;Rigs are passive modifications to a ship, trading off one attribute against another.
+Unlike modules, rigs cannot be removed without being destroyed.
+As a starter fit, this fit makes limited use of rigging, since many &amp;ldquo;optimal&amp;rdquo; rigs
+are often relatively expensive and may be difficult to find near your starter station.&lt;/p&gt;
+
+&lt;p&gt;A &lt;code&gt;Small Hybrid Collision Accelerator I&lt;/code&gt; rig will give your hybrid turrets additional damage output,
+though it also increases the Powergrid usage of your guns.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-fly&#34;&gt;How To Fly&lt;/h3&gt;
+
+&lt;p&gt;This is designed as a mid-range fit.  Try to hang back from your targets
+at a range of about 7500m, locking and destroying them in quick succession.
+If targets are getting closer than that, use your Afterburner
+to pull back to a longer range.&lt;/p&gt;
+
+&lt;p&gt;As always, if the incoming damage is proving too much for your ship
+and you&amp;rsquo;re beginning to take structure damage, warp out.&lt;/p&gt;
+
+&lt;h2 id=&#34;future-improvements&#34;&gt;Future Improvements&lt;/h2&gt;
+
+&lt;p&gt;The above fit should be usable with starting skills unless otherwise noted,
+and it uses relatively cheap and widely-available modules.&lt;/p&gt;
+
+&lt;p&gt;As you accumulate skill points and ISK, you will be able to fit more potent
+modules to your ship, increasing its effectiveness.  These modules may not be
+readily available outside of trade hubs, but it can be worth the trip.&lt;/p&gt;
+
+&lt;p&gt;We recommend working towards the following improved fit:&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118507/svg/118507-alpha-clone---improved-catalyst.svg?privatetoken=2896119769365217280&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118507/2896119769365217280&#34;&gt;View Alpha Clone - Improved Catalyst on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;p&gt;The improved fit will require the training of the following skills to use all installed equipment:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Weapon Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Hull Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The improved fit uses a &lt;code&gt;5MN Quad LiF Restrained Microwarpdrive&lt;/code&gt; rather than an Afterburner.
+An MWD takes a large amount of capacitor to run,
+and causes a large increase to your ship&amp;rsquo;s signature radius,
+meaning that unlike the Afterburner, it is not useful for evading enemy fire.
+However, it provides a massively increased speed bonus.&lt;/p&gt;
+
+&lt;p&gt;You should activate the MWD only when moving to a new position or enemy,
+and disable it once you have arrived.&lt;/p&gt;
+
+&lt;p&gt;The improved fit replaces the weapon rig with a &lt;code&gt;Small Anti-Explosive Pump I&lt;/code&gt;, to patch the weak point
+in its armor&amp;rsquo;s resist profile.&lt;/p&gt;
+
+&lt;p&gt;It also adds two &lt;code&gt;Small Capacitor Control Circuit I&lt;/code&gt; rigs, passively increasing its capacitor regeneration
+and allowing the armor repairer to be run for longer periods.&lt;/p&gt;
+
+&lt;p&gt;Nearly every module has been improved to a &amp;ldquo;meta&amp;rdquo; version, requiring less fitting space
+and granting improved effectiveness, but costing more ISK and/or being less widely available,
+or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Guns: 8x &lt;code&gt;125mm Prototype Gauss Gun&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Web: &lt;code&gt;X5 Enduring Stasis Webifier&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Control: &lt;code&gt;Damage Control II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Armor Repairer: &lt;code&gt;Small Armor Repairer II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Mod: &lt;code&gt;Magnetic Field Stabilizer II&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coercer</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/coercer/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/coercer/</guid>
+      <description>
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118467/svg/118467-alpha-clone---starter-coercer.svg?privatetoken=4887651273651781632&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118467/4887651273651781632&#34;&gt;View Alpha Clone - Starter Coercer on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+&lt;p&gt;The Coercer uses 8 &lt;code&gt;Dual Light Beam Laser I&lt;/code&gt; turrets.
+Beam lasers are the &amp;ldquo;long-ranged&amp;rdquo; laser system, dealing damage at longer ranges
+than Pulse Lasers, but with worse tracking and slightly lower damage.&lt;/p&gt;
+
+&lt;p&gt;The beam lasers are each loaded with a single &lt;code&gt;Multifrequency S&lt;/code&gt; crystal.
+These basic crystals will never burn out, so you will only need to buy eight.
+Multifrequency is the shortest-ranged basic crystal, but does the most damage.&lt;/p&gt;
+
+&lt;p&gt;Additionally, this fit uses a &lt;code&gt;Heat Sink I&lt;/code&gt; in a low slot.
+This passively increases the damage output and rate of fire of its lasers.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;This ship uses a &lt;code&gt;Small Armor Repairer I&lt;/code&gt; in one of the low slots to repair incoming damage.&lt;/p&gt;
+
+&lt;p&gt;It also fits a &lt;code&gt;Damage Control I&lt;/code&gt; in a low slot to increase its resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;1MN Afterburner I&lt;/code&gt; provides your ship with additional speed. This both makes it easier to
+catch enemy ships and also makes your ship harder to hit.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Small Capacitor Booster I&lt;/code&gt; can provide your ship with an instant injection of Capacitor.
+This module must be fueled by charges, which act as consumable batteries.  Load it with
+&lt;code&gt;Cap Booster 200&lt;/code&gt; bought from the market, and bring along as many spares as you can carry (about 30-40).&lt;/p&gt;
+
+&lt;h3 id=&#34;rigs&#34;&gt;Rigs&lt;/h3&gt;
+
+&lt;p&gt;Rigs are passive modifications to a ship, trading off one attribute against another.
+Unlike modules, rigs cannot be removed without being destroyed.
+As a starter fit, this fit makes limited use of rigging, since many &amp;ldquo;optimal&amp;rdquo; rigs
+are often relatively expensive and may be difficult to find near your starter station.&lt;/p&gt;
+
+&lt;p&gt;A &lt;code&gt;Small Energy Collision Accelerator I&lt;/code&gt; rig will give your energy turrets additional damage output,
+though it also increases the Powergrid usage of your guns.&lt;/p&gt;
+
+&lt;p&gt;A &lt;code&gt;Small Energy Burst Aerator I&lt;/code&gt; rig will give your energy turrets a quicker rate of fire,
+though it also increases the Powergrid usage of your guns.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-fly&#34;&gt;How To Fly&lt;/h3&gt;
+
+&lt;p&gt;This is designed as a mid-range fit.  Try to hang back from your targets
+at a range of about 7500m, locking and destroying them in quick succession.
+If targets are getting closer than that, use your Afterburner
+to pull back to a longer range.&lt;/p&gt;
+
+&lt;p&gt;This ship has a Capacitor Booster.  As the charges for it are quite bulky,
+you can carry only a limited number.  Try to save the Booster charges for emergencies
+when you need the extra capacitor to run your repair module continuously.
+Under normal circumstances, use your repper sparingly, off your ship&amp;rsquo;s base capacitor.
+Keep an eye on your capacitor, and try not to let it go below about 25%.&lt;/p&gt;
+
+&lt;p&gt;As always, if the incoming damage is proving too much for your ship
+and you&amp;rsquo;re beginning to take structure damage, warp out.&lt;/p&gt;
+
+&lt;h2 id=&#34;future-improvements&#34;&gt;Future Improvements&lt;/h2&gt;
+
+&lt;p&gt;The above fit should be usable with starting skills unless otherwise noted,
+and it uses relatively cheap and widely-available modules.&lt;/p&gt;
+
+&lt;p&gt;As you accumulate skill points and ISK, you will be able to fit more potent
+modules to your ship, increasing its effectiveness.  These modules may not be
+readily available outside of trade hubs, but it can be worth the trip.&lt;/p&gt;
+
+&lt;p&gt;We recommend working towards the following improved fit:&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118468/svg/118468-alpha-clone---improved-coercer.svg?privatetoken=3428950839421566976&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118468/3428950839421566976&#34;&gt;View Alpha Clone - Improved Coercer on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;p&gt;The improved fit will require the training of the following skills to use all installed equipment:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Weapon Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Hull Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Energy Grid Upgrades&lt;/code&gt; Level III&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Coercer&amp;rsquo;s eight laser turrets make it extremely capacitor-hungry.
+Its bonus to laser capacitor consumption means you can substantially improve your
+capacitor life by training Amarr Destroyer to level III or IV.&lt;/p&gt;
+
+&lt;p&gt;The largest change to the improved fit is the loss of the Capacitor Booster,
+so that pilots are not required to restock on bulky Cap Booster charges or spend
+as much manual effort on managing their capacitor.&lt;/p&gt;
+
+&lt;p&gt;To compensate for the loss of the Capacitor Booster, the ship mounts a &lt;code&gt;Cap Recharger II&lt;/code&gt;,
+and replaces the rigs with three &lt;code&gt;Small Capacitor Control Circuit I&lt;/code&gt;, enhancing
+its passive capacitor recharge.  Keep an eye on your capacitor, and try
+not to let it dip below 25%.&lt;/p&gt;
+
+&lt;p&gt;Nearly every module has been improved to a &amp;ldquo;meta&amp;rdquo; version, requiring less fitting space
+and granting improved effectiveness, but costing more ISK and/or being less widely available,
+or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Guns: 8x &lt;code&gt;Dual Modulated Light Energy Beam I&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Propulsion: &lt;code&gt;1MN Monopropellant Enduring Afterburner&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Control: &lt;code&gt;Damage Control II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Armor Repairer: &lt;code&gt;Small Armor Repairer II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Mod: &lt;code&gt;Heat Sink II&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Condor</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/condor/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/condor/</guid>
+      <description>&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118484/svg/118484-alpha-clone---starter-condor.svg?privatetoken=546979529847996416&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118484/546979529847996416&#34;&gt;View Alpha Clone - Starter Condor on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Corax</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/corax/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/corax/</guid>
+      <description>&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118658/svg/118658-alpha-clone---starter-corax.svg?privatetoken=196222959671574528&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118658/196222959671574528&#34;&gt;View Alpha Clone - Starter Corax on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cormorant</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/cormorant/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/cormorant/</guid>
+      <description>
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118477/svg/118477-simulated-cormorant.svg?privatetoken=4681329501542547456&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118477/4681329501542547456&#34;&gt;View *Simulated Cormorant on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+&lt;p&gt;The Cormorant uses 7 &lt;code&gt;125mm Railgun I&lt;/code&gt; turrets.
+Railguns are the &amp;ldquo;long-ranged&amp;rdquo; hybrid system, with some of the longest firing ranges in the game,
+compared to the extremely short-ranged Blasters.  In exchange, they deal less damage over time,
+are harder to fit, and have very poor tracking against close-in targets.&lt;/p&gt;
+
+&lt;p&gt;The railguns are loaded with &lt;code&gt;Antimatter Charge S&lt;/code&gt; ammunition.
+Antimatter is the shortest-ranged basic hybrid charge, but does the most damage.
+The base range of your railguns will allow you to easily outrange your enemies
+even with this short-ranged ammo, so more damage is always nice.
+You should keep about 2500 spare rounds in your cargohold.&lt;/p&gt;
+
+&lt;p&gt;Additionally, this fit uses a &lt;code&gt;Magnetic Field Stabilizer I&lt;/code&gt; in a low slot.
+This passively increases the damage output and rate of fire of its railguns.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;This ship uses a &lt;code&gt;Medium Shield Booster I&lt;/code&gt; in one of the mid slots to repair incoming damage.
+The capacitor consumption of this module is very high, so it should be used sparingly.&lt;/p&gt;
+
+&lt;p&gt;It also fits a &lt;code&gt;Damage Control I&lt;/code&gt; to increase its resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;1MN Afterburner I&lt;/code&gt; provides your ship with additional speed. This both makes it easier to
+catch enemy ships and also makes your ship harder to hit.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Small Capacitor Booster I&lt;/code&gt; can provide your ship with an instant injection of Capacitor.
+This module must be fueled by charges, which act as consumable batteries.  Load it with
+&lt;code&gt;Cap Booster 200&lt;/code&gt; bought from the market, and bring along as many spares as you can carry (about 10).&lt;/p&gt;
+
+&lt;h3 id=&#34;rigs&#34;&gt;Rigs&lt;/h3&gt;
+
+&lt;p&gt;Rigs are passive modifications to a ship, trading off one attribute against another.
+Unlike modules, rigs cannot be removed without being destroyed.
+As a starter fit, this fit makes limited use of rigging, since many &amp;ldquo;optimal&amp;rdquo; rigs
+are often relatively expensive and may be difficult to find near your starter station.&lt;/p&gt;
+
+&lt;p&gt;This ship is fit with two &lt;code&gt;Small Anti-EM Screen Reinforcer I&lt;/code&gt; rigs and one
+&lt;code&gt;Small Anti-Thermal Screen Reinforcer I&lt;/code&gt; rig, to improve its shields&amp;rsquo; resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-fly&#34;&gt;How To Fly&lt;/h3&gt;
+
+&lt;p&gt;This is designed as a mid-range fit.  Try to hang back from your targets
+at a range of about 7500m to 1000m, locking and destroying them in quick succession.
+If targets are getting closer than that, use your Afterburner
+to pull back to a longer range.&lt;/p&gt;
+
+&lt;p&gt;This ship has a Capacitor Booster.  As the charges for it are quite bulky,
+you can carry only a limited number.  Try to save the Booster charges for emergencies
+when you need the extra capacitor to run your repair module continuously.
+Under normal circumstances, use your repper sparingly, off your ship&amp;rsquo;s base capacitor.
+Keep an eye on your capacitor, and try not to let it go below about 25%.&lt;/p&gt;
+
+&lt;p&gt;As always, if the incoming damage is proving too much for your ship
+and you&amp;rsquo;re beginning to take structure damage, warp out.&lt;/p&gt;
+
+&lt;h2 id=&#34;future-improvements&#34;&gt;Future Improvements&lt;/h2&gt;
+
+&lt;p&gt;The above fit should be usable with starting skills unless otherwise noted,
+and it uses relatively cheap and widely-available modules.&lt;/p&gt;
+
+&lt;p&gt;As you accumulate skill points and ISK, you will be able to fit more potent
+modules to your ship, increasing its effectiveness.  These modules may not be
+readily available outside of trade hubs, but it can be worth the trip.&lt;/p&gt;
+
+&lt;p&gt;We recommend working towards the following improved fit:&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118480/svg/118480-alpha-clone---improved-cormorant.svg?privatetoken=988938429179887616&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118480/988938429179887616&#34;&gt;View Alpha Clone - Improved Cormorant on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;p&gt;The improved fit will require the training of the following skills to use all installed equipment:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Weapon Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Hull Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Energy Grid Upgrades&lt;/code&gt; Level I&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The largest change to the improved fit is the loss of the Capacitor Booster,
+so that pilots are not required to restock on bulky Cap Booster charges or spend
+as much manual effort on managing their capacitor.&lt;/p&gt;
+
+&lt;p&gt;To compensate for the loss of the Capacitor Booster, the ship mounts a &lt;code&gt;Cap Recharger II&lt;/code&gt;,
+and replaces the Anti-Thermal and one of the Anti-EM rigs with two &lt;code&gt;Small Capacitor Control Circuit I&lt;/code&gt;, enhancing its passive capacitor recharge.  Keep an eye on your capacitor, and try
+not to let it dip below 25%.&lt;/p&gt;
+
+&lt;p&gt;The shield booster has been downsized from Medium to a &lt;code&gt;Small Shield Booster II&lt;/code&gt;.
+This reduces the maximum &amp;ldquo;burst-tanking&amp;rdquo; power of its defense,
+but allows the booster&amp;rsquo;s use to be sustained for much longer.&lt;/p&gt;
+
+&lt;p&gt;The reduced fitting cost allows the use of more powerful and longer-ranged guns,
+increasing its effective range to about 15-20km.  You can play the improved fit as
+more of a true sniper, hanging back out of range of the enemy&amp;rsquo;s return fire and
+picking them off from afar.&lt;/p&gt;
+
+&lt;p&gt;Nearly every module has been improved to a &amp;ldquo;meta&amp;rdquo; version, requiring less fitting space
+and granting improved effectiveness, but costing more ISK and/or being less widely available,
+or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Guns: 7x &lt;code&gt;150mm Prototype Gauss Gun&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Propulsion: &lt;code&gt;1MN Monopropellant Enduring Afterburner&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Control: &lt;code&gt;Damage Control II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Shield Booster: &lt;code&gt;Small Shield Booster II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Mod: &lt;code&gt;Magnetic Field Stabilizer II&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dragoon</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/dragoon/</link>
+      <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/dragoon/</guid>
+      <description>&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118662/svg/118662-alpha-clone---starter-dragoon.svg?privatetoken=7996869113878151168&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118662/7996869113878151168&#34;&gt;View Alpha Clone - Starter Dragoon on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

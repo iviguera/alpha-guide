@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corps-rsses on The Alpha&#39;s Guide to the Galaxy</title>
+    <link>https://iviguera.github.io/alpha-guide/corps/index.xml</link>
+    <description>Recent content in Corps-rsses on The Alpha&#39;s Guide to the Galaxy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2016 18:56:39 -0800</lastBuildDate>
+    <atom:link href="https://iviguera.github.io/alpha-guide/corps/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Join a Corporation</title>
+      <link>https://iviguera.github.io/alpha-guide/corps/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/corps/</guid>
+      <description>
+
+&lt;p&gt;While it is certainly possible to play EVE alone, it&amp;rsquo;s generally a lot more fun
+to have a group of other people who share your interests. Joining a corporation
+will give you many more options than you&amp;rsquo;d have flying alone.&lt;/p&gt;
+
+&lt;h3 id=&#34;starter-npc-corps&#34;&gt;Starter NPC Corps&lt;/h3&gt;
+
+&lt;p&gt;You start the game in one of these, automatically assigned based on how you created
+your character - your race and bloodline. If you ever join a different corp and then
+quit it later, you&amp;rsquo;ll be placed back into another NPC corp based on your race.&lt;/p&gt;
+
+&lt;p&gt;All NPC corps have a built-in tax rate of 10%. That means any mission rewards you earn
+will be charged a 10% fee.&lt;/p&gt;
+
+&lt;h3 id=&#34;factional-warfare-npc-corps&#34;&gt;Factional Warfare NPC Corps&lt;/h3&gt;
+
+&lt;p&gt;Faction Warfare (FW) allows you to sign up to PvP for your race&amp;rsquo;s empire in low-sec
+space: Amarr vs. Minmatar and Caldari vs. Gallente. There are two ways of getting into
+faction warfare - you can either join the empire&amp;rsquo;s FW NPC corp, or you can find a
+player-run corp that participates in faction warfare.&lt;/p&gt;
+
+&lt;p&gt;For more details about Faction Warfare, see the &lt;a href=&#34;http://wiki.eveuniversity.org/Factional Warfare&#34;&gt;UniWiki Factional Warfare guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;player-run-corps&#34;&gt;Player-run Corps&lt;/h3&gt;
+
+&lt;p&gt;Players can create their own corporations (and in fact the majority of corporations
+in EVE are player-created). These corporations can set their own tax rates, declare
+war against one another, conquer parts of null-security space, and more.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

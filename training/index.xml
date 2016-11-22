@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Training-rsses on The Alpha&#39;s Guide to the Galaxy</title>
+    <link>https://iviguera.github.io/alpha-guide/training/index.xml</link>
+    <description>Recent content in Training-rsses on The Alpha&#39;s Guide to the Galaxy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2016 18:56:39 -0800</lastBuildDate>
+    <atom:link href="https://iviguera.github.io/alpha-guide/training/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adjust Your Skill Queue</title>
+      <link>https://iviguera.github.io/alpha-guide/training/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/training/</guid>
+      <description>&lt;p&gt;Now that you have a better sense of what you&amp;rsquo;re interested in doing in EVE,
+it&amp;rsquo;s time to adjust your skill queue to train the skills that will help you
+with your chosen activities.&lt;/p&gt;
+
+&lt;p&gt;The next few pages will walk through various aspects you might consider
+for skill training.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Core Skills</title>
+      <link>https://iviguera.github.io/alpha-guide/training/core/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/training/core/</guid>
+      <description>&lt;p&gt;There are some skills that basically every player will want to train
+because they&amp;rsquo;re useful no matter what ship you&amp;rsquo;re flying.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Hull Upgrades&lt;/code&gt; Level IV allows you to use the better Damage Control II
+module, which is a significant improvement over the basic version of the module,
+making your ship more survivable.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Shield Upgrades&lt;/code&gt; Level IV allows you to use better shield-related modules, improving
+your shield-based defenses. (Caldari, Gallente, and Minmatar only. If you&amp;rsquo;re
+using ships that focus on armor defenses, you can skip this for now.)&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Energy Grid Upgrades&lt;/code&gt; Level III allows you to use a lot of new capacitor-related
+modules, making it easier to create ship fits that don&amp;rsquo;t run out of capacitor
+quite as easily. Level IV lets you upgrade many of those modules to their better
+tech 2 variants, further improving capacitor benefits. You&amp;rsquo;ll definitely want to
+train III, and eventually you&amp;rsquo;ll want to train IV, too.&lt;/p&gt;
+
+&lt;p&gt;If the ships you&amp;rsquo;re flying have drone bays, &lt;code&gt;Drones&lt;/code&gt; Level III and
+&lt;code&gt;Light Drone Operation&lt;/code&gt; Level I are highly recommended so that your ships
+can use at least light combat drones, which provide some additional combat
+capability for any ship with a drone bay. If you decide to keep using
+drones you&amp;rsquo;ll eventually want to train &lt;code&gt;Drones&lt;/code&gt; Level V so that you
+can launch up to 5 drones (assuming the ship allows it).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Combat Skills</title>
+      <link>https://iviguera.github.io/alpha-guide/training/combat/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/training/combat/</guid>
+      <description>
+
+&lt;p&gt;If you&amp;rsquo;ve chosen a path that involves fighting other ships, here are some
+skills you&amp;rsquo;ll probably want to train:&lt;/p&gt;
+
+&lt;h3 id=&#34;general-combat-skills&#34;&gt;General Combat Skills&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;Weapon Upgrades&lt;/code&gt; Level IV allows you to use the tech 2 versions of
+the damage bonus modules: Heat Sink II for lasers, Ballistic Control System
+II for missiles, Magnetic Field Stabilizer II for hybrid weapons, Gyrostabilizer
+II for projectile weapons, and Drone Damage Amplifier II for drones. Better
+modules means more damage means faster ISK.&lt;/p&gt;
+
+&lt;h3 id=&#34;drone-combat-skills&#34;&gt;Drone Combat Skills&lt;/h3&gt;
+
+&lt;p&gt;If your ships have drone bays, you&amp;rsquo;ll also want to further train your drone skills.
+&lt;code&gt;Light Drone Operation&lt;/code&gt; Level IV is a good investment as the increased drone
+damage will benefit any ship with a drone bay. Eventually you will want to train
+the other drone support skills as well to improve the performance of your drones
+even further.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Drones&lt;/code&gt; allows you to control more drones simultaneously.  If flying ships with
+at least 25 Mbit/sec of drone bandwidth (enough to control five light drones),
+you will want to train this to level V when time allows.  Level IV is required
+to train many of the support skills, and Level III is required to use drones at all.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Drone Navigation&lt;/code&gt; increases the flight speed of your drones, meaning less time spent
+waiting for them to reach their target.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Drone Avionics&lt;/code&gt; increases the range at which you can command your drones to attack.
+Training this to level III should be sufficient to allow a frigate or destroyer
+to command drones out to its maximum lock range.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Drone Durability&lt;/code&gt; increases all your drones&amp;rsquo; HP.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Drone Interfacing&lt;/code&gt; provides a substantial damage boost to all drones.
+However, it requires Drones V to be trained as a pre-requisite.&lt;/p&gt;
+
+&lt;h3 id=&#34;shield-skills&#34;&gt;Shield Skills&lt;/h3&gt;
+
+&lt;p&gt;If you&amp;rsquo;re flying ships that use shields as their main form of defense, you&amp;rsquo;ll want
+to train these skills to improve your shield defenses:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Shield Operation&lt;/code&gt; Level IV improves the rate at which you&amp;rsquo;re shields recharge and is
+also required in order to train the various Shield Compensation skills, each of which
+improves one of types of shield resistance for your ship.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Shield Compensation&lt;/code&gt; Level III minimizes the cost of your shield booster module,
+allowing you to run it longer for more boosting.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Shield Management&lt;/code&gt; increases your total shield amount, you should train it as high
+as possible for your race when you get the chance.&lt;/p&gt;
+
+&lt;h3 id=&#34;armor-skills&#34;&gt;Armor Skills&lt;/h3&gt;
+
+&lt;p&gt;If you&amp;rsquo;re flying ships that use armor as their main form of defense, you&amp;rsquo;ll want to
+train these skills to improve your armor defenses:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Repair Systems&lt;/code&gt; Level III allows you to use a Small Armor Repairer II, which provides
+more repairs than the basic armor repairer.&lt;/p&gt;
+
+&lt;h3 id=&#34;gunnery-skills&#34;&gt;Gunnery Skills&lt;/h3&gt;
+
+&lt;p&gt;If you&amp;rsquo;re flying ships that use turrets as their main weapon system, you&amp;rsquo;ll want
+to train these skills to improve your turret weapons:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Surgical Strike&lt;/code&gt; offers a straight up bonus to all turret damage. You&amp;rsquo;ll want
+to train it as high as possible for maximum damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Rapid Firing&lt;/code&gt; increases the fire rate of your turrets, increasing your
+overall damage output. You&amp;rsquo;ll want to train it as high as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Motion Prediction&lt;/code&gt; increases the tracking speed of your turrets, making
+it less likely that you&amp;rsquo;ll miss. You&amp;rsquo;ll want to eventually train it as high
+as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Sharpshooter&lt;/code&gt; increases the optimal range of your turrets by a percentage, extending
+the distance at which they are most effective. (This benefits projectile turrets
+less due to their low base optimal range, so Minmatar alpha clone pilots can wait
+to train this skill.)&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Trajectory Analysis&lt;/code&gt; increases the falloff distance of your turrets by a percentage,
+extending the distance at which they are effective.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Controlled Bursts&lt;/code&gt; decreases the capacitor cost of firing your turrets. Minmatar alpha
+clone pilots can ignore this skill since projectile turrets don&amp;rsquo;t use capacitor. For
+everyone else, it&amp;rsquo;s generally a good idea to train this skill.&lt;/p&gt;
+
+&lt;h3 id=&#34;missile-skills&#34;&gt;Missile Skills&lt;/h3&gt;
+
+&lt;p&gt;If you&amp;rsquo;re flying ships that use missiles as their main weapon system, you&amp;rsquo;ll want
+to train these skills to improve your missile launchers:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Light Missiles&lt;/code&gt; is required to use light missile launchers and provides a straight
+up bonus to light missile damage for each level. Train it to at least Level I, and
+if you plan to keep flying missile-using frigates for a while, train it as high as
+possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Missile Launcher Operation&lt;/code&gt; improves your launcher rate of fire, increasing your
+overall damage output. Train it as high as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Warhead Upgrades&lt;/code&gt; provides a straight up bonus to missile damage that stacks
+with the bonus from other skills. Train it as high as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Rapid Launch&lt;/code&gt; increases your launcher rate of fire and stacks with the bonuses
+from Missile Launcher Operation, increasing your overall damage output. Train it
+as high as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Missile Projection&lt;/code&gt; makes your missiles fly faster, which means they also fly
+further. It&amp;rsquo;s generally a good idea to eventually train it as high as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Missile Bombardment&lt;/code&gt; allows your missiles to fly longer, which means they also fly
+further. It&amp;rsquo;s generally a good idea to eventually train it as high as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploration Skills</title>
+      <link>https://iviguera.github.io/alpha-guide/training/exploration/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/training/exploration/</guid>
+      <description>
+
+&lt;p&gt;If you&amp;rsquo;ve chosen to try out exploration further, you&amp;rsquo;ll want to train the following:&lt;/p&gt;
+
+&lt;h3 id=&#34;general-scanning-skills&#34;&gt;General Scanning Skills&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;Astrometric Acquisition&lt;/code&gt; and &lt;code&gt;Astrometric Rangefinding&lt;/code&gt; make it easier to
+scan down cosmic signatures. You&amp;rsquo;ll want to train them both to Level II.&lt;/p&gt;
+
+&lt;p&gt;Also make sure to train your racial Frigate skill all the way to Level IV,
+as that will increase the effectiveness of your exploration ship&amp;rsquo;s bonuses.&lt;/p&gt;
+
+&lt;h3 id=&#34;exploration-skills&#34;&gt;Exploration Skills&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;Archeology&lt;/code&gt; increases your Virus Coherence (&amp;ldquo;health&amp;rdquo;) when hacking relic
+site containers. Training this to Level III will help you successfully
+complete hacks more often. &lt;code&gt;Hacking&lt;/code&gt; is the equivalent for data sites,
+but it&amp;rsquo;s less of a priority since relic sites are the better of the two.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mining Skills</title>
+      <link>https://iviguera.github.io/alpha-guide/training/mining/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/training/mining/</guid>
+      <description>
+
+&lt;p&gt;If you&amp;rsquo;ve chosen to further explore mining, you&amp;rsquo;ll want to train these skills:&lt;/p&gt;
+
+&lt;h3 id=&#34;general-mining-skills&#34;&gt;General Mining Skills&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;Mining Frigate&lt;/code&gt; Level IV - as an alpha clone, the best ship available to you
+for mining is the Venture. Training up this skill will improve the Venture&amp;rsquo;s
+mining bonuses.&lt;/p&gt;
+
+&lt;h3 id=&#34;ore-mining&#34;&gt;Ore Mining&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;Mining&lt;/code&gt; Level IV adds a little more yield to your mining lasers, so each cycle
+will obtain a bit more ore.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Mining Upgrades&lt;/code&gt; Level IV lets you use a Mining Laser Upgrade II which provides
+the best bonus to mining lasers available in a module. (Even just Level I will
+let you use the basic version of the module for a smaller bonus.)&lt;/p&gt;
+
+&lt;h3 id=&#34;gas-harvesting&#34;&gt;Gas Harvesting&lt;/h3&gt;
+
+&lt;p&gt;If you want, you can also explore gas harvesting, which is very similar to ore
+mining but is done at special gas sites which have to be scanned down with probes.
+If you want to harvest gas, train &lt;code&gt;Gas Cloud Harvesting&lt;/code&gt; Level II and equip your
+Venture with a pair of gas harvesters instead of mining lasers.&lt;/p&gt;
+
+&lt;p&gt;The skill book for Gas Harvesting is somewhat expensive, and the gas harvesters
+themselves are also a little spendy. However, the gas mined with them will often
+fetch a higher price than ore would.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ship Skills</title>
+      <link>https://iviguera.github.io/alpha-guide/training/ship/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/training/ship/</guid>
+      <description>&lt;p&gt;Nearly everyone will want to train their race&amp;rsquo;s Frigate skill up to at least
+Level III, as this both improves the effectiveness of their frigate&amp;rsquo;s ship bonuses
+and also unlocks additional classes of ships for training.&lt;/p&gt;
+
+&lt;p&gt;If the path you&amp;rsquo;ve chosen involves flying frigates a lot, you&amp;rsquo;ll probably want
+to go a bit further and train the skill to Level IV to further improve your
+ship bonuses.&lt;/p&gt;
+
+&lt;p&gt;If the path you&amp;rsquo;ve chosen involves upgrading to higher classes of ships, you&amp;rsquo;ll
+probably want to start training towards cruisers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trade Skills</title>
+      <link>https://iviguera.github.io/alpha-guide/training/trade/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/training/trade/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;ve chosen a path that involves lots of buying and selling things on
+the market, you&amp;rsquo;ll want to improve your trading skills. You can skip these
+skills if chosing a path that doesn&amp;rsquo;t focus on the market.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Trade&lt;/code&gt; Level III will maximize the number of simultaneous buy and sell orders
+you can have posted on the market at once as an alpha clone.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Broker Relations&lt;/code&gt; Level II will slightly reduce the fees involved in creating
+market orders. It&amp;rsquo;s a small difference, but over time that can add up to a lot
+of ISK.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

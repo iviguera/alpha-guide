@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Alpha&#39;s Guide to the Galaxy</title>
+    <link>https://iviguera.github.io/alpha-guide/index.xml</link>
+    <description>Recent content on The Alpha&#39;s Guide to the Galaxy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2016 18:56:39 -0800</lastBuildDate>
+    <atom:link href="https://iviguera.github.io/alpha-guide/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adjust Your Skill Queue</title>
+      <link>https://iviguera.github.io/alpha-guide/training/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/training/</guid>
+      <description>&lt;p&gt;Now that you have a better sense of what you&amp;rsquo;re interested in doing in EVE,
+it&amp;rsquo;s time to adjust your skill queue to train the skills that will help you
+with your chosen activities.&lt;/p&gt;
+
+&lt;p&gt;The next few pages will walk through various aspects you might consider
+for skill training.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Choose Your Adventure</title>
+      <link>https://iviguera.github.io/alpha-guide/new-goals/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/new-goals/</guid>
+      <description>&lt;p&gt;EVE is a sandbox game, so there&amp;rsquo;s no particular progression for you to follow
+once you&amp;rsquo;re past the tutorials. It&amp;rsquo;s time to figure out what you want to do.&lt;/p&gt;
+
+&lt;p&gt;Now that you&amp;rsquo;ve finished the career agents&amp;rsquo; mission chains you should have a
+little bit better sense of how some of the various EVE activities work. The
+following pages will provide you with some more details about various options
+for what you can do in EVE, and point you in the right direction for each of
+them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Join a Corporation</title>
+      <link>https://iviguera.github.io/alpha-guide/corps/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/corps/</guid>
+      <description>
+
+&lt;p&gt;While it is certainly possible to play EVE alone, it&amp;rsquo;s generally a lot more fun
+to have a group of other people who share your interests. Joining a corporation
+will give you many more options than you&amp;rsquo;d have flying alone.&lt;/p&gt;
+
+&lt;h3 id=&#34;starter-npc-corps&#34;&gt;Starter NPC Corps&lt;/h3&gt;
+
+&lt;p&gt;You start the game in one of these, automatically assigned based on how you created
+your character - your race and bloodline. If you ever join a different corp and then
+quit it later, you&amp;rsquo;ll be placed back into another NPC corp based on your race.&lt;/p&gt;
+
+&lt;p&gt;All NPC corps have a built-in tax rate of 10%. That means any mission rewards you earn
+will be charged a 10% fee.&lt;/p&gt;
+
+&lt;h3 id=&#34;factional-warfare-npc-corps&#34;&gt;Factional Warfare NPC Corps&lt;/h3&gt;
+
+&lt;p&gt;Faction Warfare (FW) allows you to sign up to PvP for your race&amp;rsquo;s empire in low-sec
+space: Amarr vs. Minmatar and Caldari vs. Gallente. There are two ways of getting into
+faction warfare - you can either join the empire&amp;rsquo;s FW NPC corp, or you can find a
+player-run corp that participates in faction warfare.&lt;/p&gt;
+
+&lt;p&gt;For more details about Faction Warfare, see the &lt;a href=&#34;http://wiki.eveuniversity.org/Factional Warfare&#34;&gt;UniWiki Factional Warfare guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;player-run-corps&#34;&gt;Player-run Corps&lt;/h3&gt;
+
+&lt;p&gt;Players can create their own corporations (and in fact the majority of corporations
+in EVE are player-created). These corporations can set their own tax rates, declare
+war against one another, conquer parts of null-security space, and more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keep Learning</title>
+      <link>https://iviguera.github.io/alpha-guide/learn-more/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/learn-more/</guid>
+      <description>&lt;p&gt;At this point you should be off to an excellent start in EVE:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You&amp;rsquo;ve explored different options for what to do.&lt;/li&gt;
+&lt;li&gt;You have some ships with effective fits and know how to use them.&lt;/li&gt;
+&lt;li&gt;You have a plan for training new skills.&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;ve (probably) found a group of people to play with.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;EVE has a lot of complexity. To explore more of it, consider checking out some of these other
+excellent sites:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://wiki.eveuniversity.org&#34;&gt;UniWiki&lt;/a&gt; is maintained by EVE University with articles on a wide
+variety of EVE topics.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.braveineve.com/&#34;&gt;BRAVE Wiki&lt;/a&gt; is another wiki maintained by Brave Newbies.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://crossingzebras.com/&#34;&gt;Crossing Zebras&lt;/a&gt; is an EVE fan site with many articles and podcasts about EVE.&lt;/li&gt;
+&lt;li&gt;The official &lt;a href=&#34;https://community.eveonline.com/&#34;&gt;EVE Community&lt;/a&gt; site has news, patch notes, and forums to read.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can also browse the final section of this site (Reference Material) for individual tips and information that
+didn&amp;rsquo;t fit into the &amp;ldquo;walkthrough&amp;rdquo; portion of the guide.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reference Material</title>
+      <link>https://iviguera.github.io/alpha-guide/reference/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/reference/</guid>
+      <description>&lt;p&gt;The pages in this section don&amp;rsquo;t fit into the overall walkthrough in sections #1-9.&lt;/p&gt;
+
+&lt;p&gt;Feel free to browse the list of references in the menu.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talk to Career Agents</title>
+      <link>https://iviguera.github.io/alpha-guide/career-agents/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/career-agents/</guid>
+      <description>&lt;p&gt;In addition to the introductory tutorial, there are also a handful of Career Agents
+which will provide you with various missions introducing you to a particular kind of
+gameplay. These missions are an excellent way to explore some of the possibilities in
+EVE while also acquiring some extra ISK and ship hulls.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Upgrade to a New Ship</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/</guid>
+      <description>&lt;p&gt;By this point you should have the resources to move on from the basic rookie ship to
+something better. The ships you have available will depend on your race, so choose
+the proper link below to go to the subsection appropriate for you:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/&#34;&gt;Amarr&lt;/a&gt; /
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/&#34;&gt;Caldari&lt;/a&gt; /
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/&#34;&gt;Gallente&lt;/a&gt; /
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/&#34;&gt;Minmatar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use the Market</title>
+      <link>https://iviguera.github.io/alpha-guide/market/</link>
+      <pubDate>Fri, 18 Nov 2016 18:35:17 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/market/</guid>
+      <description>
+
+&lt;h3 id=&#34;searching-the-market&#34;&gt;Searching the Market&lt;/h3&gt;
+
+&lt;p&gt;When following this guide you&amp;rsquo;ll almost always be wanting particular items
+from the market. The fastest way to find those items is use the search box.
+Copy the name of the item and paste it into the box to the left of the
+&amp;ldquo;Search&amp;rdquo; button, then click that button. A list of results (most likely
+with only a single item, but sometimes more) will appear beneath.
+Click the item in the result list to see where that item is available.&lt;/p&gt;
+
+&lt;h3 id=&#34;buying-items&#34;&gt;Buying Items&lt;/h3&gt;
+
+&lt;p&gt;When viewing market listings for a particular item you will see two sections:
+Sellers and Buyers. We&amp;rsquo;re going to concentrate on the Sellers section for now
+because we want to buy items from those Sellers.&lt;/p&gt;
+
+&lt;h4 id=&#34;sort-your-sellers-list&#34;&gt;Sort your sellers list&lt;/h4&gt;
+
+&lt;p&gt;First of all: &lt;strong&gt;make sure your sellers are sorted by Price, ascending&lt;/strong&gt;.
+This means that the price column should be the only column with an upwards-pointing
+triangle on the right side of it. Try clicking the price column header to change the sorting.
+Click the price column as many times as you need until it&amp;rsquo;s sorting properly. This is
+to make sure you&amp;rsquo;re not accidentally buying a highly overpriced version of the item
+just because it happens to be a system closer.&lt;/p&gt;
+
+&lt;p&gt;Sorting by price also helps you avoid a scam where someone lists an item for what seems to
+be a cheaper price, but actually has a few extra zeroes on the end - so you wind up
+paying 1 million isk instead of 1 thousand isk or similar.&lt;/p&gt;
+
+&lt;h4 id=&#34;look-at-the-availability&#34;&gt;Look at the availability&lt;/h4&gt;
+
+&lt;p&gt;Now, look through the list. The first column, &lt;strong&gt;Jumps&lt;/strong&gt;, shows you how far you&amp;rsquo;ll need to go
+to pick up the item after buying it. When you buy an item, you buy it in the station where
+it was listed - not necessarily in your current station. So if the &amp;lsquo;Jumps&amp;rsquo; column reads
+&amp;lsquo;5&amp;rsquo;, that means that after buying the item you&amp;rsquo;ll need to jump through 5 stargates to reach
+the system where you bought the item. If the jumps column says &amp;lsquo;System&amp;rsquo; it means the item
+is located in your current system but a different station, and if it says &amp;lsquo;Station&amp;rsquo; it means
+that it&amp;rsquo;s listed in the same station you&amp;rsquo;re currently in.&lt;/p&gt;
+
+&lt;p&gt;Next up is &lt;strong&gt;Quantity&lt;/strong&gt; - displaying how many items are available via that seller. If you want
+to buy more, you&amp;rsquo;ll need to get them from multiple sellers.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Price&lt;/strong&gt; column lists the price per unit being offered; if the listed price is 100.00
+ISK and you want to buy 50 of the item, you&amp;rsquo;ll wind up paying 5000 ISK total.&lt;/p&gt;
+
+&lt;p&gt;You can see exactly which station the items are listed from in the &lt;strong&gt;Location&lt;/strong&gt; column. This is
+important - before buying items in another system, you&amp;rsquo;ll probably want to check to make sure
+you can get there without having to go through low-security space (0.4 and below). Otherwise
+you might get ganked on the way. You can right-click on a particular seller and choose
+Location -&amp;gt; Set Destination to a set an autopilot course to it, and then look at the colored
+dots that the autopilot shows you: if any of them are orange or red, don&amp;rsquo;t buy from there.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fit Your Rookie Ship</title>
+      <link>https://iviguera.github.io/alpha-guide/rookie-fitting/</link>
+      <pubDate>Fri, 18 Nov 2016 17:26:45 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/rookie-fitting/</guid>
+      <description>&lt;p&gt;Now that you&amp;rsquo;re done with the tutorial (and probably just got your ship blown up),
+you might be wondering what to do next.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t panic!&lt;/p&gt;
+
+&lt;p&gt;The easiest ship to get your hands on is your own race&amp;rsquo;s corvette (typically known
+as a &amp;ldquo;rookie ship&amp;rdquo;). You get one for free if you don&amp;rsquo;t have any other ships in the
+station you&amp;rsquo;re in. In fact, you probably already have one if you docked up after
+exploding.&lt;/p&gt;
+
+&lt;p&gt;You can significantly improve the effectiveness of your rookie ship by properly fitting
+it with modules bought from the market. Select your race below to see a suggested fit
+for your racial rookie ship that you can use without having to train more skills.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/rookie-fitting/amarr/&#34;&gt;Amarr&lt;/a&gt; / &lt;a href=&#34;https://iviguera.github.io/alpha-guide/rookie-fitting/caldari/&#34;&gt;Caldari&lt;/a&gt; /
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/rookie-fitting/gallente/&#34;&gt;Gallente&lt;/a&gt; / &lt;a href=&#34;https://iviguera.github.io/alpha-guide/rookie-fitting/minmatar/&#34;&gt;Minmatar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://iviguera.github.io/alpha-guide/start/</link>
+      <pubDate>Fri, 18 Nov 2016 16:35:02 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/start/</guid>
+      <description>
+
+&lt;h3 id=&#34;span-style-color-e00-font-weight-bold-font-size-300-text-shadow-2px-2px-a00-line-height-100-don-t-panic-span&#34;&gt;&lt;span style=&#34;color:#e00;font-weight:bold;font-size:300%;text-shadow:2px 2px #a00;line-height:100%;&#34;&gt;DON&amp;rsquo;T PANIC&lt;/span&gt;&lt;/h3&gt;
+
+&lt;h1 id=&#34;the-alpha-s-guide-to-the-galaxy&#34;&gt;The Alpha&amp;rsquo;s Guide to the Galaxy&lt;/h1&gt;
+
+&lt;p&gt;A guide for alpha-clone players of EVE Online.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Business Agent</title>
+      <link>https://iviguera.github.io/alpha-guide/career-agents/business/</link>
+      <pubDate>Fri, 18 Nov 2016 18:59:33 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/career-agents/business/</guid>
+      <description>
+
+&lt;p&gt;This mission chain is &lt;strong&gt;Balancing the Books&lt;/strong&gt;. Its 10 missions will have you doing
+salvaging, hacking, mining, and a bit of running around delivering things to agents
+in different systems. These are ways that you can make money in EVE without having
+to use your weapons.&lt;/p&gt;
+
+&lt;p&gt;If you get stuck, there&amp;rsquo;s a video guide to the missions that begins
+here: &lt;a href=&#34;https://www.youtube.com/watch?v=2RtjAYs8spU&#34;&gt;https://www.youtube.com/watch?v=2RtjAYs8spU&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Since the video guide was made in 2015, the older interfaces may look a bit
+different from what you see now, but the general steps to complete the mission
+will be the same.&lt;/p&gt;
+
+&lt;p&gt;As you complete the chain, you&amp;rsquo;ll earn a couple of new ships, some skill books,
+some modules, and a good chunk of ISK.&lt;/p&gt;
+
+&lt;h4 id=&#34;common-stumbling-blocks&#34;&gt;Common Stumbling Blocks&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In mission 2 of 10, the Black Box will be ejected into a Cargo Container
+when you destroy the last pirate.  Remember to pick it up before returning to station.
+If you forgot, you can warp back to the mission site within 2 hours and it will still be there.&lt;/li&gt;
+&lt;li&gt;In mission 3 of 10, the Veldspar must be mined in the mission site.&lt;/li&gt;
+&lt;li&gt;In mission 6 of 10, the Tracking Computer I is most easily acquired from the Market.
+See the &lt;a href=&#34;https://iviguera.github.io/alpha-guide/market/&#34;&gt;Use the Market&lt;/a&gt; section if you&amp;rsquo;re having trouble.&lt;/li&gt;
+&lt;li&gt;In mission 9 of 10, you can use &lt;code&gt;1MN Afterburner I&lt;/code&gt; modules acquired from other Career Agent
+missions or from the Market.  Make sure they are Repackaged (right-click -&amp;gt; &amp;ldquo;Repackage&amp;rdquo;)
+or the agent will not accept them.&lt;/li&gt;
+&lt;li&gt;In mission 10 of 10, the manufacturing process will take substantial time;
+you can do other things (such as other career agent missions) while the build is in progress.
+Some of the minerals required may be most easily sourced through the Market rather than via mining.
+You can also just buy the ammunition off the market, despite what the agent says.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploration Agent</title>
+      <link>https://iviguera.github.io/alpha-guide/career-agents/exploration/</link>
+      <pubDate>Fri, 18 Nov 2016 18:59:33 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/career-agents/exploration/</guid>
+      <description>
+
+&lt;p&gt;This mission chain walks you through how to use the scanning interfaces
+in EVE. Scanning lets you locate things like wormholes, data and relic sites
+to hack, and even other players&amp;rsquo; ships.&lt;/p&gt;
+
+&lt;p&gt;The scanning interfaces can be a little hard to understand without seeing
+them in operation. Thankfully, EVE has a set of built-in video tutorials
+for how to use the scanning interfaces. To view them, press F12 to open
+the &amp;ldquo;Help&amp;rdquo; window, then select the &amp;ldquo;Tutorial Videos&amp;rdquo; tab. Scroll down to
+the &amp;ldquo;Exploration&amp;rdquo; subsection (click to expand it). Then watch the following
+videos:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Scanning (1 of 3)&lt;/li&gt;
+&lt;li&gt;Scanning (2 of 3)&lt;/li&gt;
+&lt;li&gt;Hacking Data and Relic sites&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The other videos are also interesting, but aren&amp;rsquo;t relevant to this particular
+mission chain - feel free to watch them when you have the time and interest.&lt;/p&gt;
+
+&lt;p&gt;As you complete the chain, you&amp;rsquo;ll earn a couple of new ships (including one
+specifically designed for exploration), some skill books, some modules,
+and a good chunk of ISK.&lt;/p&gt;
+
+&lt;h4 id=&#34;common-stumbling-blocks&#34;&gt;Common Stumbling Blocks&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;On mission 3 of 5, you&amp;rsquo;ll be required to find a &amp;ldquo;Data Site&amp;rdquo;.
+This is a Cosmic Signature, and you will not be able to warp to it without using scanner probes.
+Review the Scanning (2 or 3) video to learn how to use these probes to find the site.&lt;/li&gt;
+&lt;li&gt;On mission 5 of 5, you&amp;rsquo;ll need a Passkey with you to be able to enter the final site.
+It&amp;rsquo;s provided to you when you begin the mission; remember to put it in your cargohold before you undock.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Industry Agent</title>
+      <link>https://iviguera.github.io/alpha-guide/career-agents/industry/</link>
+      <pubDate>Fri, 18 Nov 2016 18:59:33 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/career-agents/industry/</guid>
+      <description>
+
+&lt;p&gt;This chain is &lt;strong&gt;Making Mountains of Molehills&lt;/strong&gt;. Its 10 missions focus
+on how to produce new items in EVE from scratch: mining raw materials
+and then building modules, charges (ammo), and ships from those materials.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re having trouble figuring out how to use the industry interface,
+you can watch the tutorial videos provided in-game. Press F12 to open the
+&amp;ldquo;Help&amp;rdquo; window, then click the &amp;ldquo;Tutorial Videos&amp;rdquo; tab. Scroll down to the
+&amp;ldquo;Industry&amp;rdquo; section and watch the &amp;ldquo;Manufacturing&amp;rdquo; video.&lt;/p&gt;
+
+&lt;p&gt;As you complete the chain, you&amp;rsquo;ll earn a couple of new ships, some skill
+books, some modules, and a good chunk of isk.&lt;/p&gt;
+
+&lt;h4 id=&#34;common-stumbling-blocks&#34;&gt;Common Stumbling Blocks&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In mission 2 of 10, note that the Veldspar must be in the station&amp;rsquo;s Item Hangar,
+not your ship&amp;rsquo;s Cargo Hold, before it can be Reprocessed.&lt;/li&gt;
+&lt;li&gt;In mission 3 of 10, the &lt;code&gt;1MN Civilian Afterburner I Blueprint&lt;/code&gt; must be purchased from the Market.
+It should cost 20,000 ISK.  See the &lt;a href=&#34;https://iviguera.github.io/alpha-guide/market/&#34;&gt;Use the Market&lt;/a&gt; section if you&amp;rsquo;re having trouble.&lt;/li&gt;
+&lt;li&gt;In mission 4 of 10, note that ore must be mined from the mission site to complete all mission objectives.
+Using ore mined from other asteroid belts, or previous mission steps, won&amp;rsquo;t be enough to finish it.&lt;/li&gt;
+&lt;li&gt;In mission 9 of 10, make sure that you have both a mining laser and a weapon fit to your ship.
+Having only one or the other will be insufficient to complete the mission.&lt;/li&gt;
+&lt;li&gt;In mission 10 of 10, the minerals you will need come from a variety of different ores.
+See the &lt;a href=&#34;http://wiki.eveuniversity.org/Asteroids_and_Ore#Asteroid_distribution&#34;&gt;EVE University page on Asteroids and Ore&lt;/a&gt; for the locations of the appropriate ores.  Note that Zydrine cannot be obtained from high-security asteroids, except in randomly-spawning Ore anomalies.  It may be quickest and easiest to simply buy the rarer minerals from the Market.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Military Agents</title>
+      <link>https://iviguera.github.io/alpha-guide/career-agents/military/</link>
+      <pubDate>Fri, 18 Nov 2016 18:59:33 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/career-agents/military/</guid>
+      <description>
+
+&lt;p&gt;There are actually two military career agents - the regular Military Agent and the Advanced Military Agent.
+We recommend doing both chains - first the regular agent, then the advanced agent.&lt;/p&gt;
+
+&lt;h3 id=&#34;military-agent&#34;&gt;Military Agent&lt;/h3&gt;
+
+&lt;p&gt;The regular Military Agent focuses on teaching you the basics of PvE combat missions
+in the chain &lt;strong&gt;Cash Flow for Capsuleers&lt;/strong&gt;. Missions like these are one of the main
+ways for making ISK in EVE via PvE combat.&lt;/p&gt;
+
+&lt;p&gt;If you get stuck along the way, there&amp;rsquo;s a video guide to the missions that begins here:
+&lt;a href=&#34;https://www.youtube.com/watch?v=Ic8U2sX7yd4&#34;&gt;https://www.youtube.com/watch?v=Ic8U2sX7yd4&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Since the video guide was made in 2014, the older interfaces may look a bit different
+from what you see now, but the general steps to complete the mission will be the same.&lt;/p&gt;
+
+&lt;p&gt;As you complete this chain, you&amp;rsquo;ll earn a couple of new ships, some skill books, some
+modules, and a good chunk of isk.&lt;/p&gt;
+
+&lt;h4 id=&#34;common-stumbling-blocks&#34;&gt;Common Stumbling Blocks&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In mission 3 of 10, the Secret Documents will appear in a Cargo Container after you
+kill the last pirate.  Make sure to loot them before you dock.  If you forgot them,
+you can return to the Mission location for up to two hours afterwards, and they will still be there.&lt;/li&gt;
+&lt;li&gt;In mission 4 of 10, pay attention to your Local chat channel to see when you&amp;rsquo;ve completed the mission.&lt;/li&gt;
+&lt;li&gt;In mission 5 of 10, you need to destroy the pirate.&lt;/li&gt;
+&lt;li&gt;In mission 9 of 10, the Narcotics Warehouse may not appear on your overview.
+It is one of the man-made structures around the large asteroid.
+Search for it visually, and destroy it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;advanced-military-agent&#34;&gt;Advanced Military Agent&lt;/h3&gt;
+
+&lt;p&gt;The Advanced Military Agent focuses on teaching you some of the concepts typically
+involved in PvP combat (though the agent&amp;rsquo;s missions do not actually involve PvP).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amarr Ships</title>
+      <link>https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/</link>
+      <pubDate>Fri, 18 Nov 2016 18:56:39 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/</guid>
+      <description>
+
+&lt;p&gt;Over the course of your Career Agent missions,
+they will have given you some of the following ships.
+They are more powerful than your rookie ship.
+They are also more specialized, and each ship is built for a specific purpose.&lt;/p&gt;
+
+&lt;h3 id=&#34;frigates&#34;&gt;Frigates&lt;/h3&gt;
+
+&lt;p&gt;Frigates are some of the fastest and smallest ships in New Eden.
+This makes them very difficult for larger ships to hit.
+Their guns also track very quickly, allowing them to effectively fight other frigates.
+However, their raw defensive and offensive power is relatively weak.&lt;/p&gt;
+
+&lt;h5 id=&#34;executioner&#34;&gt;Executioner&lt;/h5&gt;
+
+&lt;p&gt;The Executioner is the Amarr fast-attack frigate.
+It is extremely quick, and packs a decent punch.
+Its bonus to the capacitor cost of Propulsion Jamming modules
+also makes it good at &amp;ldquo;tackling&amp;rdquo; enemy ships, holding them in place.
+However, it is relatively fragile.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/executioner/&#34;&gt;Here is a recommended fit for the Executioner.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;tormentor&#34;&gt;Tormentor&lt;/h5&gt;
+
+&lt;p&gt;The Tormentor is the Amarr heavy attack frigate.
+It gets substantial bonuses to its three energy turrets,
+and is otherwise well-rounded, with decent defenses,
+sufficient midslots to offer some utility, and a moderate drone bay.
+However, it is somewhat slow.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/tormentor/&#34;&gt;Here is a recommended fit for the Tormentor.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;punisher&#34;&gt;Punisher&lt;/h5&gt;
+
+&lt;p&gt;The Punisher is the Amarr heavy combat frigate.
+It is incredibly durable, and has potent firepower.
+However, it is quite slow, and its limited midslots limit its utility.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/punisher/&#34;&gt;Here is a recommended fit for the Punisher.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;magnate&#34;&gt;Magnate&lt;/h5&gt;
+
+&lt;p&gt;The Magnate is the Amarr exploration frigate.
+It has substantial bonuses to the use of scanner probes and relic/data analyzers,
+making it a powerful option for exploration-minded capsuleers.
+However, it is fragile, and weak in direct combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/magnate/&#34;&gt;Here is a recommended fit for the Magnate.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;inquisitor&#34;&gt;Inquisitor&lt;/h5&gt;
+
+&lt;p&gt;The Inquisitor is the Amarr logistics frigate.
+It has potent bonuses to remote armor repair modules,
+allowing it to &amp;ldquo;heal&amp;rdquo; allied ships in battle.
+However, it is not very useful to a solo pilot.&lt;/p&gt;
+
+&lt;p&gt;For this reason, we recommend that you do not use the Inquisitor for now.&lt;/p&gt;
+
+&lt;h5 id=&#34;crucifier&#34;&gt;Crucifier&lt;/h5&gt;
+
+&lt;p&gt;The Crucifier is the Amarr electronic warfare frigate.
+It has powerful bonuses to the effectiveness of weapon disruptor modules,
+allowing it to degrade its enemies&amp;rsquo; range and accuracy while staying safely out of range itself.
+However, it is extremely fragile, and is not very useful to a solo pilot.&lt;/p&gt;
+
+&lt;p&gt;For this reason, we recommend that you do not use the Crucifier for now.&lt;/p&gt;
+
+&lt;h5 id=&#34;venture&#34;&gt;Venture&lt;/h5&gt;
+
+&lt;p&gt;The Venture is a mining frigate, not specific to any one empire.
+It has powerful bonuses to its mining lasers and gas harvesters,
+as well as a vast ore hold, allowing it to accumulate massive amounts of raw resources.
+It also has innate resistance to warp disruption, allowing it to escape attackers more easily.
+However, it is not particularly suitable for combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/venture/&#34;&gt;Here is a recommended fit for the Venture.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;destroyers&#34;&gt;Destroyers&lt;/h3&gt;
+
+&lt;p&gt;Destroyers are designed as a counter to frigates.
+They are &amp;ldquo;glass cannons&amp;rdquo; - they get large numbers of frigate-class guns,
+with substantial enhancements to their range and tracking,
+making them able to swat frigates out of the sky with ease.
+However,  their defenses are little stronger than a frigate&amp;rsquo;s,
+and their larger size and slower speed makes them less able to avoid the fire
+of larger ships.  They are also lacking in any utility besides their damage output.&lt;/p&gt;
+
+&lt;h5 id=&#34;coercer&#34;&gt;Coercer&lt;/h5&gt;
+
+&lt;p&gt;The Coercer is one of the Amarr destroyers, focusing on laser turrets.
+With the maximum of eight hardpoints for energy weapons,
+and with potent bonuses to their range and accuracy,
+it will quickly destroy any smaller enemies that come near it.
+However, it is very slow compared to frigates, and its size makes it much easier to hit.
+Additionally, it has very little utility outside of its lasers&amp;rsquo; damage output.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/coercer/&#34;&gt;Here is a recommended fit for the Coercer.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;dragoon&#34;&gt;Dragoon&lt;/h5&gt;
+
+&lt;p&gt;The Dragoon is the other Amarr destroyer, focusing on drones and energy neutralization.
+It has only three hardpoints for each of turrets and launchers,
+but can field a full flight of five light drones and two more flights in reserve,
+with bonuses to their damage and speed.
+It also gains bonuses to the range of Energy Neutralizers, used to directly attack
+enemies&amp;rsquo; capacitors in PvP.
+Its drones give it long reach, but its maximum damage output is low
+and its neutralizer bonuses are not useful in PvE.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/dragoon/&#34;&gt;Here is a recommended fit for the Dragoon.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;cruisers&#34;&gt;Cruisers&lt;/h3&gt;
+
+&lt;p&gt;Cruisers, as a class, are the most well-rounded ships in New Eden.  With comfortable slot layouts,
+decent firepower, good defenses, moderate speed, and moderate price,
+they&amp;rsquo;re the standard by which other ships are measured.&lt;/p&gt;
+
+&lt;p&gt;Cruiser fittings will not be provided in this guide.  By the time you&amp;rsquo;re getting
+into a cruiser, you should be creating fits for yourself; see
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/reference/fitting/&#34;&gt;Fitting&lt;/a&gt; if you need some pointers.&lt;/p&gt;
+
+&lt;h3 id=&#34;battlecruisers&#34;&gt;Battlecruisers&lt;/h3&gt;
+
+&lt;p&gt;Battlecruisers are to cruisers as destroyers are to frigates:
+much more heavily armed, but substantially slower.  Battlecruisers are
+also significantly better defended, yet also more expensive.&lt;/p&gt;
+
+&lt;p&gt;The Gnosis is the only battlecruiser available to Alpha clones.
+It is available to all races, and offers moderate bonuses to
+nearly all weapons systems and defenses while excelling in none.&lt;/p&gt;
+
+&lt;p&gt;A Gnosis fitting will not be provided in this guide. By the time you&amp;rsquo;re getting
+into a battlecruiser, you should be creating fits for yourself; see
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/reference/fitting/&#34;&gt;Fitting&lt;/a&gt; if you need some pointers.&lt;/p&gt;
+
+&lt;h3 id=&#34;industrials&#34;&gt;Industrials&lt;/h3&gt;
+
+&lt;p&gt;Industrials, as class, are non-combat ships focused on the transport of goods across New Eden.
+They have massive cargo holds, but are slow, clumsy, and poorly armed at best - if they&amp;rsquo;re armed at all.
+They can be a great boon to a marketeer, industrialist,
+or even a combat pilot restocking on gear or moving locations,
+but are borderline useless in combat and a favorite target of player pirates.&lt;/p&gt;
+
+&lt;h5 id=&#34;sigil&#34;&gt;Sigil&lt;/h5&gt;
+
+&lt;p&gt;The Sigil is one of the Amarr industrials.
+It has a massive cargo hold, and can mount sufficient defenses to stave off light attacks
+long enough for reinforcements to arrive.
+However, it is extremely slow and clumsy, and is borderline useless in combat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/sigil/&#34;&gt;Here is a recommended fit for the Sigil.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

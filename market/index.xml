@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Market-rsses on The Alpha&#39;s Guide to the Galaxy</title>
+    <link>https://iviguera.github.io/alpha-guide/market/index.xml</link>
+    <description>Recent content in Market-rsses on The Alpha&#39;s Guide to the Galaxy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2016 18:35:17 -0800</lastBuildDate>
+    <atom:link href="https://iviguera.github.io/alpha-guide/market/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Use the Market</title>
+      <link>https://iviguera.github.io/alpha-guide/market/</link>
+      <pubDate>Fri, 18 Nov 2016 18:35:17 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/market/</guid>
+      <description>
+
+&lt;h3 id=&#34;searching-the-market&#34;&gt;Searching the Market&lt;/h3&gt;
+
+&lt;p&gt;When following this guide you&amp;rsquo;ll almost always be wanting particular items
+from the market. The fastest way to find those items is use the search box.
+Copy the name of the item and paste it into the box to the left of the
+&amp;ldquo;Search&amp;rdquo; button, then click that button. A list of results (most likely
+with only a single item, but sometimes more) will appear beneath.
+Click the item in the result list to see where that item is available.&lt;/p&gt;
+
+&lt;h3 id=&#34;buying-items&#34;&gt;Buying Items&lt;/h3&gt;
+
+&lt;p&gt;When viewing market listings for a particular item you will see two sections:
+Sellers and Buyers. We&amp;rsquo;re going to concentrate on the Sellers section for now
+because we want to buy items from those Sellers.&lt;/p&gt;
+
+&lt;h4 id=&#34;sort-your-sellers-list&#34;&gt;Sort your sellers list&lt;/h4&gt;
+
+&lt;p&gt;First of all: &lt;strong&gt;make sure your sellers are sorted by Price, ascending&lt;/strong&gt;.
+This means that the price column should be the only column with an upwards-pointing
+triangle on the right side of it. Try clicking the price column header to change the sorting.
+Click the price column as many times as you need until it&amp;rsquo;s sorting properly. This is
+to make sure you&amp;rsquo;re not accidentally buying a highly overpriced version of the item
+just because it happens to be a system closer.&lt;/p&gt;
+
+&lt;p&gt;Sorting by price also helps you avoid a scam where someone lists an item for what seems to
+be a cheaper price, but actually has a few extra zeroes on the end - so you wind up
+paying 1 million isk instead of 1 thousand isk or similar.&lt;/p&gt;
+
+&lt;h4 id=&#34;look-at-the-availability&#34;&gt;Look at the availability&lt;/h4&gt;
+
+&lt;p&gt;Now, look through the list. The first column, &lt;strong&gt;Jumps&lt;/strong&gt;, shows you how far you&amp;rsquo;ll need to go
+to pick up the item after buying it. When you buy an item, you buy it in the station where
+it was listed - not necessarily in your current station. So if the &amp;lsquo;Jumps&amp;rsquo; column reads
+&amp;lsquo;5&amp;rsquo;, that means that after buying the item you&amp;rsquo;ll need to jump through 5 stargates to reach
+the system where you bought the item. If the jumps column says &amp;lsquo;System&amp;rsquo; it means the item
+is located in your current system but a different station, and if it says &amp;lsquo;Station&amp;rsquo; it means
+that it&amp;rsquo;s listed in the same station you&amp;rsquo;re currently in.&lt;/p&gt;
+
+&lt;p&gt;Next up is &lt;strong&gt;Quantity&lt;/strong&gt; - displaying how many items are available via that seller. If you want
+to buy more, you&amp;rsquo;ll need to get them from multiple sellers.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Price&lt;/strong&gt; column lists the price per unit being offered; if the listed price is 100.00
+ISK and you want to buy 50 of the item, you&amp;rsquo;ll wind up paying 5000 ISK total.&lt;/p&gt;
+
+&lt;p&gt;You can see exactly which station the items are listed from in the &lt;strong&gt;Location&lt;/strong&gt; column. This is
+important - before buying items in another system, you&amp;rsquo;ll probably want to check to make sure
+you can get there without having to go through low-security space (0.4 and below). Otherwise
+you might get ganked on the way. You can right-click on a particular seller and choose
+Location -&amp;gt; Set Destination to a set an autopilot course to it, and then look at the colored
+dots that the autopilot shows you: if any of them are orange or red, don&amp;rsquo;t buy from there.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Market Hubs</title>
+      <link>https://iviguera.github.io/alpha-guide/market/hubs/</link>
+      <pubDate>Fri, 18 Nov 2016 18:35:17 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/market/hubs/</guid>
+      <description>&lt;p&gt;While it&amp;rsquo;s technically possible to sell items from any station in EVE, the vast majority
+of items are bought and sold at a small set of stations referred to as &amp;ldquo;market hubs&amp;rdquo;.
+These stations will have literally thousands of times more items available than your
+average station.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Jita IV - Moon 4 - Caldari Navy Assembly Plant&lt;/code&gt; is the most popular market hub. It is located in Caldari space.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Amarr VIII (Oris) - Emperor Family Academy&lt;/code&gt; is also fairly popular, and is located in Amarr space.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Dodixie IX - Moon 20 - Federation Navy Assembly Plant&lt;/code&gt; is the largest Gallente market hub.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Rens VI - Moon 8 - Brutor Tribe Treasury&lt;/code&gt; and &lt;code&gt;Hek VIII - Moon 12 - Boundless Creation Factory&lt;/code&gt; are the largest Minmatar market hubs.&lt;/p&gt;
+
+&lt;p&gt;You can visit any of these hubs no matter the race of your character, but your starting system will likely be much
+closer to the market hubs in your own race&amp;rsquo;s space.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

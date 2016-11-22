@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Start-rsses on The Alpha&#39;s Guide to the Galaxy</title>
+    <link>https://iviguera.github.io/alpha-guide/start/index.xml</link>
+    <description>Recent content in Start-rsses on The Alpha&#39;s Guide to the Galaxy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2016 16:35:02 -0800</lastBuildDate>
+    <atom:link href="https://iviguera.github.io/alpha-guide/start/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://iviguera.github.io/alpha-guide/start/</link>
+      <pubDate>Fri, 18 Nov 2016 16:35:02 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/start/</guid>
+      <description>
+
+&lt;h3 id=&#34;span-style-color-e00-font-weight-bold-font-size-300-text-shadow-2px-2px-a00-line-height-100-don-t-panic-span&#34;&gt;&lt;span style=&#34;color:#e00;font-weight:bold;font-size:300%;text-shadow:2px 2px #a00;line-height:100%;&#34;&gt;DON&amp;rsquo;T PANIC&lt;/span&gt;&lt;/h3&gt;
+
+&lt;h1 id=&#34;the-alpha-s-guide-to-the-galaxy&#34;&gt;The Alpha&amp;rsquo;s Guide to the Galaxy&lt;/h1&gt;
+
+&lt;p&gt;A guide for alpha-clone players of EVE Online.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is this guide for?</title>
+      <link>https://iviguera.github.io/alpha-guide/start/welcome/</link>
+      <pubDate>Fri, 18 Nov 2016 17:13:07 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/start/welcome/</guid>
+      <description>&lt;p&gt;This guide is designed to help alpha clone players quickly ramp up their competency in EVE Online.&lt;/p&gt;
+
+&lt;p&gt;While we can&amp;rsquo;t make you an expert overnight, we can start you out on the right foot and help you
+grasp the things that the tutorial might not cover, or cover them in more detail.&lt;/p&gt;
+
+&lt;p&gt;This guide isn&amp;rsquo;t comprehensive. There are many other excellent resources out there that provide
+broader knowledge about EVE Online, and parts of this guide may link to them as well. However,
+this guide in particular aims to address the specific needs of alpha clone capsuleers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prerequisites</title>
+      <link>https://iviguera.github.io/alpha-guide/start/prereqs/</link>
+      <pubDate>Fri, 18 Nov 2016 17:18:12 -0800</pubDate>
+      
+      <guid>https://iviguera.github.io/alpha-guide/start/prereqs/</guid>
+      <description>&lt;p&gt;This guide assumes that you have completed the initial Aura tutorial in EVE Online, but haven&amp;rsquo;t yet talked to any Career Agents.
+&lt;strong&gt;If you haven&amp;rsquo;t finished the tutorial with Aura yet, go do that first.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you run into a problem during the tutorial, you can check if it&amp;rsquo;s addressed in the &lt;a href=&#34;https://iviguera.github.io/alpha-guide/reference/rookie-faq&#34;&gt;Rookie FAQ&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve finished the in-game tutorial you&amp;rsquo;ll be ready to dive into &lt;a href=&#34;https://iviguera.github.io/alpha-guide/rookie-fitting/&#34;&gt;Fitting a Rookie Ship&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
