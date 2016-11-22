@@ -1,10 +1,11 @@
-baseurl = "https://www.eve-online.xyz/test/"
+baseurl = "https://iviguera.github.io/alpha-guide/"
 title = "The Alpha's Guide to the Galaxy"
 languageCode = "en-us"
 
 theme = "hugo-theme-learn"
 publishdir = "public"
 builddrafts = true
+canonifyurls = true
 
 [params]
   menu = [
