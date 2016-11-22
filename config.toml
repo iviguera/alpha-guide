@@ -1,4 +1,4 @@
-baseurl = "https://www.thealphasguide.com/"
+baseurl = "https://www.eve-online.xyz/test/"
 title = "The Alpha's Guide to the Galaxy"
 languageCode = "en-us"
 
@@ -19,4 +19,4 @@ builddrafts = true
     "learn-more",
     "reference"
   ]
-  editURL = "https://github.com/ayust/alpha-guide/edit/master/content/"
+  editURL = "https://github.com/iviguera/alpha-guide/edit/master/content/"
