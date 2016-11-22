@@ -175,6 +175,32 @@ further. It&amp;rsquo;s generally a good idea to eventually train it as high as 
 
 &lt;p&gt;&lt;code&gt;Missile Bombardment&lt;/code&gt; allows your missiles to fly longer, which means they also fly
 further. It&amp;rsquo;s generally a good idea to eventually train it as high as possible.&lt;/p&gt;
+
+&lt;div class=&#34;notices tip&#34; &gt;&lt;p&gt;Missile speed and missile flight time stack multiplicatively with one another when
+it comes to determining overall maximum range, so train both Projection and
+Bombardment equally for best results.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;code&gt;Target Navigation Prediction&lt;/code&gt; makes your missiles apply a greater percentage of
+their maximum potential damage to fast-moving targets. If you often find yourself
+struggling to do much damage to the smaller, faster ships you&amp;rsquo;re shooting, train
+this skill to help with that.&lt;/p&gt;
+
+&lt;h3 id=&#34;medium-weapon-skills&#34;&gt;Medium Weapon Skills&lt;/h3&gt;
+
+&lt;p&gt;If the path you&amp;rsquo;ve chosen involves upgrading to cruisers and battlecruisers, you&amp;rsquo;ll
+also want to train for medium-sized weapons to put on them. This means some subset
+of the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Medium Energy Turret&lt;/code&gt; (Amarr)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Medium Hybrid Turret&lt;/code&gt; (Caldari, Gallente)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Medium Projectile Turret&lt;/code&gt; (Minmatar)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Heavy Missiles&lt;/code&gt; (Caldari, Minmatar)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Heavy Assault Missiles&lt;/code&gt; (Caldari, Minmatar)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Medium Drone Operation&lt;/code&gt; (Amarr, Gallente)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -240,6 +266,10 @@ Venture with a pair of gas harvesters instead of mining lasers.&lt;/p&gt;
 &lt;p&gt;The skill book for Gas Harvesting is somewhat expensive, and the gas harvesters
 themselves are also a little spendy. However, the gas mined with them will often
 fetch a higher price than ore would.&lt;/p&gt;
+
+&lt;div class=&#34;notices note&#34; &gt;&lt;p&gt;Most of the valuable gas sites occur in dangerous areas - lowsec and wormhole space.&lt;/p&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     

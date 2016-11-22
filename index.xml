@@ -76,6 +76,49 @@ player-run corp that participates in faction warfare.&lt;/p&gt;
 &lt;p&gt;Players can create their own corporations (and in fact the majority of corporations
 in EVE are player-created). These corporations can set their own tax rates, declare
 war against one another, conquer parts of null-security space, and more.&lt;/p&gt;
+
+&lt;div class=&#34;notices tip&#34; &gt;&lt;p&gt;Don&amp;rsquo;t accept random corp invitations - the average quality of a corporation that invites
+players randomly out of the blue is very low. Instead, look for a corporation that
+is dedicated to doing what you&amp;rsquo;re interested in doing and ask about recruitment.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;http://www.eveuniversity.org/&#34;&gt;EVE University&lt;/a&gt; is a well-known player corp in
+EVE that is devoted to teaching new players. There are many other player-run corps
+as well. We recommend the following resources for finding a corporation that suits
+your interests:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;https://forums.eveonline.com/default.aspx?g=topics&amp;amp;f=265&#34;&gt;Recruitment Center&lt;/a&gt;
+on the official forums&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://www.reddit.com/r/evejobs/&#34;&gt;r/evejobs&lt;/a&gt; subreddit&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mikeazariah.wordpress.com/2016/11/17/ooc-joining-the-gang/&#34;&gt;This blog post&lt;/a&gt;
+by Mike Azariah about corps that are recruiting alpha-clone players&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;notices note&#34; &gt;&lt;p&gt;There are a handful of large nullsec corps that recruit rather freely
+amongst new players and often organize group content in nullsec space:
+&lt;a href=&#34;http://www.bravecollective.com/&#34;&gt;Brave Newbies&lt;/a&gt;,
+&lt;a href=&#34;https://recruit.karmafleet.org/&#34;&gt;Karmafleet&lt;/a&gt;,
+&lt;a href=&#34;https://www.reddit.com/r/pandemichorde/&#34;&gt;Pandemic Horde&lt;/a&gt;,
+and &lt;a href=&#34;http://dredditisrecruiting.com/&#34;&gt;Dreddit&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;It&amp;rsquo;s okay to take your time finding a corporation that suits your interests. It&amp;rsquo;s also
+okay to change your mind if you join a corporation and find that you don&amp;rsquo;t like it.&lt;/p&gt;
+
+&lt;div class=&#34;notices warning&#34; &gt;&lt;p&gt;Remember that once you trade items, send someone isk or give anything else away they
+can do whatever they want with it. Be wary if a recruiter asks for a fee to join
+their corporation or offers to move your items. It might be a scam.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;You can leave a corp that you&amp;rsquo;ve joined by right-clicking on your own name and choosing
+&lt;kbd&gt;Quit Corporation?&lt;/kbd&gt; &amp;gt; &lt;kbd&gt;Confirm Quit Corporation&lt;/kbd&gt;. Doing so will place
+you back into your original starter NPC corp.&lt;/p&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -132,6 +175,19 @@ didn&amp;rsquo;t fit into the &amp;ldquo;walkthrough&amp;rdquo; portion of the g
 which will provide you with various missions introducing you to a particular kind of
 gameplay. These missions are an excellent way to explore some of the possibilities in
 EVE while also acquiring some extra ISK and ship hulls.&lt;/p&gt;
+
+&lt;div class=&#34;notices tip&#34; &gt;&lt;p&gt;If you need to open the Career Agents window again (e.g. because you closed it),
+press &lt;kbd&gt;F12&lt;/kbd&gt; to open the &amp;lsquo;Help&amp;rsquo; window and click the &amp;lsquo;Show Career Agents&amp;rsquo; button.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;We recommend that you complete all of the career agent mission chains now. The pages in
+this section will provide brief descriptions of what each chain will teach you and the
+rewards you will receive for completing them.&lt;/p&gt;
+
+&lt;div class=&#34;notices note&#34; &gt;&lt;p&gt;Be sure to read all mission text carefully - some objectives are easily missed.&lt;/p&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -149,6 +205,11 @@ the proper link below to go to the subsection appropriate for you:&lt;/p&gt;
 &lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/&#34;&gt;Caldari&lt;/a&gt; /
 &lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/&#34;&gt;Gallente&lt;/a&gt; /
 &lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/&#34;&gt;Minmatar&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;These fits are designed primarily for PvE content.
+For PvP you&amp;rsquo;ll want to consult other resources.&lt;/p&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -210,6 +271,38 @@ you can get there without having to go through low-security space (0.4 and below
 you might get ganked on the way. You can right-click on a particular seller and choose
 Location -&amp;gt; Set Destination to a set an autopilot course to it, and then look at the colored
 dots that the autopilot shows you: if any of them are orange or red, don&amp;rsquo;t buy from there.&lt;/p&gt;
+
+&lt;div class=&#34;notices tip&#34; &gt;&lt;p&gt;You can also click the gear icon at the top-right of the market window to set filters on the
+listings. For instance, you can uncheck the boxes for &amp;lsquo;Low Sec&amp;rsquo; and &amp;lsquo;Null Sec&amp;rsquo; to completely
+hide listings from lower security space.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h4 id=&#34;pick-a-seller-to-buy-from&#34;&gt;Pick a seller to buy from&lt;/h4&gt;
+
+&lt;p&gt;For very cheap items, it&amp;rsquo;s often worth it to buy it closer to avoid having to make extra jumps.
+For more expensive items, going a few more jumps to get a better price may be worth the time.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve chosen which seller you want to buy from, right-click the entry and choose &amp;lsquo;Buy&amp;rsquo;
+which will pop up a window asking how many items you want to purchase. Type in the quantity
+(or stick with the default of 1) and press &amp;lsquo;Buy&amp;rsquo;. Once you&amp;rsquo;ve bought an item, it will show
+up in the &lt;strong&gt;Item Hangar&lt;/strong&gt; of the station where you bought it. You will need to fly to that
+station (if not the one you&amp;rsquo;re currently in) and pick it up.&lt;/p&gt;
+
+&lt;p&gt;If you bought an item but can&amp;rsquo;t remember where, you can use the &lt;strong&gt;Assets&lt;/strong&gt; window
+(&lt;kbd&gt;Alt&lt;/kbd&gt;+&lt;kbd&gt;T&lt;/kbd&gt;) to look through everything you own in EVE and find the station.
+Note however that the Assets window only updates every 5 minutes, so you may need to wait a
+few minutes for it to show up there.&lt;/p&gt;
+
+&lt;div class=&#34;notices note&#34; &gt;&lt;p&gt;Markets in EVE are on a per-region basis. This means that depending on where you are in the galaxy
+you&amp;rsquo;ll see different sets of sellers. In your starter system, there are likely to be market listings
+for the basic modules you&amp;rsquo;ll want. More advanced items, however, are unlikely to be available at a
+reasonable price. If you&amp;rsquo;re looking for a particular item and can&amp;rsquo;t find any sellers, you may need
+to go to a different region to find people listing it for sale. The next page will talk a bit about
+some of the &amp;lsquo;market hubs&amp;rsquo; where you can buy almost anything. You can also use the player-run site
+&lt;a href=&#34;https://eve-central.com/&#34;&gt;EVE-Central&lt;/a&gt; to check what prices are like across all of EVE.&lt;/p&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -421,6 +514,40 @@ Search for it visually, and destroy it.&lt;/li&gt;
 
 &lt;p&gt;The Advanced Military Agent focuses on teaching you some of the concepts typically
 involved in PvP combat (though the agent&amp;rsquo;s missions do not actually involve PvP).&lt;/p&gt;
+
+&lt;div class=&#34;notices warning&#34; &gt;&lt;p&gt;This mission chain involves your ship exploding. Leave your valuable items behind in station,
+and read all mission text carefully.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;We recommend following the &lt;a href=&#34;http://wiki.eveuniversity.org/Advanced_Military_Career_Funnel_Chain&#34;&gt;UniWiki Advanced Military chain guide&lt;/a&gt; to complete
+this mission chain.&lt;/p&gt;
+
+&lt;p&gt;As you complete this chain, you&amp;rsquo;ll earn some new ships (including a Destroyer),
+some skill books, some modules, and a decent chunk of ISK. At the end you&amp;rsquo;ll also
+be given a Letter item which you can use to join a Faction Warfare NPC corporation
+if you decide that you want to take part in Faction Warfare. Don&amp;rsquo;t rush off to do
+that quite yet though.&lt;/p&gt;
+
+&lt;h4 id=&#34;common-stumbling-blocks-1&#34;&gt;Common Stumbling Blocks&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In mission 2 of 10, &lt;strong&gt;your ship will be destroyed&lt;/strong&gt;.  You must use a Frigate.
+It does not have to be the one provided to you by the Mission Agent - use whichever you like least.
+The ship does not require any modules fit to complete the mission.&lt;/li&gt;
+&lt;li&gt;In mission 3 of 10, note that you need to Warp Disrupt the pirate, not destroy them.&lt;/li&gt;
+&lt;li&gt;In mission 5 of 10, &lt;strong&gt;your ship will be destroyed&lt;/strong&gt;.  You can use any ship;
+it must be capable of defeating at least one moderately-tough pirate.
+The mission is completable in a properly-fit Corvette, if desired.&lt;/li&gt;
+&lt;li&gt;In mission 8 of 10, wait for the Fleet Commander&amp;rsquo;s orders.&lt;/li&gt;
+&lt;li&gt;In mission 9 of 10, note that you must use a Civilian Stasis Webifier like the one provided.
+You may have acquired some Stasis Webifier Is from other missions or the Market,
+but they will not properly complete the mission.&lt;/li&gt;
+&lt;li&gt;In mission 10 of 10, &lt;strong&gt;your ship will be unable to warp out&lt;/strong&gt; unless and until you are victorious.
+Make sure your ship is properly fit for battle before you begin.
+If you&amp;rsquo;re unable to destroy the pirate, but the pirate is unable to destroy you,
+you can right-click your capacitor and &amp;ldquo;Self Destruct&amp;rdquo; to end the stalemate.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

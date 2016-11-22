@@ -23,6 +23,11 @@ the proper link below to go to the subsection appropriate for you:&lt;/p&gt;
 &lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/&#34;&gt;Caldari&lt;/a&gt; /
 &lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/&#34;&gt;Gallente&lt;/a&gt; /
 &lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/&#34;&gt;Minmatar&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;These fits are designed primarily for PvE content.
+For PvP you&amp;rsquo;ll want to consult other resources.&lt;/p&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -669,6 +674,10 @@ long enough for reinforcements to arrive.
 However, it is extremely slow and clumsy, and is borderline useless in combat.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/wreathe/&#34;&gt;Here is a recommended fit for the Wreathe.&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;notices warning&#34; &gt;&lt;p&gt;Industrials are a favorite target of many players - and even in high-security space, where CONCORD will appear to punish illegal attacks, they will usually arrive &lt;em&gt;after&lt;/em&gt; your attackers have reduced your ship to a flaming wreck.  Be mindful of your surroundings, and try to keep your cargo&amp;rsquo;s value under about 20 million ISK.&lt;/p&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -678,7 +687,145 @@ However, it is extremely slow and clumsy, and is borderline useless in combat.&l
       <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
       
       <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/gallente/algos/</guid>
-      <description>&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118664/svg/118664-alpha-clone---starter-algos.svg?privatetoken=8482316506997194752&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118664/8482316506997194752&#34;&gt;View Alpha Clone - Starter Algos on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118664/svg/118664-alpha-clone---starter-algos.svg?privatetoken=8482316506997194752&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118664/8482316506997194752&#34;&gt;View Alpha Clone - Starter Algos on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;This is a drone ship.  You will need to train at least &lt;strong&gt;&lt;code&gt;Drones&lt;/code&gt; Level III&lt;/strong&gt;
+and &lt;strong&gt;&lt;code&gt;Light Drone Operation&lt;/code&gt; Level I&lt;/strong&gt; before you will be able to use its primary armament.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+&lt;p&gt;The Algos&amp;rsquo;s primary armament is its flight of up to five Combat Drones.
+&lt;code&gt;Hobgoblin I&lt;/code&gt; drones deal the most damage, while &lt;code&gt;Warrior I&lt;/code&gt; drones have the highest speed.
+To fill your drone bay, you should acquire a total of twelve light combat drones.&lt;/p&gt;
+
+&lt;p&gt;Additionally, it uses 5 &lt;code&gt;Light Ion Blaster I&lt;/code&gt; turrets as a secondary weapon,
+and for additional damage output against larger targets.
+Blasters are the &amp;ldquo;short-ranged&amp;rdquo; hybrid system, with some of the highest damage output
+and best tracking against small targets in the game.  In exchange, they are the shortest-ranged
+weapon system in the game, being all but useless outside of point-blank range.&lt;/p&gt;
+
+&lt;p&gt;The blasters are loaded with &lt;code&gt;Antimatter Charge S&lt;/code&gt; ammunition.
+Antimatter is the shortest-ranged basic hybrid charge, but does the most damage.
+As blasters require you to be in knife-fighting range anyway,
+losing a few more meters will hardly be noticed,
+and the extra damage will be appreciated once you come to grips with your foe.
+You should keep about 2000 spare rounds in your cargohold.&lt;/p&gt;
+
+&lt;p&gt;Additionally, this fit uses a &lt;code&gt;Drone Damage Amplifier I&lt;/code&gt; in one of its low slots.
+These passively increase the damage output of its drones.&lt;/p&gt;
+
+&lt;p&gt;It also uses a &lt;code&gt;Magnetic Field Stabilizer I&lt;/code&gt; in one of its low slots.
+These passively increase the damage output of its blasters.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;This ship uses a &lt;code&gt;Small Shield Booster I&lt;/code&gt; in one of the mid slots to repair incoming damage.&lt;/p&gt;
+
+&lt;p&gt;It also fits a &lt;code&gt;Damage Control I&lt;/code&gt; in a low slot to increase its resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;1MN Afterburner I&lt;/code&gt; provides your ship with additional speed. This both makes it easier to
+catch enemy ships and also makes your ship harder to hit.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Small Capacitor Booster I&lt;/code&gt; can provide your ship with an instant injection of Capacitor.
+This module must be fueled by charges, which act as consumable batteries.  Load it with
+&lt;code&gt;Cap Booster 200&lt;/code&gt; bought from the market, and bring along as many spares as you can carry (about 30-40).&lt;/p&gt;
+
+&lt;h3 id=&#34;rigs&#34;&gt;Rigs&lt;/h3&gt;
+
+&lt;p&gt;Rigs are passive modifications to a ship, trading off one attribute against another.
+Unlike modules, rigs cannot be removed without being destroyed.
+As a starter fit, this fit makes limited use of rigging, since many &amp;ldquo;optimal&amp;rdquo; rigs
+are often relatively expensive and may be difficult to find near your starter station.&lt;/p&gt;
+
+&lt;p&gt;This fit uses two &lt;code&gt;Small Anti-EM Screen Reinforcer I&lt;/code&gt; and one &lt;code&gt;Small Anti-Thermal Screen Reinforcer I&lt;/code&gt;
+to increase its shields&amp;rsquo; damage resistance.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-fly&#34;&gt;How To Fly&lt;/h3&gt;
+
+&lt;p&gt;This is designed as a droneboat fit.  Let your drones fly in from long range and destroy
+the targets while you remain safely out of harm&amp;rsquo;s way.  Use your blasters on enemies
+that slip past the drones and get close to you, at about 500m range, or close in
+to apply their damage to larger and more durable targets.  Keep an eye on your drones&amp;rsquo; HP,
+and command them to return to your drone bay if they&amp;rsquo;re taking enemy fire.&lt;/p&gt;
+
+&lt;p&gt;This ship has a Capacitor Booster.  As the charges for it are quite bulky,
+you can carry only a limited number.  Try to save the Booster charges for emergencies
+when you need the extra capacitor to run your repair module continuously.
+Under normal circumstances, use your repper sparingly, off your ship&amp;rsquo;s base capacitor.
+Keep an eye on your capacitor, and try not to let it go below about 25%.&lt;/p&gt;
+
+&lt;p&gt;As always, if the incoming damage is proving too much for your ship
+and you&amp;rsquo;re beginning to take structure damage, warp out.&lt;/p&gt;
+
+&lt;h2 id=&#34;future-improvements&#34;&gt;Future Improvements&lt;/h2&gt;
+
+&lt;p&gt;The above fit should be usable with starting skills unless otherwise noted,
+and it uses relatively cheap and widely-available modules.&lt;/p&gt;
+
+&lt;p&gt;As you accumulate skill points and ISK, you will be able to fit more potent
+modules to your ship, increasing its effectiveness.  These modules may not be
+readily available outside of trade hubs, but it can be worth the trip.&lt;/p&gt;
+
+&lt;p&gt;We recommend working towards the following improved fit:&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118668/svg/118668-alpha-clone---improved-algos.svg?privatetoken=897549341961486336&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118668/897549341961486336&#34;&gt;View Alpha Clone - Improved Algos on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;p&gt;The improved fit will require the training of the following skills to use all installed equipment:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Weapon Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Hull Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Energy Grid Upgrades&lt;/code&gt; Level III&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Shield Operation&lt;/code&gt; Level III&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Drones&lt;/code&gt; Level V&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Light Drone Operation&lt;/code&gt; Level I&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Medium Drone Operation&lt;/code&gt; Level I&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;Your character starts with very low drone skills.  If you intend to continue
+using drone ships, we recommend focusing your training on some
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/training/combat/#drone-combat-skills&#34;&gt;drone support skills&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Once you have trained Medium Drone Operation, you have the option of using the larger Medium Combat Drones,
+such as the high-damage &lt;code&gt;Hammerhead I&lt;/code&gt; or the faster &lt;code&gt;Valkyrie I&lt;/code&gt;.  These drones will have trouble
+applying their damage to smaller targets, and should be used against cruiser-sized targets and larger.&lt;/p&gt;
+
+&lt;p&gt;You should then load your drone bay with two sets of drones: a &amp;ldquo;maximum damage&amp;rdquo; set of
+two medium drones and three light drones, for applying damage to large targets,
+and a separate set of five light drones, for quickly clearing out smaller ships.&lt;/p&gt;
+
+&lt;p&gt;The largest change to the improved fit is the loss of the Capacitor Booster,
+so that pilots are not required to restock on bulky Cap Booster charges or spend
+as much manual effort on managing their capacitor.&lt;/p&gt;
+
+&lt;p&gt;To compensate for the loss of the Capacitor Booster, the ship mounts a &lt;code&gt;Cap Recharger II&lt;/code&gt;,
+and replaces the Anti-Thermal and one of the Anti-EM rigs with two &lt;code&gt;Small Capacitor Control Circuit I&lt;/code&gt;, enhancing its passive capacitor recharge.  Keep an eye on your capacitor, and try
+not to let it dip below 25%.&lt;/p&gt;
+
+&lt;p&gt;It also swaps the Magnetic Field Stabilizer for a second Drone Damage Amplifier,
+as by the time you have the skills to fly the Improved fit, your Drone skills should have improved
+to the point where they will be substantially more effective and you will need
+to rely on your blasters less often.&lt;/p&gt;
+
+&lt;p&gt;Nearly every module has been improved to a &amp;ldquo;meta&amp;rdquo; version, requiring less fitting space
+and granting improved effectiveness, but costing more ISK and/or being less widely available,
+or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Guns: 5x &lt;code&gt;Modal Light Ion Particle Accelerator I&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Propulsion: &lt;code&gt;1MN Monopropellant Enduring Afterburner&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Shield Booster: &lt;code&gt;Small Shield Booster II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Control: &lt;code&gt;Damage Control II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Mods: 2x &lt;code&gt;Drone Damage Amplifier II&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -811,7 +958,115 @@ or a t2 version, which costs more ISK, requires more skillpoints, and is harder 
       <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
       
       <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/badger/</guid>
-      <description>&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118481/svg/118481-alpha-clone---starter-badger.svg?privatetoken=1102763042573123584&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118481/1102763042573123584&#34;&gt;View Alpha Clone - Starter Badger on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118481/svg/118481-alpha-clone---starter-badger.svg?privatetoken=1102763042573123584&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118481/1102763042573123584&#34;&gt;View Alpha Clone - Starter Badger on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;As industrial ships are intended for item transport rather than combat, this ship is &lt;strong&gt;unarmed&lt;/strong&gt;.
+If you find yourself forced into combat, your best option is to simply run away.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;notices warning&#34; &gt;&lt;p&gt;Industrials are a favorite target of many players - and even in high-security space, where CONCORD will appear to punish illegal attacks, they will usually arrive &lt;em&gt;after&lt;/em&gt; your attackers have reduced your ship to a flaming wreck.  Be mindful of your surroundings, and try to keep your cargo&amp;rsquo;s value under about 20 million ISK.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;hauling-enhancements&#34;&gt;Hauling Enhancements&lt;/h3&gt;
+
+&lt;p&gt;The lowslots are used for three &lt;code&gt;Expanded Cargohold I&lt;/code&gt;, to further increase
+the ship&amp;rsquo;s cargo capacity and help it perform its primary function.
+These increase its cargo bay from 4095 m3 to 6643 m3 - enough to carry
+two frigates or a destroyer, along with their fittings and ammunition.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;This ship uses a &lt;code&gt;Large Shield Extender I&lt;/code&gt; and a &lt;code&gt;Medium Shield Extender I&lt;/code&gt;
+in its mid slots to grant it additional shield HP.&lt;/p&gt;
+
+&lt;p&gt;It also mounts two &lt;code&gt;EM Ward Amplifier I&lt;/code&gt; and a &lt;code&gt;Thermal Dissipation Amplifier I&lt;/code&gt;
+to enhance its shield&amp;rsquo;s damage resistance.&lt;/p&gt;
+
+&lt;p&gt;It also fits a &lt;code&gt;Damage Control I&lt;/code&gt; in a low slot to increase its resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;10MN Afterburner I&lt;/code&gt; provides your ship with additional speed.  (Note
+that this is a cruiser-sized module, not the 1MN afterburners used on frigates and destroyers!)&lt;/p&gt;
+
+&lt;h3 id=&#34;rigs&#34;&gt;Rigs&lt;/h3&gt;
+
+&lt;p&gt;Rigs are passive modifications to a ship, trading off one attribute against another.
+Unlike modules, rigs cannot be removed without being destroyed.
+As a starter fit, this fit makes limited use of rigging, since many &amp;ldquo;optimal&amp;rdquo; rigs
+are often relatively expensive and may be difficult to find near your starter station.&lt;/p&gt;
+
+&lt;p&gt;The starter fit does not use or require any rigs.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-fly&#34;&gt;How To Fly&lt;/h3&gt;
+
+&lt;p&gt;The Badger is an industrial ship.  It should be primarily hauling goods from one
+station to another, sticking to safe space and avoiding combat.&lt;/p&gt;
+
+&lt;p&gt;When moving between stations, you should always fly your Industrial directly from
+gate to gate, and jump immediately upon landing.  Do not use your Autopilot,
+as it will land you a substantial distance from the gate, making it easy for other players
+to scan your cargo for valuables and plan a potential attack.&lt;/p&gt;
+
+&lt;p&gt;Industrials are very slow, and sluggish to get into warp.  To improve this,
+after clicking &amp;ldquo;Warp&amp;rdquo; on a destination, you can activate your Afterburner for a single cycle
+(click it so that it glows green, then immediately click it again so it glows red).
+The additional acceleration will help you get up to warp speed faster.
+(Leaving the afterburner on will make it take longer, as the speed required
+to enter warp is 75% of your &lt;em&gt;current&lt;/em&gt; maximum speed.)&lt;/p&gt;
+
+&lt;div class=&#34;notices warning&#34; &gt;&lt;p&gt;You should not take an Industrial ship outside of high-security space (0.5 and up).
+If you join a low-security, null-security or wormhole corporation and live in their space,
+ask them for assistance if you need to do anything requiring an Industrial ship.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;future-improvements&#34;&gt;Future Improvements&lt;/h2&gt;
+
+&lt;p&gt;The above fit should be usable with starting skills unless otherwise noted,
+and it uses relatively cheap and widely-available modules.&lt;/p&gt;
+
+&lt;p&gt;As you accumulate skill points and ISK, you will be able to fit more potent
+modules to your ship, increasing its effectiveness.  These modules may not be
+readily available outside of trade hubs, but it can be worth the trip.&lt;/p&gt;
+
+&lt;p&gt;We recommend working towards the following improved fit:&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118483/svg/118483-alpha-clone---improved-badger.svg?privatetoken=1050794835939688448&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118483/1050794835939688448&#34;&gt;View Alpha Clone - Improved Badger on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;p&gt;The improved fit will require the training of the following skills to use all installed equipment:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Hull Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Shield Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The improved fit replaces the shield resistance rigs with three &lt;code&gt;Medium Cargohold Optimization I&lt;/code&gt;
+for additional cargo capacity.  Combined with the upgrade to &lt;code&gt;Expanded Cargohold II&lt;/code&gt; modules,
+this increases its cargo bay to 12908.6 m3 - enough for five frigates, two destroyers, or a cruiser,
+with room to spare for their fittings and ammunition.&lt;/p&gt;
+
+&lt;p&gt;It replaces one of the EM resistance modules with a &lt;code&gt;Limited Adaptive Invulnerability Field I&lt;/code&gt;
+for better across-the-board resistances.  Note that this module must be activated manually;
+turn it on after each jump while travelling through highly-trafficked areas.&lt;/p&gt;
+
+&lt;p&gt;Nearly every module has been improved to a &amp;ldquo;meta&amp;rdquo; version, requiring less fitting space
+and granting improved effectiveness, but costing more ISK and/or being less widely available,
+or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Propulsion: &lt;code&gt;10MN Y-S8 Compact Afterburner&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Shield Extender: &lt;code&gt;Large Shield Extender II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Shield Extender: &lt;code&gt;Medium Shield Extender II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Resists: &lt;code&gt;EM Ward Amplifier II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Resists: &lt;code&gt;Thermal Dissipation Amplifier II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Control: &lt;code&gt;Damage Control II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Expanded Cargohold: 3x &lt;code&gt;Expanded Cargohold II&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -821,7 +1076,125 @@ or a t2 version, which costs more ISK, requires more skillpoints, and is harder 
       <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
       
       <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/minmatar/breacher/</guid>
-      <description>&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118525/svg/118525-alpha-clone---starter-breacher.svg?privatetoken=3731824593036378112&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118525/3731824593036378112&#34;&gt;View Alpha Clone - Starter Breacher on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118525/svg/118525-alpha-clone---starter-breacher.svg?privatetoken=3731824593036378112&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118525/3731824593036378112&#34;&gt;View Alpha Clone - Starter Breacher on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;This is a missile ship.  You will need to train at least &lt;strong&gt;&lt;code&gt;Rockets&lt;/code&gt; Level I&lt;/strong&gt;
+before you will be able to use its weapons.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+&lt;p&gt;The Breacher uses 3 &lt;code&gt;Rocket Launcher I&lt;/code&gt; launchers.
+Rockets are the &amp;ldquo;short-ranged&amp;rdquo; missile system, dealing more damage with better application to small ships
+than the longer-ranged light missiles.  They also fire much more rapidly.&lt;/p&gt;
+
+&lt;p&gt;The launchers are loaded with &lt;code&gt;Nova Rocket&lt;/code&gt; ammunition.
+Its Explosive damage is well-suited to defeating the Angel pirates
+most commonly encountered in Minmatar space.
+You should keep about 1000 spare rockets in your cargohold.&lt;/p&gt;
+
+&lt;p&gt;Additionally, this fit uses a &lt;code&gt;Ballistic Control System I&lt;/code&gt; in a low slot.
+This passively increases the damage output and rate of fire of its rockets.&lt;/p&gt;
+
+&lt;p&gt;It also fits a &lt;code&gt;Missile Guidance Enhancer I&lt;/code&gt; in a low slot.
+This passively increases the range and precision of its rockets.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;This ship uses a &lt;code&gt;Medium Shield Booster I&lt;/code&gt; in one of the mid slots to repair incoming damage.
+The capacitor consumption of this module is very high, so it should be used sparingly.&lt;/p&gt;
+
+&lt;p&gt;It also fits a &lt;code&gt;Damage Control I&lt;/code&gt; to increase its resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;1MN Afterburner I&lt;/code&gt; provides your ship with additional speed. This both makes it easier to
+catch enemy ships and also makes your ship harder to hit.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Stasis Webifier I&lt;/code&gt; helps your rockets apply their damage better.
+(It also makes it easier to stay in range of the slower enemies.)&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Small Capacitor Booster I&lt;/code&gt; can provide your ship with an instant injection of Capacitor.
+This module must be fueled by charges, which act as consumable batteries.  Load it with
+&lt;code&gt;Cap Booster 200&lt;/code&gt; bought from the market, and bring along as many spares as you can carry (about 10).&lt;/p&gt;
+
+&lt;h3 id=&#34;rigs&#34;&gt;Rigs&lt;/h3&gt;
+
+&lt;p&gt;Rigs are passive modifications to a ship, trading off one attribute against another.
+Unlike modules, rigs cannot be removed without being destroyed.
+As a starter fit, this fit makes limited use of rigging, since many &amp;ldquo;optimal&amp;rdquo; rigs
+are often relatively expensive and may be difficult to find near your starter station.&lt;/p&gt;
+
+&lt;p&gt;This ship is fit with two &lt;code&gt;Small Anti-EM Screen Reinforcer I&lt;/code&gt; rigs
+and one &lt;code&gt;Small Anti-Thermal Screen Reinforcer I&lt;/code&gt; rig, to improve the shields&amp;rsquo; resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-fly&#34;&gt;How To Fly&lt;/h3&gt;
+
+&lt;p&gt;This is designed as a brawling fit.  Fly in close to your targets
+and begin orbiting them at about 500m, applying your web to slow them down.&lt;/p&gt;
+
+&lt;p&gt;This ship has a Capacitor Booster.  As the charges for it are quite bulky,
+you can carry only a limited number.  Try to save the Booster charges for emergencies
+when you need the extra capacitor to run your repair module continuously.
+Under normal circumstances, use your repper sparingly, off your ship&amp;rsquo;s base capacitor.
+Keep an eye on your capacitor, and try not to let it go below about 25%.&lt;/p&gt;
+
+&lt;p&gt;As always, if the incoming damage is proving too much for your ship
+and you&amp;rsquo;re beginning to take structure damage, warp out.&lt;/p&gt;
+
+&lt;h2 id=&#34;future-improvements&#34;&gt;Future Improvements&lt;/h2&gt;
+
+&lt;p&gt;The above fit should be usable with starting skills unless otherwise noted,
+and it uses relatively cheap and widely-available modules.&lt;/p&gt;
+
+&lt;p&gt;As you accumulate skill points and ISK, you will be able to fit more potent
+modules to your ship, increasing its effectiveness.  These modules may not be
+readily available outside of trade hubs, but it can be worth the trip.&lt;/p&gt;
+
+&lt;p&gt;We recommend working towards the following improved fit:&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118527/svg/118527-alpha-clone---improved-breacher.svg?privatetoken=5891712325630558208&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118527/5891712325630558208&#34;&gt;View Alpha Clone - Improved Breacher on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;p&gt;The improved fit will require the training of the following skills to use all installed equipment:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Rockets&lt;/code&gt; Level I&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Hull Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Weapon Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Drones&lt;/code&gt; Level III&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Light Drone Operation&lt;/code&gt; Level I&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;Your character starts with very low missile skills.  If you intend to continue
+using missile ships, we recommend focusing your training on some
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/training/combat/#missile-skills&#34;&gt;missile support skills&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Once you have the skills to use them, you should fill your Drone Bay with Combat Drones.
+&lt;code&gt;Hobgoblin I&lt;/code&gt; drones have the most damage output, while &lt;code&gt;Warrior I&lt;/code&gt; drones have the most speed.&lt;/p&gt;
+
+&lt;p&gt;The improved fit replaces the anti-Thermal rig and one anti-EM rig with two
+&lt;code&gt;Small Core Defense Capacitor Safeguard I&lt;/code&gt;.  These reduce the capacitor cost
+of running the shield booster, allowing its use to be sustained for longer.&lt;/p&gt;
+
+&lt;p&gt;Nearly every module has been improved to a &amp;ldquo;meta&amp;rdquo; version, requiring less fitting space
+and granting improved effectiveness, but costing more ISK and/or being less widely available,
+or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Propulsion: &lt;code&gt;1MN Monopropellant Enduring Afterburner&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Launchers: 3x &lt;code&gt;&#39;Arbalest&#39; Rocket Launcher I&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Web: &lt;code&gt;X5 Enduring Stasis Webifier&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Injector: &lt;code&gt;Small Electrochemical Capacitor Booster I&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Shield Booster: &lt;code&gt;Medium Clarity Ward Booster I&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Control: &lt;code&gt;Damage Control II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Mod: &lt;code&gt;Ballistic Control System II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Application Mod: &lt;code&gt;Missile Guidance Enhancer II&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -1055,7 +1428,144 @@ or a t2 version, which costs more ISK, requires more skillpoints, and is harder 
       <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
       
       <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/condor/</guid>
-      <description>&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118484/svg/118484-alpha-clone---starter-condor.svg?privatetoken=546979529847996416&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118484/546979529847996416&#34;&gt;View Alpha Clone - Starter Condor on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118484/svg/118484-alpha-clone---starter-condor.svg?privatetoken=546979529847996416&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118484/546979529847996416&#34;&gt;View Alpha Clone - Starter Condor on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;This is a missile ship.  You will need to train at least &lt;strong&gt;&lt;code&gt;Missile Launcher Operation&lt;/code&gt; Level II&lt;/strong&gt;
+and &lt;strong&gt;&lt;code&gt;Light Missiles&lt;/code&gt; Level I&lt;/strong&gt; before you will be able to use its weapons.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+&lt;p&gt;The Condor uses 3 &lt;code&gt;Light Missile Launcher I&lt;/code&gt; launchers.
+Light Missiles are the &amp;ldquo;long-ranged&amp;rdquo; missile system, reaching to a much longer range
+than Rockets and dealing more damage per strike, but firing much more slowly,
+requiring more fitting space, and dealing less overall damage over time with poorer application to small targets.&lt;/p&gt;
+
+&lt;p&gt;The launchers are loaded with &lt;code&gt;Scourge Light Missile&lt;/code&gt; ammunition.
+As the Condor&amp;rsquo;s bonus to missile damage applies only to Kinetic damage
+such as that dealt by Scourge missiles, you should nearly always use this ammunition.
+Additionally, its Kinetic damage is well-suited to defeating the Guristas pirates
+most commonly encountered in Caldari space.
+You should keep about 500 spare missiles in your cargohold.&lt;/p&gt;
+
+&lt;p&gt;Additionally, this fit uses a &lt;code&gt;Ballistic Control System I&lt;/code&gt; in a low slot.
+This passively increases the damage output and rate of fire of its missiles.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;This ship uses a &lt;code&gt;Small Shield Booster I&lt;/code&gt; in one of the mid slots to repair incoming damage.&lt;/p&gt;
+
+&lt;p&gt;It also fits a &lt;code&gt;Damage Control I&lt;/code&gt; to increase its resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;1MN Afterburner I&lt;/code&gt; provides your ship with additional speed. This both makes it easier to
+catch enemy ships and also makes your ship harder to hit.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Small Capacitor Booster I&lt;/code&gt; can provide your ship with an instant injection of Capacitor.
+This module must be fueled by charges, which act as consumable batteries.  Load it with
+&lt;code&gt;Cap Booster 200&lt;/code&gt; bought from the market, and bring along as many spares as you can carry (about 10).&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Stasis Webifier I&lt;/code&gt; helps your missiles apply their damage better to the slower targets.
+It also allows you to hold an enemy at bay while you stay at range.&lt;/p&gt;
+
+&lt;h3 id=&#34;rigs&#34;&gt;Rigs&lt;/h3&gt;
+
+&lt;p&gt;Rigs are passive modifications to a ship, trading off one attribute against another.
+Unlike modules, rigs cannot be removed without being destroyed.
+As a starter fit, this fit makes limited use of rigging, since many &amp;ldquo;optimal&amp;rdquo; rigs
+are often relatively expensive and may be difficult to find near your starter station.&lt;/p&gt;
+
+&lt;p&gt;This ship is fit with two &lt;code&gt;Small Anti-EM Screen Reinforcer I&lt;/code&gt; rigs
+and one &lt;code&gt;Small Anti-Thermal Screen Reinforcer I&lt;/code&gt; rig, to improve the shields&amp;rsquo; resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-fly&#34;&gt;How To Fly&lt;/h3&gt;
+
+&lt;p&gt;This is designed as a long-range sniping fit.  Stay at range from your targets,
+ideally about 15km, and lob missiles at them from out of range of their return fire.
+The fit is rather fragile, and is not designed to tank incoming fire for extended periods;
+if you are being overwhelmed, retreat to range and pick off pursuers one by one.&lt;/p&gt;
+
+&lt;p&gt;This ship has a Capacitor Booster.  As the charges for it are quite bulky,
+you can carry only a limited number.  Try to save the Booster charges for emergencies
+when you need the extra capacitor to run your repair module continuously.
+Under normal circumstances, use your repper sparingly, off your ship&amp;rsquo;s base capacitor.
+Keep an eye on your capacitor, and try not to let it go below about 25%.&lt;/p&gt;
+
+&lt;p&gt;As always, if the incoming damage is proving too much for your ship
+and you&amp;rsquo;re beginning to take structure damage, warp out.&lt;/p&gt;
+
+&lt;h2 id=&#34;future-improvements&#34;&gt;Future Improvements&lt;/h2&gt;
+
+&lt;p&gt;The above fit should be usable with starting skills unless otherwise noted,
+and it uses relatively cheap and widely-available modules.&lt;/p&gt;
+
+&lt;p&gt;As you accumulate skill points and ISK, you will be able to fit more potent
+modules to your ship, increasing its effectiveness.  These modules may not be
+readily available outside of trade hubs, but it can be worth the trip.&lt;/p&gt;
+
+&lt;p&gt;We recommend working towards the following improved fit:&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118485/svg/118485-alpha-clone---improved-condor.svg?privatetoken=1178552409140494336&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118485/1178552409140494336&#34;&gt;View Alpha Clone - Improved Condor on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;p&gt;The improved fit will require the training of the following skills to use all installed equipment:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Weapon Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Hull Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Energy Grid Upgrades&lt;/code&gt; Level III&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Missile Bombardment&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;Your character starts with very low missile skills.  If you intend to continue
+using missile ships, we recommend focusing your training on some
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/training/combat/#missile-skills&#34;&gt;missile support skills&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;The improved fit uses a &lt;code&gt;5MN Quad LiF Restrained Microwarpdrive&lt;/code&gt; rather than an Afterburner.
+An MWD takes a large amount of capacitor to run,
+and causes a large increase to your ship&amp;rsquo;s signature radius,
+meaning that unlike the Afterburner, it is not useful for evading enemy fire.
+However, it provides a massively increased speed bonus.&lt;/p&gt;
+
+&lt;p&gt;You should activate the MWD only when moving to a new position or enemy,
+and disable it once you have arrived.&lt;/p&gt;
+
+&lt;p&gt;The improved fit removes the Capacitor Booster, so that pilots are not required to restock on bulky Cap Booster charges or spend as much manual effort on managing their capacitor.&lt;/p&gt;
+
+&lt;p&gt;To compensate for the loss of the Capacitor Booster, the ship replaces the anti-EM and anti-Thermal rigs
+with two &lt;code&gt;Small Capacitor Control Circuit I&lt;/code&gt; rigs, and adds a &lt;code&gt;Cap Recharger II&lt;/code&gt;, enhancing
+its passive capacitor recharge.  Remember that this fit is designed to outrange its enemies,
+and should use its shield booster sparingly.  Keep an eye on your capacitor, and try
+not to let it dip below 25%.&lt;/p&gt;
+
+&lt;p&gt;The improved fit removes the Stasis Webifier, as the web is unable to reach out to maximum missile range.
+It is replaced with a &lt;code&gt;Missile Guidance Computer II&lt;/code&gt;, improving the range and precision of its missiles.
+This module should be activated before beginning combat, and left on indefinitely.&lt;/p&gt;
+
+&lt;p&gt;The Missile Guidance Computer is loaded with a &lt;code&gt;Missile Range Script&lt;/code&gt;, to double the range
+bonus at the expense of losing the precision bonus.  This script is not consumed by use,
+so you only need one.  It can be swapped for a &lt;code&gt;Missile Precision Script&lt;/code&gt; for better damage application
+against small targets at closer range if desired.&lt;/p&gt;
+
+&lt;p&gt;The increased range from the MGC, combined with the Missile Bombardment skill required to equip it,
+will greatly increase your maximum range.  Once you are flying the full Improved fit,
+you should increase your fighting range to about 25-30km.&lt;/p&gt;
+
+&lt;p&gt;Nearly every module has been improved to a &amp;ldquo;meta&amp;rdquo; version, requiring less fitting space
+and granting improved effectiveness, but costing more ISK and/or being less widely available,
+or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Guns: 3x &lt;code&gt;Arbalest Compact Light Missile Launcher&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Shield Booster: &lt;code&gt;Small Shield Booster II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Control: &lt;code&gt;Damage Control II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Mod: &lt;code&gt;Ballistic Control System II&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -1065,7 +1575,108 @@ or a t2 version, which costs more ISK, requires more skillpoints, and is harder 
       <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
       
       <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/caldari/corax/</guid>
-      <description>&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118658/svg/118658-alpha-clone---starter-corax.svg?privatetoken=196222959671574528&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118658/196222959671574528&#34;&gt;View Alpha Clone - Starter Corax on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118658/svg/118658-alpha-clone---starter-corax.svg?privatetoken=196222959671574528&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118658/196222959671574528&#34;&gt;View Alpha Clone - Starter Corax on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;This is a missile ship.  You will need to train at least &lt;strong&gt;&lt;code&gt;Rockets&lt;/code&gt; Level I&lt;/strong&gt; before you will be able to use its weapons.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+&lt;p&gt;The Corax uses 3 &lt;code&gt;Rocket Launcher I&lt;/code&gt; launchers.
+Rockets are the &amp;ldquo;short-ranged&amp;rdquo; missile system, dealing more damage with better application to small ships
+than the longer-ranged light missiles.  They also fire much more rapidly.&lt;/p&gt;
+
+&lt;p&gt;The rockets are loaded with &lt;code&gt;Scourge Rocket&lt;/code&gt; ammunition.
+As the Condor&amp;rsquo;s bonus to missile damage applies only to Kinetic damage
+such as that dealt by Scourge missiles, you should nearly always use this ammunition.
+Additionally, its Kinetic damage is well-suited to defeating the Guristas pirates
+most commonly encountered in Caldari space.
+You should keep about 2000 spare rockets in your cargohold.&lt;/p&gt;
+
+&lt;p&gt;Additionally, this fit uses a &lt;code&gt;Ballistic Control System I&lt;/code&gt; in a low slot.
+This passively increases the damage output and rate of fire of its rockets.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;This ship uses a &lt;code&gt;Small Shield Booster I&lt;/code&gt; in one of the mid slots to repair incoming damage.&lt;/p&gt;
+
+&lt;p&gt;It also fits a &lt;code&gt;Damage Control I&lt;/code&gt; and an &lt;code&gt;EM Ward Amplifier I&lt;/code&gt; to increase its resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;1MN Afterburner I&lt;/code&gt; provides your ship with additional speed. This both makes it easier to
+catch enemy ships and also makes your ship harder to hit.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Stasis Webifier I&lt;/code&gt; helps your rockets apply their damage better.
+(It also makes it easier to stay in range of the slower enemies.)&lt;/p&gt;
+
+&lt;h3 id=&#34;rigs&#34;&gt;Rigs&lt;/h3&gt;
+
+&lt;p&gt;Rigs are passive modifications to a ship, trading off one attribute against another.
+Unlike modules, rigs cannot be removed without being destroyed.
+As a starter fit, this fit makes limited use of rigging, since many &amp;ldquo;optimal&amp;rdquo; rigs
+are often relatively expensive and may be difficult to find near your starter station.&lt;/p&gt;
+
+&lt;p&gt;This ship is fit with one &lt;code&gt;Small Anti-EM Screen Reinforcer I&lt;/code&gt; rig,
+one &lt;code&gt;Small Anti-Thermal Screen Reinforcer I&lt;/code&gt; rig,
+and one &lt;code&gt;Small Anti-Kinetic Screen Reinforcer I&lt;/code&gt; rig,
+to improve the shields&amp;rsquo; resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-fly&#34;&gt;How To Fly&lt;/h3&gt;
+
+&lt;p&gt;This is designed as a brawling fit.  Fly in close to your targets
+and begin orbiting them at about 500m, applying your web to slow them down.&lt;/p&gt;
+
+&lt;p&gt;As always, if the incoming damage is proving too much for your ship
+and you&amp;rsquo;re beginning to take structure damage, warp out.&lt;/p&gt;
+
+&lt;h2 id=&#34;future-improvements&#34;&gt;Future Improvements&lt;/h2&gt;
+
+&lt;p&gt;The above fit should be usable with starting skills unless otherwise noted,
+and it uses relatively cheap and widely-available modules.&lt;/p&gt;
+
+&lt;p&gt;As you accumulate skill points and ISK, you will be able to fit more potent
+modules to your ship, increasing its effectiveness.  These modules may not be
+readily available outside of trade hubs, but it can be worth the trip.&lt;/p&gt;
+
+&lt;p&gt;We recommend working towards the following improved fit:&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118660/svg/118660-alpha-clone---improved-corax.svg?privatetoken=2275141002433921024&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118660/2275141002433921024&#34;&gt;View Alpha Clone - Improved Corax on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;p&gt;The improved fit will require the training of the following skills to use all installed equipment:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Weapon Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Hull Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Energy Grid Upgrades&lt;/code&gt; Level III&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;Your character starts with very low missile skills.  If you intend to continue
+using missile ships, we recommend focusing your training on some
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/training/combat/#missile-skills&#34;&gt;missile support skills&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;The improved fit replaces the anti-Thermal and anti-Kinetic rigs
+with two &lt;code&gt;Small Capacitor Control Circuit I&lt;/code&gt; rigs, and the
+EM Ward Amplifier with a &lt;code&gt;Cap Recharger II&lt;/code&gt;.  These weaken
+the ship&amp;rsquo;s raw defenses, but allow its shield booster to be used almost continuously.&lt;/p&gt;
+
+&lt;p&gt;Nearly every module has been improved to a &amp;ldquo;meta&amp;rdquo; version, requiring less fitting space
+and granting improved effectiveness, but costing more ISK and/or being less widely available,
+or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Propulsion: &lt;code&gt;1MN Monopropellant Enduring Afterburner&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Guns: 7x &lt;code&gt;&#39;Arbalest&#39; Rocket Launcher I&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Shield Booster: &lt;code&gt;Small Shield Booster II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Web: &lt;code&gt;X5 Enduring Stasis Webifier&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Control: &lt;code&gt;Damage Control II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Mod: &lt;code&gt;Ballistic Control System II&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -1195,7 +1806,136 @@ or a t2 version, which costs more ISK, requires more skillpoints, and is harder 
       <pubDate>Fri, 18 Nov 2016 17:33:01 -0800</pubDate>
       
       <guid>https://iviguera.github.io/alpha-guide/upgrading-ships/amarr/dragoon/</guid>
-      <description>&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118662/svg/118662-alpha-clone---starter-dragoon.svg?privatetoken=7996869113878151168&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118662/7996869113878151168&#34;&gt;View Alpha Clone - Starter Dragoon on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118662/svg/118662-alpha-clone---starter-dragoon.svg?privatetoken=7996869113878151168&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118662/7996869113878151168&#34;&gt;View Alpha Clone - Starter Dragoon on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;This is a drone ship.  You will need to train at least &lt;strong&gt;&lt;code&gt;Drones&lt;/code&gt; Level III&lt;/strong&gt;
+and &lt;strong&gt;&lt;code&gt;Light Drone Operation&lt;/code&gt; Level I&lt;/strong&gt; before you will be able to use its primary armament.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;weapons&#34;&gt;Weapons&lt;/h3&gt;
+
+&lt;p&gt;The Dragoon&amp;rsquo;s primary armament is its flight of up to five Combat Drones.
+&lt;code&gt;Hobgoblin I&lt;/code&gt; drones deal the most damage, while &lt;code&gt;Warrior I&lt;/code&gt; drones have the highest speed.
+To fill your drone bay, you should acquire fifteen light combat drones.&lt;/p&gt;
+
+&lt;p&gt;Additionally, it uses 3 &lt;code&gt;Small Focused Pulse Laser I&lt;/code&gt; turrets as a secondary weapon.
+Pulse lasers are the &amp;ldquo;short-ranged&amp;rdquo; laser system, dealing more damage with better tracking
+than the longer-ranged beam lasers.&lt;/p&gt;
+
+&lt;p&gt;The pulse lasers are each loaded with a single &lt;code&gt;Multifrequency S&lt;/code&gt; crystal.
+These basic crystals will never burn out, so you will only need to buy three.
+Multifrequency is the shortest-ranged basic crystal, but does the most damage.
+Since you&amp;rsquo;re going to be fighting at close range anyway, more damage is good.&lt;/p&gt;
+
+&lt;p&gt;Additionally, this fit uses two &lt;code&gt;Drone Damage Amplifier I&lt;/code&gt; in its low slots.
+These passively increase the damage output of its drones.&lt;/p&gt;
+
+&lt;h3 id=&#34;defenses&#34;&gt;Defenses&lt;/h3&gt;
+
+&lt;p&gt;This ship uses a &lt;code&gt;Small Armor Repairer I&lt;/code&gt; in one of the low slots to repair incoming damage.&lt;/p&gt;
+
+&lt;p&gt;It also fits a &lt;code&gt;Damage Control I&lt;/code&gt; in a low slot to increase its resistance to damage.&lt;/p&gt;
+
+&lt;h3 id=&#34;utility&#34;&gt;Utility&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;1MN Afterburner I&lt;/code&gt; provides your ship with additional speed. This both makes it easier to
+catch enemy ships and also makes your ship harder to hit.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Small Capacitor Booster I&lt;/code&gt; can provide your ship with an instant injection of Capacitor.
+This module must be fueled by charges, which act as consumable batteries.  Load it with
+&lt;code&gt;Cap Booster 200&lt;/code&gt; bought from the market, and bring along as many spares as you can carry (about 30-40).&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Salvager I&lt;/code&gt; allows you to salvage any Wrecks you come across for valuable materials.
+While you should not delay combat to stop and salvage wrecks without a more specialized salvage ship,
+it can provide some side income by salvaging wrecks while your drones continue engaging targets.&lt;/p&gt;
+
+&lt;h3 id=&#34;rigs&#34;&gt;Rigs&lt;/h3&gt;
+
+&lt;p&gt;Rigs are passive modifications to a ship, trading off one attribute against another.
+Unlike modules, rigs cannot be removed without being destroyed.
+As a starter fit, this fit makes limited use of rigging, since many &amp;ldquo;optimal&amp;rdquo; rigs
+are often relatively expensive and may be difficult to find near your starter station.&lt;/p&gt;
+
+&lt;p&gt;Three &lt;code&gt;Small Auxiliary Nano Pump I&lt;/code&gt; rigs increase the effectiveness and efficiency of your Armor Repairer.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-fly&#34;&gt;How To Fly&lt;/h3&gt;
+
+&lt;p&gt;This is designed as a droneboat fit.  Let your drones fly in from long range and destroy
+the targets while you remain safely out of harm&amp;rsquo;s way.  Use your lasers on enemies
+that slip past the drones and get close to you, at about 2500m range.  Keep an eye on your drones&amp;rsquo; HP,
+and command them to return to your drone bay if they&amp;rsquo;re taking enemy fire.&lt;/p&gt;
+
+&lt;p&gt;This ship has a Capacitor Booster.  As the charges for it are quite bulky,
+you can carry only a limited number.  Try to save the Booster charges for emergencies
+when you need the extra capacitor to run your repair module continuously.
+Under normal circumstances, use your repper sparingly, off your ship&amp;rsquo;s base capacitor.
+Keep an eye on your capacitor, and try not to let it go below about 25%.&lt;/p&gt;
+
+&lt;p&gt;As always, if the incoming damage is proving too much for your ship
+and you&amp;rsquo;re beginning to take structure damage, warp out.&lt;/p&gt;
+
+&lt;h2 id=&#34;future-improvements&#34;&gt;Future Improvements&lt;/h2&gt;
+
+&lt;p&gt;The above fit should be usable with starting skills unless otherwise noted,
+and it uses relatively cheap and widely-available modules.&lt;/p&gt;
+
+&lt;p&gt;As you accumulate skill points and ISK, you will be able to fit more potent
+modules to your ship, increasing its effectiveness.  These modules may not be
+readily available outside of trade hubs, but it can be worth the trip.&lt;/p&gt;
+
+&lt;p&gt;We recommend working towards the following improved fit:&lt;/p&gt;
+
+&lt;p&gt;&lt;object type=&#34;image/svg+xml&#34; data=&#34;https://o.smium.org/api/convert/118663/svg/118663-alpha-clone---improved-dragoon.svg?privatetoken=4464276976982556672&#34;&gt;&lt;a href=&#34;https://o.smium.org/loadout/private/118663/4464276976982556672&#34;&gt;View Alpha Clone - Improved Dragoon on Osmium&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;p&gt;The improved fit will require the training of the following skills to use all installed equipment:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Weapon Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Hull Upgrades&lt;/code&gt; Level IV&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Capacitor Emission Systems&lt;/code&gt; Level I&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Drone Avionics&lt;/code&gt; Level III&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Drones&lt;/code&gt; Level V&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Light Drone Operation&lt;/code&gt; Level I&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;Your character starts with very low drone skills.  If you intend to continue
+using drone ships, we recommend focusing your training on some
+&lt;a href=&#34;https://iviguera.github.io/alpha-guide/training/combat/#drone-combat-skills&#34;&gt;drone support skills&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;The largest change to the improved fit is the loss of the Capacitor Booster,
+so that pilots are not required to restock on bulky Cap Booster charges or spend
+as much manual effort on managing their capacitor.&lt;/p&gt;
+
+&lt;p&gt;In place of the Capacitor Booster, it fits a &lt;code&gt;Fleeting Compact Stasis Webifier&lt;/code&gt;
+to slow down nearby targets for its lasers.  One of the rigs is replaced with a
+&lt;code&gt;Small Capacitor Control Circuit I&lt;/code&gt; to help compensate.&lt;/p&gt;
+
+&lt;p&gt;Additionally, with improved skills, the options for the utility highslots are expanded.
+The improved fit replaces the Salvager with a &lt;code&gt;Drone Link Augmentor I&lt;/code&gt;, letting you command
+your drones at substantially longer range (in this case, to the ship&amp;rsquo;s maximum lockrange).&lt;/p&gt;
+
+&lt;p&gt;It also adds a &lt;code&gt;Small Ghoul Compact Energy Nosferatu&lt;/code&gt;, which can be used to drain capacitor
+from enemy ships and add to your own, if your capacitor is strained by your repair module.&lt;/p&gt;
+
+&lt;p&gt;The additional CPU cost of these modules requires us to replace one of the Drone Damage Amplifiers
+with a &lt;code&gt;&#39;Refuge&#39; Adaptive Nano Plating I&lt;/code&gt;, offering additional armor resistance.&lt;/p&gt;
+
+&lt;p&gt;Nearly every module has been improved to a &amp;ldquo;meta&amp;rdquo; version, requiring less fitting space
+and granting improved effectiveness, but costing more ISK and/or being less widely available,
+or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Guns: 3x &lt;code&gt;Dual Modulated Pulse Energy Beam I&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Propulsion: &lt;code&gt;1MN Monopropellant Enduring Afterburner&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Control: &lt;code&gt;Damage Control II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Armor Repairer: &lt;code&gt;Small Armor Repairer II&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Damage Mod: &lt;code&gt;Drone Damage Amplifier II&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

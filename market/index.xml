@@ -67,6 +67,38 @@ you can get there without having to go through low-security space (0.4 and below
 you might get ganked on the way. You can right-click on a particular seller and choose
 Location -&amp;gt; Set Destination to a set an autopilot course to it, and then look at the colored
 dots that the autopilot shows you: if any of them are orange or red, don&amp;rsquo;t buy from there.&lt;/p&gt;
+
+&lt;div class=&#34;notices tip&#34; &gt;&lt;p&gt;You can also click the gear icon at the top-right of the market window to set filters on the
+listings. For instance, you can uncheck the boxes for &amp;lsquo;Low Sec&amp;rsquo; and &amp;lsquo;Null Sec&amp;rsquo; to completely
+hide listings from lower security space.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h4 id=&#34;pick-a-seller-to-buy-from&#34;&gt;Pick a seller to buy from&lt;/h4&gt;
+
+&lt;p&gt;For very cheap items, it&amp;rsquo;s often worth it to buy it closer to avoid having to make extra jumps.
+For more expensive items, going a few more jumps to get a better price may be worth the time.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve chosen which seller you want to buy from, right-click the entry and choose &amp;lsquo;Buy&amp;rsquo;
+which will pop up a window asking how many items you want to purchase. Type in the quantity
+(or stick with the default of 1) and press &amp;lsquo;Buy&amp;rsquo;. Once you&amp;rsquo;ve bought an item, it will show
+up in the &lt;strong&gt;Item Hangar&lt;/strong&gt; of the station where you bought it. You will need to fly to that
+station (if not the one you&amp;rsquo;re currently in) and pick it up.&lt;/p&gt;
+
+&lt;p&gt;If you bought an item but can&amp;rsquo;t remember where, you can use the &lt;strong&gt;Assets&lt;/strong&gt; window
+(&lt;kbd&gt;Alt&lt;/kbd&gt;+&lt;kbd&gt;T&lt;/kbd&gt;) to look through everything you own in EVE and find the station.
+Note however that the Assets window only updates every 5 minutes, so you may need to wait a
+few minutes for it to show up there.&lt;/p&gt;
+
+&lt;div class=&#34;notices note&#34; &gt;&lt;p&gt;Markets in EVE are on a per-region basis. This means that depending on where you are in the galaxy
+you&amp;rsquo;ll see different sets of sellers. In your starter system, there are likely to be market listings
+for the basic modules you&amp;rsquo;ll want. More advanced items, however, are unlikely to be available at a
+reasonable price. If you&amp;rsquo;re looking for a particular item and can&amp;rsquo;t find any sellers, you may need
+to go to a different region to find people listing it for sale. The next page will talk a bit about
+some of the &amp;lsquo;market hubs&amp;rsquo; where you can buy almost anything. You can also use the player-run site
+&lt;a href=&#34;https://eve-central.com/&#34;&gt;EVE-Central&lt;/a&gt; to check what prices are like across all of EVE.&lt;/p&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -91,6 +123,13 @@ average station.&lt;/p&gt;
 
 &lt;p&gt;You can visit any of these hubs no matter the race of your character, but your starting system will likely be much
 closer to the market hubs in your own race&amp;rsquo;s space.&lt;/p&gt;
+
+&lt;div class=&#34;notices warning&#34; &gt;&lt;p&gt;When traveling to and from a distant trade hub, avoid low-security space. Sometimes the shortest
+route is through low security space; make sure your autopilot is set to take the &lt;strong&gt;safest&lt;/strong&gt;
+route instead. Hostile players often camp the &amp;ldquo;faster&amp;rdquo; low-security routes between trade hubs
+in hopes of getting easy kills.&lt;/p&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     

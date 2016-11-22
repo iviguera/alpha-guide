@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+
+<head>
+  <meta charset="utf-8"> <meta name="description" content="">
+
+ <link rel="shortcut icon" href="https://iviguera.github.io/alpha-guide/images/favicon.png" type="image/x-icon" />
+ 
+  <title>404 Page not found</title>
+  <link rel="stylesheet" href="https://iviguera.github.io/alpha-guide/css/overrides.css" id="override-css" />
+<script>
+(function() {
+  if(window.localStorage.getItem("dark") === "true") {
+    var stylesheet = document.getElementById("override-css");
+    var dark = document.createElement("link");
+    dark.rel = "stylesheet";
+    dark.href = "/css/overrides-dark.css";
+    stylesheet.parentElement.appendChild(dark);
+  }
+})();
+</script>
+
+  <link href="https://iviguera.github.io/alpha-guide/css/nucleus.css" rel="stylesheet">
+  <link href="https://iviguera.github.io/alpha-guide/css/font-awesome.min.css" rel="stylesheet">
+  <link href="https://iviguera.github.io/alpha-guide/css/hybrid.css" rel="stylesheet">
+  <link href="https://iviguera.github.io/alpha-guide/css/featherlight.min.css" rel="stylesheet">
+  <link href="https://iviguera.github.io/alpha-guide/css/perfect-scrollbar.min.css" rel="stylesheet">
+  <link href="https://iviguera.github.io/alpha-guide/css/theme.css" rel="stylesheet">
+  <link href="https://iviguera.github.io/alpha-guide/css/hugo-theme.css" rel="stylesheet">
+  <style type="text/css">
+    :root #header + #content > #left > #rlblock_left {
+      display: none !important;
+    }
+
+    p,
+    li,
+    ul {
+      text-align: center
+    }
+
+    ul {
+      list-style-type: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <body class="" data-url="/">
+
+    <section id="body" style="margin-left:0px;">
+      <div id="overlay"></div>
+      <div id="chapter">
+        <div id="body-inner">
+          <h1>Error </h1>
+          <p>
+          </p>
+          <p>Woops. Looks like this page doesn't exist.</p>
+          <p></p>
+          <p><a href="https://iviguera.github.io/alpha-guide/">Go to homepage</a></p>
+          <p><img src="https://iviguera.github.io/alpha-guide/images/gopher-404.jpg" style="width:50%"></img></p>
+        </div>
+      </div>
+
+    </section>
+  </body>
+
+</html>

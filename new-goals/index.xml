@@ -52,6 +52,32 @@ and hacking bonuses, like the exploration frigates from each faction.&lt;/p&gt;
 
 &lt;p&gt;The best relic sites are found in either nullsec or wormhole space, both of
 which are relatively dangerous areas of space but the potential payoff is large.&lt;/p&gt;
+
+&lt;div class=&#34;notices tip&#34; &gt;&lt;p&gt;Want to try wormhole exploration? See the &lt;a href=&#34;https://iviguera.github.io/alpha-guide/reference/wormholes/&#34;&gt;Your First Wormhole&lt;/a&gt;
+page.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;You can read more about exploration in the &lt;a href=&#34;http://wiki.eveuniversity.org/Exploration&#34;&gt;UniWiki &amp;lsquo;Exploration&amp;rsquo; article&lt;/a&gt;, and more about wormholes in the
+&lt;a href=&#34;http://wiki.eveuniversity.org/Wormholes&#34;&gt;UniWiki &amp;lsquo;Wormholes&amp;rsquo; article&lt;/a&gt;.
+If exploring in dangerous space, you may also want to read up on how to
+&lt;a href=&#34;http://wiki.eveuniversity.org/Bookmarks#Safe_Spots&#34;&gt;create safespot bookmarks&lt;/a&gt;
+and use your &lt;a href=&#34;http://wiki.eveuniversity.org/Directional_Scanner_Guide&#34;&gt;directional scanner&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;You will notice that many exploration guides mention cloaking devices. Alpha
+clones aren&amp;rsquo;t able to use cloaking devices, which means you will be a bit more
+vulnerable to attack. You&amp;rsquo;ll need to pay attention to your surroundings
+to avoid getting ganked while scanning and hacking.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;why&#34;&gt;Why&lt;/h3&gt;
+
+&lt;p&gt;Exploration can be an excellent source of income, particularly if you&amp;rsquo;re willing
+to brave the riskier areas of space such as nullsec and wormhole space. It&amp;rsquo;s also
+very good income relative to the amount of training required, as even a new pilot
+with basic scanning and hacking skills in a t1 frigate can potentially get the
+same loot as a high-skilled pilot.&lt;/p&gt;
 </description>
     </item>
     
@@ -244,6 +270,23 @@ station where you cannot dock, forcing you to fail the contract and forfeit your
 Red Frog Freight and Push Industries.  Many courier contracts are issued directly
 to the hauling corporations rather than through public contracts,
 so if space trucking is your thing, you may want to look into joining one of these groups.&lt;/p&gt;
+
+&lt;div class=&#34;notices warning&#34; &gt;&lt;p&gt;As noted in the Ganking section, other players can attack you in high-security space.
+Your best defense against this is to be aware, be alert, and never use autopilot,
+as it will leave you vulnerable for long periods while flying to the gates.
+Your second-best defense is to carry little enough value in your hold,
+and mount strong enough defenses, that you&amp;rsquo;re un-economical to attack.
+In an Industrial, a good rule of thumb is not to exceed 20 million ISK in value
+for each 10k EHP your ship has.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;why&#34;&gt;Why&lt;/h3&gt;
+
+&lt;p&gt;Hauling can provide a slow, but steady, stream of income
+while requiring a relatively small amount of player attention.
+Some also find it soothing to sail amongst the stars
+and watch the traffic of other players passing them by.&lt;/p&gt;
 </description>
     </item>
     
@@ -314,6 +357,27 @@ In general, you&amp;rsquo;ll want:&lt;/p&gt;
 &lt;li&gt;Cruisers/battlecruisers for Level 3 missions&lt;/li&gt;
 &lt;li&gt;A well-fit battlecruiser for Level 4 missions&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;div class=&#34;notices note&#34; &gt;&lt;p&gt;The only battlecruiser that alpha clones can use is the &lt;code&gt;Gnosis&lt;/code&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;You can read more on the &lt;a href=&#34;http://wiki.eveuniversity.org/Missions&#34;&gt;UniWiki &amp;lsquo;Missions&amp;rsquo; page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve received a mission from an agent, you can look it up in the
+&lt;a href=&#34;http://eve-survival.org/wikka.php?wakka=MissionReports&#34;&gt;EVE-Survival&lt;/a&gt;
+mission listings to get more details about what kind of dps you might face
+from enemies in the mission and which enemise may trigger more spawns.&lt;/p&gt;
+
+&lt;h3 id=&#34;why&#34;&gt;Why&lt;/h3&gt;
+
+&lt;p&gt;Mission running produces a fairly steady stream of ISK - the mission rewards
+will pay out a certain amount, plus you&amp;rsquo;ll also be paid the bounties for any
+hostile NPCs you killed.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;ll also be rewarded with loyalty points (LP) for the NPC corporation that
+is giving you the missions. These LP can be traded for items from the NPC corp&amp;rsquo;s
+Loyalty Point Store.&lt;/p&gt;
 </description>
     </item>
     
